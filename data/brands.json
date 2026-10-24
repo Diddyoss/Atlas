@@ -1,0 +1,225 @@
+[
+  {
+    "slug": "hammer-strength",
+    "name": "Hammer Strength",
+    "country": "USA",
+    "founded": 1989,
+    "status": "active",
+    "note": "Owned by Life Fitness since 1997.",
+    "website": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hammer-strength",
+    "blurb": "Founded by Gary Jones and Kim Wood around iso-lateral, plate-loaded leverage machines that follow natural strength curves. Hammer Strength became the default in collegiate weight rooms and hardcore gyms alike.",
+    "signature": "ISO-Lateral plate-loaded line"
+  },
+  {
+    "slug": "life-fitness",
+    "name": "Life Fitness",
+    "country": "USA",
+    "founded": 1977,
+    "status": "active",
+    "website": "https://www.lifefitness.com",
+    "blurb": "From the Lifecycle bike to full selectorized lines, Life Fitness is one of the largest commercial manufacturers. Its Insignia and Signature series are fixtures in big-box gyms worldwide.",
+    "signature": "Insignia & Signature selectorized series"
+  },
+  {
+    "slug": "panatta",
+    "name": "Panatta",
+    "country": "Italy",
+    "founded": 1975,
+    "status": "active",
+    "website": "https://www.panattasport.com",
+    "blurb": "Italian family manufacturer known for heavy, over-built plate-loaded machines and patented geometries such as the Super Hack Squat's tilting backrest. A favourite of the European bodybuilding scene.",
+    "signature": "Free Weight Special & Freeweight HP"
+  },
+  {
+    "slug": "newtech",
+    "name": "Newtech",
+    "country": "South Korea",
+    "founded": 2011,
+    "status": "active",
+    "website": "https://www.instagram.com/newtech_wellness/",
+    "blurb": "NewTech Wellness builds machines around extreme range of motion and deep stretch positions. The plate-loaded M Torture line and pin-loaded Advance line went global after its Olympia sponsorship.",
+    "signature": "M Torture plate-loaded line"
+  },
+  {
+    "slug": "prime-fitness",
+    "name": "Prime Fitness",
+    "country": "USA",
+    "founded": 2015,
+    "status": "active",
+    "website": "https://www.primefitnessusa.com",
+    "blurb": "Prime's SmartCam lets lifters change a machine's resistance profile between sets — shifting load toward the stretch, the mid-range or the contraction. It made Prime a cult brand among evidence-based coaches.",
+    "signature": "Evolution series with SmartCam"
+  },
+  {
+    "slug": "watson",
+    "name": "Watson",
+    "country": "United Kingdom",
+    "founded": 1998,
+    "status": "active",
+    "website": "https://www.watsongym.co.uk",
+    "blurb": "Hand-built in Frome, Somerset. Watson's Animal range and its pendulum squat are known for chunky steel, lifetime warranties and a no-nonsense, made-to-order approach.",
+    "signature": "Animal range"
+  },
+  {
+    "slug": "atlantis",
+    "name": "Atlantis",
+    "country": "Canada",
+    "founded": 1979,
+    "status": "active",
+    "website": "https://www.atlantisstrength.com",
+    "blurb": "Quebec-based manufacturer whose selectorized and plate-loaded machines are prized for self-aligning lever arms and very heavy load capacity. The standing lateral raise is a gym-floor icon.",
+    "signature": "Precision series & plate-loaded strength"
+  },
+  {
+    "slug": "nautilus",
+    "name": "Nautilus",
+    "country": "USA",
+    "founded": 1970,
+    "status": "active",
+    "note": "Commercial line now made by Core Health & Fitness. Classic Arthur Jones-era machines are listed under Vintage.",
+    "website": "https://www.corehandf.com/nautilus",
+    "blurb": "Arthur Jones' Nautilus invented the cam-matched machine and with it the modern gym floor. Today's Nautilus continues with the Inspiration, Impact and Leverage lines.",
+    "signature": "Cam-matched resistance (the original)"
+  },
+  {
+    "slug": "arsenal-strength",
+    "name": "Arsenal Strength",
+    "country": "USA",
+    "founded": 2011,
+    "status": "active",
+    "website": "https://www.arsenalstrength.com",
+    "blurb": "Alabama manufacturer that grew out of bodybuilding gyms. Arsenal's Reloaded and Alpha lines are known for aggressive styling and big, stretch-focused leg machines.",
+    "signature": "Reloaded plate-loaded line"
+  },
+  {
+    "slug": "gym80",
+    "name": "Gym80",
+    "country": "Germany",
+    "founded": 1980,
+    "status": "active",
+    "website": "https://www.gym80.de",
+    "blurb": "German engineering applied to iron. Gym80's Pure Kraft plate-loaded and Sygnum selectorized lines are built to tight tolerances with very smooth bearings.",
+    "signature": "Pure Kraft"
+  },
+  {
+    "slug": "matrix",
+    "name": "Matrix",
+    "country": "USA / Taiwan",
+    "founded": 2001,
+    "status": "active",
+    "website": "https://www.matrixfitness.com",
+    "blurb": "Johnson Health Tech's commercial brand. The Ultra selectorized line and Magnum racks and plate-loaded pieces are common in performance facilities.",
+    "signature": "Ultra & Magnum"
+  },
+  {
+    "slug": "technogym",
+    "name": "Technogym",
+    "country": "Italy",
+    "founded": 1983,
+    "status": "active",
+    "website": "https://www.technogym.com",
+    "blurb": "Italian design-led manufacturer and official supplier to multiple Olympic Games. The Selection and Pure Strength lines pair polished ergonomics with digital tracking.",
+    "signature": "Selection 900 & Pure Strength"
+  },
+  {
+    "slug": "hoist",
+    "name": "Hoist",
+    "country": "USA",
+    "founded": 1977,
+    "status": "active",
+    "website": "https://www.hoistfitness.com",
+    "blurb": "San Diego brand behind ROC-IT: machines where the seat moves with you, so your body becomes part of the resistance and the line of pull stays stable.",
+    "signature": "ROC-IT moving-seat technology"
+  },
+  {
+    "slug": "rogue",
+    "name": "Rogue",
+    "country": "USA",
+    "founded": 2006,
+    "status": "active",
+    "website": "https://www.roguefitness.com",
+    "blurb": "Columbus, Ohio maker of barbells, racks and strongman gear. The default choice for strength and functional gyms, and an increasingly serious machine catalogue.",
+    "signature": "Monster racks"
+  },
+  {
+    "slug": "eleiko",
+    "name": "Eleiko",
+    "country": "Sweden",
+    "founded": 1957,
+    "status": "active",
+    "website": "https://eleiko.com",
+    "blurb": "The Swedish standard for competition barbells and plates, plus precision-built benches and racks.",
+    "signature": "Competition bars and Prestera racks"
+  },
+  {
+    "slug": "flex-fitness",
+    "name": "Flex Fitness",
+    "country": "USA",
+    "founded": 1985,
+    "status": "defunct",
+    "note": "Acquired by Star Trac; the original Flex plate-loaded line is no longer produced and now lives on the used and remanufactured market.",
+    "blurb": "Flex built heavy, simple plate-loaded machines that defined 90s and 2000s hardcore gyms. Clean converging paths and huge load capacity keep them sought after on the used market.",
+    "signature": "Plate-loaded classics"
+  },
+  {
+    "slug": "cybex",
+    "name": "Cybex (classic)",
+    "country": "USA",
+    "founded": 1983,
+    "status": "defunct",
+    "defunctYear": 2016,
+    "note": "Cybex International was acquired by Life Fitness in 2016. The classic VR2, Eagle and plate-loaded lines are discontinued.",
+    "blurb": "Cybex engineered machines from biomechanics research: the Eagle and VR2 lines introduced dual-axis and self-aligning designs that still feel modern.",
+    "signature": "Eagle & VR2"
+  },
+  {
+    "slug": "medx",
+    "name": "MedX (classic)",
+    "country": "USA",
+    "founded": 1986,
+    "status": "defunct",
+    "note": "MedX still operates in medical rehab. The Arthur Jones-era strength lines listed here are no longer produced.",
+    "blurb": "Arthur Jones' second act after Nautilus. MedX machines were engineered for measurable strength with obsessively matched cams. The Avenger and medical lines are legends among high-intensity trainers.",
+    "signature": "Avenger & medical lumbar"
+  },
+  {
+    "slug": "icarian",
+    "name": "Icarian",
+    "country": "USA",
+    "founded": 1979,
+    "status": "defunct",
+    "note": "Absorbed by Precor in the early 2000s; the Icarian line was later retired.",
+    "blurb": "Southern-California workhorse machines that filled 80s and 90s gyms. Icarian's plate-loaded leg pieces remain popular resale finds.",
+    "signature": "Plate-loaded leg machines"
+  },
+  {
+    "slug": "bodymasters",
+    "name": "Bodymasters",
+    "country": "USA",
+    "founded": 1979,
+    "status": "defunct",
+    "note": "Louisiana manufacturer. The brand changed hands and the classic line ended production.",
+    "blurb": "Louisiana iron with a cult following. Bodymasters' pec dec and leg machines are remembered for their buttery cam tracks and indestructible frames.",
+    "signature": "Classic selectorized"
+  },
+  {
+    "slug": "nebula",
+    "name": "Nebula",
+    "country": "USA",
+    "founded": 1980,
+    "status": "defunct",
+    "note": "Nebula Fitness ceased production; machines circulate on the used market.",
+    "blurb": "Hardcore plate-loaded leg machines from the golden-era gym boom. Nebula leg presses and calf machines were built like bridges.",
+    "signature": "Plate-loaded leg presses"
+  },
+  {
+    "slug": "universal",
+    "name": "Universal (classic)",
+    "country": "USA",
+    "founded": 1957,
+    "status": "defunct",
+    "note": "The classic Universal Gym brand was absorbed by Nautilus; the original multi-stations are no longer made.",
+    "blurb": "The original multi-station gym, invented in 1957. If a high-school weight room had a machine in the 60s and 70s, it was a Universal.",
+    "signature": "Multi-station gyms"
+  }
+]
