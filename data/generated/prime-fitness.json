@@ -1,0 +1,3723 @@
+[
+ {
+  "slug": "prime-plate-loaded-pendulum-squat",
+  "brandSlug": "prime-fitness",
+  "name": "Pendulum Squat",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pendulum-squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    99,
+    97,
+    93,
+    88,
+    83,
+    79,
+    76,
+    74,
+    72,
+    70
+   ],
+   "notes": "Pendulum arc: heaviest in the hole where the quads are longest. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 9,
+   "stability": 8,
+   "stretch": 9,
+   "rom": 9,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-pendulum-squat.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-i-pendulum-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-i-pendulum-squat"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-hack-squat",
+  "brandSlug": "prime-fitness",
+  "name": "Hack Squat",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-hack-squat.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-hack-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-hack-squat"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-pulldown",
+  "brandSlug": "prime-fitness",
+  "name": "Pulldown",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-pulldown.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "prime-benches-shorty-adjustable-bench",
+  "brandSlug": "prime-fitness",
+  "name": "Shorty Adjustable Bench",
+  "series": "Benches",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-benches-shorty-adjustable-bench.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/prime-shorty-adjustable-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/prime-shorty-adjustable-bench"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-leg-extension-leg-curl-combo",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Extension / Leg Curl Combo",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-leg-extension-leg-curl-combo.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-leg-extension-leg-curl-combo"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-leg-extension-leg-curl-combo"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-outer-thigh",
+  "brandSlug": "prime-fitness",
+  "name": "Outer Thigh",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-outer-thigh.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-outer-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-outer-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-inner-thigh",
+  "brandSlug": "prime-fitness",
+  "name": "Inner Thigh",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-inner-thigh.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-inner-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-inner-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "prime-benches-xl-bench",
+  "brandSlug": "prime-fitness",
+  "name": "Xl Bench",
+  "series": "Benches",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-benches-xl-bench.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/xl-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/xl-bench"
+   }
+  ]
+ },
+ {
+  "slug": "prime-specialty-dip-assist",
+  "brandSlug": "prime-fitness",
+  "name": "Dip Assist",
+  "series": "Specialty",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-specialty-dip-assist.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/chin-dip-assist"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/chin-dip-assist"
+   }
+  ]
+ },
+ {
+  "slug": "prime-specialty-double-sided-preacher",
+  "brandSlug": "prime-fitness",
+  "name": "Double-Sided Preacher",
+  "series": "Specialty",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-specialty-double-sided-preacher.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/double-sided-preacher"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/double-sided-preacher"
+   }
+  ]
+ },
+ {
+  "slug": "prime-specialty-functional-trainer",
+  "brandSlug": "prime-fitness",
+  "name": "Functional Trainer",
+  "series": "Specialty",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-specialty-functional-trainer.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/functional-trainer"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/functional-trainer"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-abdominal-crunch",
+  "brandSlug": "prime-fitness",
+  "name": "Abdominal Crunch",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-abdominal-crunch.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-abdominal-crunch"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-abdominal-crunch"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-arm-curl",
+  "brandSlug": "prime-fitness",
+  "name": "Arm Curl",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-arm-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-arm-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-arm-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-chest-press",
+  "brandSlug": "prime-fitness",
+  "name": "Chest Press",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-chest-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-incline-press",
+  "brandSlug": "prime-fitness",
+  "name": "Incline Press",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-incline-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-incline-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-incline-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-inner-outer-thigh",
+  "brandSlug": "prime-fitness",
+  "name": "Inner/outer Thigh",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-inner-outer-thigh.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-inner-outer-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-inner-outer-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-lat-pulldown",
+  "brandSlug": "prime-fitness",
+  "name": "Lat Pulldown",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-lat-pulldown.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-lateral-raise",
+  "brandSlug": "prime-fitness",
+  "name": "Lateral Raise",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-lateral-raise.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-lateral-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-lateral-raise"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-leg-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Extension",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-leg-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-leg-press",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Press",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-leg-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-low-back-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Low Back Extension",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-low-back-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-low-back-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-low-back-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-multi-hip",
+  "brandSlug": "prime-fitness",
+  "name": "Multi-Hip",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-multi-hip.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-multi-hip"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-multi-hip"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-prone-leg-curl",
+  "brandSlug": "prime-fitness",
+  "name": "Prone Leg Curl",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-prone-leg-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-prone-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-prone-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-pullover",
+  "brandSlug": "prime-fitness",
+  "name": "Pullover",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pullover",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    99,
+    97,
+    93,
+    88,
+    83,
+    79,
+    76,
+    74,
+    72,
+    70
+   ],
+   "notes": "Pullovers are classically stretch-loaded overhead. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 9,
+   "rom": 9,
+   "ergonomics": 6,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-pullover.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-pullover"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-pullover"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-rotary-torso",
+  "brandSlug": "prime-fitness",
+  "name": "Rotary Torso",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-rotary-torso.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-rotary-torso"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-rotary-torso"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-seated-pushdown",
+  "brandSlug": "prime-fitness",
+  "name": "Seated Pushdown",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-seated-pushdown.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-seated-pushdown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-seated-pushdown"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-seated-calf-press",
+  "brandSlug": "prime-fitness",
+  "name": "Seated Calf Press",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-seated-calf-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-seated-calf-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-seated-calf-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-seated-row",
+  "brandSlug": "prime-fitness",
+  "name": "Seated Row",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-seated-row.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-seated-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-seated-row"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-shoulder-press",
+  "brandSlug": "prime-fitness",
+  "name": "Shoulder Press",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-shoulder-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-hybrid-tricep-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Tricep Extension",
+  "series": "Hybrid",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-tricep-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-tricep-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-tricep-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-arm-curl",
+  "brandSlug": "prime-fitness",
+  "name": "Arm Curl",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-arm-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-arm-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-arm-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-prone-leg-curl",
+  "brandSlug": "prime-fitness",
+  "name": "Prone Leg Curl",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-prone-leg-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-prone-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-prone-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-leg-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Extension",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-leg-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-leg-press",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Press",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-leg-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-seated-leg-curl",
+  "brandSlug": "prime-fitness",
+  "name": "Seated Leg Curl",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-seated-leg-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-seated-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-seated-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-shoulder-press",
+  "brandSlug": "prime-fitness",
+  "name": "Shoulder Press",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-shoulder-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-tricep-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Tricep Extension",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-tricep-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-tricep-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-tricep-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-abdominal-crunch",
+  "brandSlug": "prime-fitness",
+  "name": "Abdominal Crunch",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-abdominal-crunch.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-abdominal-crunch"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-abdominal-crunch"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-low-back-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Low Back Extension",
+  "series": "Evolution",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-low-back-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-low-back-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-low-back-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-shoulder-press",
+  "brandSlug": "prime-fitness",
+  "name": "Shoulder Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-shoulder-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-leg-press",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-leg-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-arm-curl",
+  "brandSlug": "prime-fitness",
+  "name": "Arm Curl",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-arm-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-arm-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-arm-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-low-back-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Low Back Extension",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-low-back-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-low-back-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-low-back-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-chest-press",
+  "brandSlug": "prime-fitness",
+  "name": "Chest Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-chest-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-extreme-row",
+  "brandSlug": "prime-fitness",
+  "name": "Extreme Row",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-extreme-row.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-extreme-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-extreme-row"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-incline-press",
+  "brandSlug": "prime-fitness",
+  "name": "Incline Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-incline-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-incline-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-incline-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-lat-pulldown",
+  "brandSlug": "prime-fitness",
+  "name": "Lat Pulldown",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-lat-pulldown.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-prone-leg-curl",
+  "brandSlug": "prime-fitness",
+  "name": "Prone Leg Curl",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-prone-leg-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-prone-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-prone-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-leg-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Extension",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-leg-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-tricep-extension",
+  "brandSlug": "prime-fitness",
+  "name": "Tricep Extension",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-tricep-extension.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-tricep-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-tricep-extension"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-seated-row",
+  "brandSlug": "prime-fitness",
+  "name": "Seated Row",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-seated-row.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-seated-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-seated-row"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-abdominal-crunch",
+  "brandSlug": "prime-fitness",
+  "name": "Abdominal Crunch",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-abdominal-crunch.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/plate-loaded-ab-crunch"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/plate-loaded-ab-crunch"
+   }
+  ]
+ },
+ {
+  "slug": "prime-plate-loaded-leg-ext-leg-curl-combo",
+  "brandSlug": "prime-fitness",
+  "name": "Leg Ext / Leg Curl Combo",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-plate-loaded-leg-ext-leg-curl-combo.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/leg-ext-leg-curl-combo-1"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/leg-ext-leg-curl-combo-1"
+   }
+  ]
+ },
+ {
+  "slug": "prime-benches-adjustable-bench",
+  "brandSlug": "prime-fitness",
+  "name": "Adjustable Bench",
+  "series": "Benches",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-benches-adjustable-bench.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/bench"
+   }
+  ]
+ }
+]

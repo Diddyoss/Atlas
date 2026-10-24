@@ -1,0 +1,4975 @@
+[
+ {
+  "slug": "hoist-cf-bench-leg-extension",
+  "brandSlug": "hoist",
+  "name": "Leg Extension",
+  "series": "Cf Bench",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-bench-leg-extension.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/commercial-flat-incline-bench-copy"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/commercial-flat-incline-bench-copy"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-shoulder-press",
+  "brandSlug": "hoist",
+  "name": "Shoulder Press",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-shoulder-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-rotary-calf",
+  "brandSlug": "hoist",
+  "name": "Rotary Calf",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-rotary-calf.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rotary-calf"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rotary-calf"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-glute-master",
+  "brandSlug": "hoist",
+  "name": "Glute Master",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-glute-master.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/glute-master"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/glute-master"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-outer-thigh",
+  "brandSlug": "hoist",
+  "name": "Outer Thigh",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-outer-thigh.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/outer-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/outer-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-inner-thigh",
+  "brandSlug": "hoist",
+  "name": "Inner Thigh",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-inner-thigh.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/inner-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/inner-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-pec-fly",
+  "brandSlug": "hoist",
+  "name": "Pec Fly",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-pec-fly.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/pec-fly"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/pec-fly"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-low-back",
+  "brandSlug": "hoist",
+  "name": "Low Back",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-low-back.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/low-back"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/low-back"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-seated-mid-row",
+  "brandSlug": "hoist",
+  "name": "Seated Mid Row",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-seated-mid-row.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/seated-mid-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/seated-mid-row"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-biceps-curl",
+  "brandSlug": "hoist",
+  "name": "Biceps Curl",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-biceps-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/biceps-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/biceps-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-seated-dip",
+  "brandSlug": "hoist",
+  "name": "Seated Dip",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-seated-dip.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/seated-dip"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/seated-dip"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-chin-dip-assist",
+  "brandSlug": "hoist",
+  "name": "Chin/dip Assist",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-chin-dip-assist.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2700-chin-dip-assist"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2700-chin-dip-assist"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-rotary-torso",
+  "brandSlug": "hoist",
+  "name": "Rotary Torso",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-rotary-torso.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2602-rotary-torso"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2602-rotary-torso"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-abdominals",
+  "brandSlug": "hoist",
+  "name": "Abdominals",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-abdominals.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2601-abdominals"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2601-abdominals"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-prone-leg-curl",
+  "brandSlug": "hoist",
+  "name": "Prone Leg Curl",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-prone-leg-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2408-prone-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2408-prone-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-leg-press",
+  "brandSlug": "hoist",
+  "name": "Leg Press",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-leg-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2403-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2403-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-leg-curl",
+  "brandSlug": "hoist",
+  "name": "Leg Curl",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-leg-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2402-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2402-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-leg-extension",
+  "brandSlug": "hoist",
+  "name": "Leg Extension",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-leg-extension.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2401-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2401-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-chest-press",
+  "brandSlug": "hoist",
+  "name": "Chest Press",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-chest-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2301-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2301-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-selectorized-lat-pulldown",
+  "brandSlug": "hoist",
+  "name": "Lat Pulldown",
+  "series": "Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-selectorized-lat-pulldown.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-2201-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-2201-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-full-body-dual-angle-smith",
+  "brandSlug": "hoist",
+  "name": "Dual Angle Smith",
+  "series": "Cf Full Body",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-full-body-dual-angle-smith.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3755-dual-angle-smith"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3755-dual-angle-smith"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-full-body-commercial-half-rack",
+  "brandSlug": "hoist",
+  "name": "Commercial Half Rack",
+  "series": "Cf Full Body",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-full-body-commercial-half-rack.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3365-half-rack"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3365-half-rack"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-bench-commercial-3-way-olympic-bench",
+  "brandSlug": "hoist",
+  "name": "Commercial 3-Way Olympic Bench",
+  "series": "Cf Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-bench-commercial-3-way-olympic-bench.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-2179b-3-way-olympic-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-2179b-3-way-olympic-bench"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-hack-squat",
+  "brandSlug": "hoist",
+  "name": "Commercial Hack Squat",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-hack-squat.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3356-hack-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3356-hack-squat"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-power-squat",
+  "brandSlug": "hoist",
+  "name": "Commercial Power Squat",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-power-squat.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3359-power-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3359-power-squat"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-glute-thrust",
+  "brandSlug": "hoist",
+  "name": "Commercial Glute Thrust",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-glute-thrust.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3416-glute-thrust"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3416-glute-thrust"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-kneeling-leg-curl",
+  "brandSlug": "hoist",
+  "name": "Commercial Kneeling Leg Curl",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-kneeling-leg-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3411-kneeling-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3411-kneeling-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-inner-outer-thigh",
+  "brandSlug": "hoist",
+  "name": "Inner / Outer Thigh",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-inner-outer-thigh.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3800-inner-outer-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3800-inner-outer-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-abdominals",
+  "brandSlug": "hoist",
+  "name": "Abdominals",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-abdominals.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3601-abdominals"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3601-abdominals"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-lateral-raise",
+  "brandSlug": "hoist",
+  "name": "Lateral Raise",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-lateral-raise.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3502-lateral-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3502-lateral-raise"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-standing-prone-leg-curl",
+  "brandSlug": "hoist",
+  "name": "Standing / Prone Leg Curl",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-standing-prone-leg-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3408-standing-prone-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3408-standing-prone-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-commercial-pec-fly-rear-delt",
+  "brandSlug": "hoist",
+  "name": "Commercial Pec Fly / Rear Delt",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-commercial-pec-fly-rear-delt.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3309-pec-fly-rear-delt"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3309-pec-fly-rear-delt"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-mid-row",
+  "brandSlug": "hoist",
+  "name": "Mid Row",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-mid-row.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3203-mid-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3203-mid-row"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-bench-utility-bench",
+  "brandSlug": "hoist",
+  "name": "Utility Bench",
+  "series": "Cf Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-bench-utility-bench.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3960-utility-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3960-utility-bench"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-leg-press",
+  "brandSlug": "hoist",
+  "name": "Leg Press",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-leg-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3403-cl-3403-hs-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3403-cl-3403-hs-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-leg-curl",
+  "brandSlug": "hoist",
+  "name": "Leg Curl",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-leg-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3402-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3402-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-leg-extension",
+  "brandSlug": "hoist",
+  "name": "Leg Extension",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-leg-extension.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3401-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3401-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-chest-press",
+  "brandSlug": "hoist",
+  "name": "Chest Press",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-chest-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3301-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3301-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-shoulder-press",
+  "brandSlug": "hoist",
+  "name": "Shoulder Press",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-shoulder-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3501-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3501-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-lat-pulldown",
+  "brandSlug": "hoist",
+  "name": "Lat Pulldown",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-lat-pulldown.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3201-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3201-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-triceps-extension",
+  "brandSlug": "hoist",
+  "name": "Triceps Extension",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-triceps-extension.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3103-triceps-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3103-triceps-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-club-line-biceps-curl",
+  "brandSlug": "hoist",
+  "name": "Biceps Curl",
+  "series": "Club Line",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-club-line-biceps-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cl-3102-biceps-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cl-3102-biceps-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-full-body-dual-action-smith",
+  "brandSlug": "hoist",
+  "name": "Dual Action Smith",
+  "series": "Cf Full Body",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-full-body-dual-action-smith.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3754-dual-action-smith"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3754-dual-action-smith"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-squat-rack",
+  "brandSlug": "hoist",
+  "name": "Commercial Squat Rack",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-squat-rack.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3367-squat-rack"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3367-squat-rack"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-angled-linear-leg-press",
+  "brandSlug": "hoist",
+  "name": "Commercial Angled Linear Leg Press",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-angled-linear-leg-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3355-angled-linear-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3355-angled-linear-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-adjustable-decline-ab-bench",
+  "brandSlug": "hoist",
+  "name": "Commercial Adjustable Decline Ab Bench",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-adjustable-decline-ab-bench.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3264-adjustable-decline-ab-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3264-adjustable-decline-ab-bench"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-back-hyper",
+  "brandSlug": "hoist",
+  "name": "Commercial Back Hyper",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-back-hyper.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3663-back-hyper"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3663-back-hyper"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-incline-leverage-row",
+  "brandSlug": "hoist",
+  "name": "Commercial Incline Leverage Row",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-incline-leverage-row.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3661-incline-leverage-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3661-incline-leverage-row"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-military-press",
+  "brandSlug": "hoist",
+  "name": "Commercial Military Press",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-military-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3860-military-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3860-military-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-standing-preacher-curl",
+  "brandSlug": "hoist",
+  "name": "Commercial Standing Preacher Curl",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-standing-preacher-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3555-standing-preacher-cur"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3555-standing-preacher-cur"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-preacher-curl",
+  "brandSlug": "hoist",
+  "name": "Commercial Preacher Curl",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-preacher-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3550-preacher-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3550-preacher-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-rack-power-cage",
+  "brandSlug": "hoist",
+  "name": "Power Cage",
+  "series": "Cf Rack",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-rack-power-cage.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3364-power-cage-gsa"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3364-power-cage-gsa"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-series-commercial-vertical-knee-raise-dip",
+  "brandSlug": "hoist",
+  "name": "Commercial Vertical Knee Raise / Dip",
+  "series": "Cf Series",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-series-commercial-vertical-knee-raise-dip.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3252-vertical-knee-raise-dip"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3252-vertical-knee-raise-dip"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-bench-commercial-super-flat-incline-decline-bench",
+  "brandSlug": "hoist",
+  "name": "Commercial Super Flat/incline/decline Bench",
+  "series": "Cf Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-bench-commercial-super-flat-incline-decline-bench.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3165-super-flat-incline-decline-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3165-super-flat-incline-decline-bench"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-bench-flat-bench",
+  "brandSlug": "hoist",
+  "name": "Flat Bench",
+  "series": "Cf Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-bench-flat-bench.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3163-flat-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3163-flat-bench"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-bench-super-flat-decline-bench",
+  "brandSlug": "hoist",
+  "name": "Super Flat/decline Bench",
+  "series": "Cf Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-bench-super-flat-decline-bench.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3162-adjustable-flat-decline-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3162-adjustable-flat-decline-bench"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-cf-bench-commercial-flat-incline-bench",
+  "brandSlug": "hoist",
+  "name": "Commercial Flat/incline Bench",
+  "series": "Cf Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-cf-bench-commercial-flat-incline-bench.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/cf-3160-super-flat-incline-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/cf-3160-super-flat-incline-bench"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-abdominals",
+  "brandSlug": "hoist",
+  "name": "Abdominals",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-abdominals.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5601-abdominals"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5601-abdominals"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-shoulder-press",
+  "brandSlug": "hoist",
+  "name": "Shoulder Press",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-shoulder-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5501-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5501-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-standing-calf-raise",
+  "brandSlug": "hoist",
+  "name": "Standing Calf Raise",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-standing-calf-raise.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5405-standing-calf-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5405-standing-calf-raise"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-dual-action-leg-press",
+  "brandSlug": "hoist",
+  "name": "Dual Action Leg Press",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-dual-action-leg-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5403-dual-action-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5403-dual-action-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-seated-calf-raise",
+  "brandSlug": "hoist",
+  "name": "Seated Calf Raise",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-seated-calf-raise.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5363-seated-calf-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5363-seated-calf-raise"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-hack-squat-dead-lift-shrug",
+  "brandSlug": "hoist",
+  "name": "Hack Squat/dead Lift/shrug",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-hack-squat-dead-lift-shrug.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5356-hack-squat-dead-lift-shrug"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5356-hack-squat-dead-lift-shrug"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-decline-chest-press",
+  "brandSlug": "hoist",
+  "name": "Decline Chest Press",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-decline-chest-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5305-decline-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5305-decline-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-incline-chest-press",
+  "brandSlug": "hoist",
+  "name": "Incline Chest Press",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-incline-chest-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5303-incline-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5303-incline-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-chest-press",
+  "brandSlug": "hoist",
+  "name": "Chest Press",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-chest-press.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5301-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5301-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-mid-row",
+  "brandSlug": "hoist",
+  "name": "Mid Row",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-mid-row.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5203-mid-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5203-mid-row"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-lat-pulldown",
+  "brandSlug": "hoist",
+  "name": "Lat Pulldown",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-lat-pulldown.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5201-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5201-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-biceps-curl",
+  "brandSlug": "hoist",
+  "name": "Biceps Curl",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-biceps-curl.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5102-biceps-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5102-biceps-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-plate-loaded-seated-dip",
+  "brandSlug": "hoist",
+  "name": "Seated Dip",
+  "series": "ROC-IT Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-plate-loaded-seated-dip.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rpl-5101-seated-dip"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rpl-5101-seated-dip"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-lateral-raise",
+  "brandSlug": "hoist",
+  "name": "Lateral Raise",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-lateral-raise.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-1502-lateral-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-1502-lateral-raise"
+   }
+  ]
+ },
+ {
+  "slug": "hoist-roc-it-selectorized-triceps-extension",
+  "brandSlug": "hoist",
+  "name": "Triceps Extension",
+  "series": "ROC-IT Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hoist/hoist-roc-it-selectorized-triceps-extension.webp",
+    "credit": "Hoist Fitness (official store)",
+    "sourceUrl": "https://www.hoistfitness.com/products/rs-1103-triceps-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Hoist Fitness (official store)",
+    "url": "https://www.hoistfitness.com/products/rs-1103-triceps-extension"
+   }
+  ]
+ }
+]

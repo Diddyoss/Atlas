@@ -1,0 +1,754 @@
+[
+ {
+  "slug": "matrix-versa-vs-s70-leg-press-calf-press",
+  "brandSlug": "matrix",
+  "name": "Vs-S70 Leg Press / Calf Press",
+  "series": "Versa",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-versa-vs-s70-leg-press-calf-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-versa-vs-s70-leg-press-calf-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-versa-vs-s70-leg-press-calf-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-ultra-g7-s70-leg-press",
+  "brandSlug": "matrix",
+  "name": "G7-S70 Leg Press",
+  "series": "Ultra",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-ultra-g7-s70-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-ultra-g7-s70-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-ultra-g7-s70-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-g7-s55b-ultra-base-rotary-torso",
+  "brandSlug": "matrix",
+  "name": "G7-S55B Ultra Base Rotary Torso",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-g7-s55b-ultra-base-rotary-torso.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-g7-s55b-ultra-base-rotary-torso-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-g7-s55b-ultra-base-rotary-torso-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-g3-s70-aura-leg-press",
+  "brandSlug": "matrix",
+  "name": "G3-S70 Aura Leg Press",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-g3-s70-aura-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-g3-s70-aura-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-g3-s70-aura-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-g3-aura-g3-s60-dip-chin-assist",
+  "brandSlug": "matrix",
+  "name": "G3 Aura G3-S60 Dip / Chin Assist",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-g3-aura-g3-s60-dip-chin-assist.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s60-dip-chin-assist-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s60-dip-chin-assist-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-g3-aura-g3-s22-rear-delt-pec-fly",
+  "brandSlug": "matrix",
+  "name": "G3 Aura G3-S22 Rear Delt / Pec Fly",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-g3-aura-g3-s22-rear-delt-pec-fly.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s22-rear-delt-pec-fly-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s22-rear-delt-pec-fly-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-functional-trainer-g3-msft300-400",
+  "brandSlug": "matrix",
+  "name": "Functional Trainer G3-MSFT300/400",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-functional-trainer-g3-msft300-400.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-functional-trainer-g3-msft300-400-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-functional-trainer-g3-msft300-400-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-magnum-mg-a85-multi-adjustable-bench",
+  "brandSlug": "matrix",
+  "name": "Mg-A85 Multi Adjustable Bench",
+  "series": "Magnum",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-magnum-mg-a85-multi-adjustable-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-magnum-mg-a85-multi-adjustable-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-magnum-mg-a85-multi-adjustable-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-g7-s51-abdominal-crunch",
+  "brandSlug": "matrix",
+  "name": "G7-S51 Abdominal Crunch",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-g7-s51-abdominal-crunch.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-g7-s51-abdominal-crunch-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-g7-s51-abdominal-crunch-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-g3-s76-aura-rotary-hip",
+  "brandSlug": "matrix",
+  "name": "G3-S76 Aura Rotary Hip",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-g3-s76-aura-rotary-hip.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-g3-s76-aura-rotary-hip-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-g3-s76-aura-rotary-hip-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "matrix-abdominal-crunch",
+  "brandSlug": "matrix",
+  "name": "Abdominal Crunch",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/matrix/matrix-abdominal-crunch.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/matrix-abdominal-crunch-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/matrix-abdominal-crunch-remanufactured"
+   }
+  ]
+ }
+]

@@ -1,0 +1,7848 @@
+[
+ {
+  "slug": "cybex-5-stack-17001-multi-jungle-gym",
+  "brandSlug": "cybex",
+  "name": "5 Stack 17001 Multi Jungle Gym",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-5-stack-17001-multi-jungle-gym.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-5-stack-17001-multi-jungle-gym-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-5-stack-17001-multi-jungle-gym-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-tricep-press-seated-dip",
+  "brandSlug": "cybex",
+  "name": "Tricep Press Seated Dip",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-tricep-press-seated-dip.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-tricep-press-seated-dip-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-tricep-press-seated-dip-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-torso-rotation",
+  "brandSlug": "cybex",
+  "name": "Torso Rotation",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-torso-rotation.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-torso-rotation-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-torso-rotation-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-seated-leg-curl",
+  "brandSlug": "cybex",
+  "name": "Seated Leg Curl",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-seated-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-seated-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-seated-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-row",
+  "brandSlug": "cybex",
+  "name": "Row",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-row.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-row-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-row-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-pulldown",
+  "brandSlug": "cybex",
+  "name": "Pulldown",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-pulldown.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-pulldown-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-pulldown-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-prone-leg-curl",
+  "brandSlug": "cybex",
+  "name": "Prone Leg Curl",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-prone-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-prone-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-prone-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-overhead-shoulder-press",
+  "brandSlug": "cybex",
+  "name": "Overhead Shoulder Press",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-overhead-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-overhead-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-overhead-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-leg-press",
+  "brandSlug": "cybex",
+  "name": "Leg Press",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-lateral-raise",
+  "brandSlug": "cybex",
+  "name": "Lateral Raise",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-lateral-raise.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-lateral-raise-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-lateral-raise-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-lat-pull",
+  "brandSlug": "cybex",
+  "name": "Lat Pull",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-lat-pull.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-lat-pull-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-lat-pull-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-glute",
+  "brandSlug": "cybex",
+  "name": "Glute",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-glute.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-glute-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-glute-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-pec-fly-rear-delt",
+  "brandSlug": "cybex",
+  "name": "Pec Fly/rear Delt",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-pec-fly-rear-delt.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-pec-fly-rear-delt-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-pec-fly-rear-delt-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-leg-extension",
+  "brandSlug": "cybex",
+  "name": "Leg Extension",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-dip-chin-assist",
+  "brandSlug": "cybex",
+  "name": "Dip/chin Assist",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-dip-chin-assist.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-dip-chin-assist-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-dip-chin-assist-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-chest-press",
+  "brandSlug": "cybex",
+  "name": "Chest Press",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-cable-column",
+  "brandSlug": "cybex",
+  "name": "Cable Column",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-cable-column.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-cable-column-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-cable-column-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-standing-calf",
+  "brandSlug": "cybex",
+  "name": "Standing Calf",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-standing-calf.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-standing-calf-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-standing-calf-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-back-extension",
+  "brandSlug": "cybex",
+  "name": "Back Extension",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-back-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-back-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-back-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-arm-tricep-extension-12080",
+  "brandSlug": "cybex",
+  "name": "Arm Tricep Extension 12080",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-arm-tricep-extension-12080.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-arm-tricep-extension-12080-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-arm-tricep-extension-12080-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-hip-adduction-inner-thigh",
+  "brandSlug": "cybex",
+  "name": "Hip Adduction / Inner Thigh",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-hip-adduction-inner-thigh.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-hip-adduction-inner-thigh-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-hip-adduction-inner-thigh-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-hip-abduction-outer-thigh",
+  "brandSlug": "cybex",
+  "name": "Hip Abduction / Outer Thigh",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-hip-abduction-outer-thigh.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-hip-abduction-outer-thigh-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-hip-abduction-outer-thigh-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-abdominal",
+  "brandSlug": "cybex",
+  "name": "Abdominal",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-abdominal.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-abdominal-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-abdominal-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-modular-5345-91-assisted-chin-up-dip-assist",
+  "brandSlug": "cybex",
+  "name": "Modular 5345-91 Assisted Chin-Up Dip Assist",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-modular-5345-91-assisted-chin-up-dip-assist.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-modular-5345-91-assisted-chin-up-dip-assist-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-modular-5345-91-assisted-chin-up-dip-assist-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-strength-vrs-leg-press",
+  "brandSlug": "cybex",
+  "name": "Strength Vrs Leg Press",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-strength-vrs-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-strength-vrs-back-extension",
+  "brandSlug": "cybex",
+  "name": "Strength Vrs Back Extension",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-strength-vrs-back-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-back-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-back-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr-standing-calf",
+  "brandSlug": "cybex",
+  "name": "Vr Standing Calf",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr-standing-calf.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr-standing-calf-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr-standing-calf-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-torso-rotation",
+  "brandSlug": "cybex",
+  "name": "Torso Rotation",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-torso-rotation.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-torso-rotation-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-torso-rotation-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-shoulder-press",
+  "brandSlug": "cybex",
+  "name": "Shoulder Press",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-rotary-calf",
+  "brandSlug": "cybex",
+  "name": "Rotary Calf",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-rotary-calf.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-rotary-calf-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-rotary-calf-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-lateral-raise-4530",
+  "brandSlug": "cybex",
+  "name": "Lateral Raise 4530",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-lateral-raise-4530.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-lateral-raise-4530-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-lateral-raise-4530-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-prone-leg-curl",
+  "brandSlug": "cybex",
+  "name": "Prone Leg Curl",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-prone-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-prone-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-prone-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr-vr2-multi-hip",
+  "brandSlug": "cybex",
+  "name": "Vr VR2 Multi Hip",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr-vr2-multi-hip.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr-vr2-multi-hip-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr-vr2-multi-hip-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-low-row-rear-delt",
+  "brandSlug": "cybex",
+  "name": "Low Row / Rear Delt",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "rear-delt",
+  "primaryMuscles": [
+   "rear-delts"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Reverse fly with fairly even loading. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-low-row-rear-delt.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-low-row-rear-delt-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-low-row-rear-delt-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-leg-press",
+  "brandSlug": "cybex",
+  "name": "Leg Press",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-leg-extension",
+  "brandSlug": "cybex",
+  "name": "Leg Extension",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-seated-leg-curl",
+  "brandSlug": "cybex",
+  "name": "Seated Leg Curl",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-seated-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-seated-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-seated-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-lat-pulldown",
+  "brandSlug": "cybex",
+  "name": "Lat Pulldown",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-lat-pulldown.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-lat-pulldown-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-lat-pulldown-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-hip-adduction-inner-thigh-4640",
+  "brandSlug": "cybex",
+  "name": "Hip Adduction / Inner Thigh 4640",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-hip-adduction-inner-thigh-4640.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-hip-adduction-inner-thigh-4640-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-hip-adduction-inner-thigh-4640-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-hip-abduction-outer-thigh",
+  "brandSlug": "cybex",
+  "name": "Hip Abduction / Outer Thigh",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-hip-abduction-outer-thigh.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-hip-abduction-outer-thigh-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-hip-abduction-outer-thigh-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-glute-machine",
+  "brandSlug": "cybex",
+  "name": "Glute Machine",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-glute-machine.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-glute-machine-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-glute-machine-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-pec-fly-machine-4545",
+  "brandSlug": "cybex",
+  "name": "Pec Fly Machine 4545",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-pec-fly-machine-4545.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-pec-fly-machine-4545-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-pec-fly-machine-4545-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-back-extension",
+  "brandSlug": "cybex",
+  "name": "Back Extension",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-back-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-back-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-back-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-tricep-arm-extension",
+  "brandSlug": "cybex",
+  "name": "Tricep Arm Extension",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-tricep-arm-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-tricep-arm-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-tricep-arm-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-bicep-arm-curl",
+  "brandSlug": "cybex",
+  "name": "Bicep Arm Curl",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-bicep-arm-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-bicep-arm-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-bicep-arm-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr2-ab-crunch",
+  "brandSlug": "cybex",
+  "name": "Ab Crunch",
+  "series": "VR2",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-ab-crunch.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-ab-crunch-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-ab-crunch-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr1-seated-leg-press",
+  "brandSlug": "cybex",
+  "name": "Seated Leg Press",
+  "series": "VR1",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr1-seated-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr1-seated-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr1-seated-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr1-dual-purpose-multi-press-13240",
+  "brandSlug": "cybex",
+  "name": "Dual Purpose Multi-Press 13240",
+  "series": "VR1",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr1-dual-purpose-multi-press-13240.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-multi-press-13240-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-multi-press-13240-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr1-dual-purpose-leg-ext-seated-leg-curl-13260",
+  "brandSlug": "cybex",
+  "name": "Dual Purpose Leg Ext/seated Leg Curl 13260",
+  "series": "VR1",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr1-dual-purpose-leg-ext-seated-leg-curl-13260.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-leg-ext-seated-leg-curl-13260-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-leg-ext-seated-leg-curl-13260-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr1-dual-purpose-lat-row-13250",
+  "brandSlug": "cybex",
+  "name": "Dual Purpose Lat/row 13250",
+  "series": "VR1",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr1-dual-purpose-lat-row-13250.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-lat-row-13250-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-lat-row-13250-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr1-dual-abdominal-back-extension",
+  "brandSlug": "cybex",
+  "name": "Dual Abdominal/back Extension",
+  "series": "VR1",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr1-dual-abdominal-back-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr1-dual-abdominal-back-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-abdominal-back-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-torso-rotation-11190",
+  "brandSlug": "cybex",
+  "name": "Torso Rotation 11190",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-torso-rotation-11190.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-torso-rotation-11190-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-torso-rotation-11190-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-free-weight-scott-arm-curl-bench",
+  "brandSlug": "cybex",
+  "name": "Free Weight Scott Arm Curl Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-free-weight-scott-arm-curl-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-free-weight-scott-arm-curl-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-free-weight-scott-arm-curl-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-nx-row-20030",
+  "brandSlug": "cybex",
+  "name": "Nx Row 20030",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-nx-row-20030.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-nx-row-20030-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-row-20030-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-row-11030",
+  "brandSlug": "cybex",
+  "name": "Row 11030",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-row-11030.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-row-11030-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-row-11030-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-leverage-squat-press-plate-loaded-newer-style",
+  "brandSlug": "cybex",
+  "name": "Leverage Squat Press Plate Loaded (newer Style)",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-leverage-squat-press-plate-loaded-newer-style.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-leverage-squat-press-plate-loaded-newer-style-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-leverage-squat-press-plate-loaded-newer-style-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-plate-loaded-squat-press",
+  "brandSlug": "cybex",
+  "name": "Squat Press",
+  "series": "Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-plate-loaded-squat-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-plate-loaded-squat-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-squat-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-plate-loaded-smith-press",
+  "brandSlug": "cybex",
+  "name": "Smith Press",
+  "series": "Plate Loaded",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-plate-loaded-smith-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-plate-loaded-45-degree-leg-press-newer-style",
+  "brandSlug": "cybex",
+  "name": "45 Degree Leg Press (newer Style)",
+  "series": "Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-plate-loaded-45-degree-leg-press-newer-style.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-newer-style-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-newer-style-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-plate-loaded-45-degree-leg-press",
+  "brandSlug": "cybex",
+  "name": "45 Degree Leg Press",
+  "series": "Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-plate-loaded-45-degree-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-overhead-press-11010",
+  "brandSlug": "cybex",
+  "name": "Overhead Press 11010",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-overhead-press-11010.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-overhead-press-11010-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-overhead-press-11010-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-mg-500-3-stack-multi-station-gym",
+  "brandSlug": "cybex",
+  "name": "Mg-500 3 Stack Multi Station Gym",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-mg-500-3-stack-multi-station-gym.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-mg-500-3-stack-multi-station-gym-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-mg-500-3-stack-multi-station-gym-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-seated-leg-curl-11061",
+  "brandSlug": "cybex",
+  "name": "Seated Leg Curl 11061",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-seated-leg-curl-11061.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-seated-leg-curl-11061-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-seated-leg-curl-11061-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vkr-leg-raise-chair-dip",
+  "brandSlug": "cybex",
+  "name": "Vkr Leg Raise Chair / Dip",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vkr-leg-raise-chair-dip.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vkr-leg-raise-chair-dip-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vkr-leg-raise-chair-dip-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-prone-leg-curl-11141-w-rld",
+  "brandSlug": "cybex",
+  "name": "Prone Leg Curl 11141 W/rld",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-prone-leg-curl-11141-w-rld.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-prone-leg-curl-11141-w-rld-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-prone-leg-curl-11141-w-rld-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-nx-leg-press-20040",
+  "brandSlug": "cybex",
+  "name": "Nx Leg Press 20040",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-nx-leg-press-20040.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-press-20040-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-press-20040-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-leg-press-11040",
+  "brandSlug": "cybex",
+  "name": "Leg Press 11040",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-leg-press-11040.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-leg-press-11040-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-leg-press-11040-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-lat-pulldown-11130",
+  "brandSlug": "cybex",
+  "name": "Lat Pulldown 11130",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-lat-pulldown-11130.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-lat-pulldown-11130-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-lat-pulldown-11130-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-hip-abduction-adduction-11181",
+  "brandSlug": "cybex",
+  "name": "Hip Abduction/adduction 11181",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-hip-abduction-adduction-11181.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-hip-abduction-adduction-11181-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-hip-abduction-adduction-11181-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-glute-11170",
+  "brandSlug": "cybex",
+  "name": "Glute 11170",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-glute-11170.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-glute-11170-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-glute-11170-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-galileo-hip-abduction-adduction",
+  "brandSlug": "cybex",
+  "name": "Galileo Hip Abduction/adduction",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-galileo-hip-abduction-adduction.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-galileo-hip-abduction-adduction-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-galileo-hip-abduction-adduction-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-ft-450-bravo-advanced-tall-8810-90-functional-trainer",
+  "brandSlug": "cybex",
+  "name": "Ft-450 Bravo Advanced Tall 8810-90 Functional Trainer",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-ft-450-bravo-advanced-tall-8810-90-functional-trainer.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-ft-450-bravo-advanced-tall-8810-90-functional-trainer-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-ft-450-bravo-advanced-tall-8810-90-functional-trainer-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-ft-360-functional-trainer",
+  "brandSlug": "cybex",
+  "name": "Ft-360 Functional Trainer",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-ft-360-functional-trainer.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-ft-360-functional-trainer-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-ft-360-functional-trainer-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-free-standing-dip-chin-assist",
+  "brandSlug": "cybex",
+  "name": "Free Standing Dip / Chin Assist",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-free-standing-dip-chin-assist.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-free-standing-dip-chin-assist-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-free-standing-dip-chin-assist-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-pec-fly-rear-delt",
+  "brandSlug": "cybex",
+  "name": "Pec Fly/rear Delt",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-pec-fly-rear-delt.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-pec-fly-rear-delt-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-pec-fly-rear-delt-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-multi-hip",
+  "brandSlug": "cybex",
+  "name": "Multi Hip",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-multi-hip.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-multi-hip-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-multi-hip-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-leg-press",
+  "brandSlug": "cybex",
+  "name": "Leg Press",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-back-extension",
+  "brandSlug": "cybex",
+  "name": "Back Extension",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-back-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-back-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-back-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-abdominal-machine",
+  "brandSlug": "cybex",
+  "name": "Abdominal Machine",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-abdominal-machine.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-abdominal-machine-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-abdominal-machine-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-calf-raise-11120",
+  "brandSlug": "cybex",
+  "name": "Calf Raise 11120",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-calf-raise-11120.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-calf-raise-11120-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-calf-raise-11120-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-bravo-pro-functional-trainer",
+  "brandSlug": "cybex",
+  "name": "Bravo Pro Functional Trainer",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-bravo-pro-functional-trainer.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-bravo-pro-functional-trainer-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-bravo-pro-functional-trainer-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-back-extension-11101",
+  "brandSlug": "cybex",
+  "name": "Back Extension 11101",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-back-extension-11101.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-back-extension-11101-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-back-extension-11101-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-arm-bicep-curl-11070",
+  "brandSlug": "cybex",
+  "name": "Arm / Bicep Curl 11070",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-arm-bicep-curl-11070.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-arm-bicep-curl-11070-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-arm-bicep-curl-11070-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-standing-chin-dip-assist-modular-on-extended-frame",
+  "brandSlug": "cybex",
+  "name": "Standing Chin Dip Assist Modular (on Extended Frame)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-standing-chin-dip-assist-modular-on-extended-frame.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-standing-chin-dip-assist-modular-on-extended-frame-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-standing-chin-dip-assist-modular-on-extended-frame-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-8-stack-jungle-gym",
+  "brandSlug": "cybex",
+  "name": "8 Stack Jungle Gym",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-8-stack-jungle-gym.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-8-stack-jungle-gym-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-8-stack-jungle-gym-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-7-stack-multi-jungle-gym",
+  "brandSlug": "cybex",
+  "name": "7 Stack Multi Jungle Gym",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-7-stack-multi-jungle-gym.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-7-stack-multi-jungle-gym-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-7-stack-multi-jungle-gym-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-plate-loaded-smith-press-machine-5341",
+  "brandSlug": "cybex",
+  "name": "Smith Press Machine 5341",
+  "series": "Plate Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-plate-loaded-smith-press-machine-5341.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-machine-5341-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-machine-5341-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-45-degree-back-hyperextension",
+  "brandSlug": "cybex",
+  "name": "45 Degree Back Hyperextension",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-45-degree-back-hyperextension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-45-degree-back-hyperextension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-45-degree-back-hyperextension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-4100-horizontal-leg-press",
+  "brandSlug": "cybex",
+  "name": "4100 Horizontal Leg Press",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-4100-horizontal-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-4100-horizontal-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-4100-horizontal-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-total-access-seated-leg-curl-21461",
+  "brandSlug": "cybex",
+  "name": "Total Access Seated Leg Curl 21461",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-total-access-seated-leg-curl-21461.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-total-access-seated-leg-curl-21461-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-total-access-seated-leg-curl-21461-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-strength-vrs-standing-calf-raise-21110",
+  "brandSlug": "cybex",
+  "name": "Strength Vrs Standing Calf Raise 21110",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-strength-vrs-standing-calf-raise-21110.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-standing-calf-raise-21110-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-standing-calf-raise-21110-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-nx-abdominal-20090",
+  "brandSlug": "cybex",
+  "name": "Nx Abdominal 20090",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-nx-abdominal-20090.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-nx-abdominal-20090-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-abdominal-20090-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-nx-leg-extension-20050-51",
+  "brandSlug": "cybex",
+  "name": "Nx Leg Extension 20050/51",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-nx-leg-extension-20050-51.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-extension-20050-51-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-extension-20050-51-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-leg-raise-chair-16180",
+  "brandSlug": "cybex",
+  "name": "Leg Raise Chair 16180",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-leg-raise-chair-16180.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-series-leg-raise-chair-16180-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-series-leg-raise-chair-16180-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-bent-leg-abdominal-board-16171",
+  "brandSlug": "cybex",
+  "name": "Bent Leg Abdominal Board 16171",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-bent-leg-abdominal-board-16171.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-16171-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-16171-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr3-bicep-arm-curl-12070",
+  "brandSlug": "cybex",
+  "name": "Bicep / Arm Curl 12070",
+  "series": "VR3",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr3-bicep-arm-curl-12070.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr3-bicep-arm-curl-12070-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr3-bicep-arm-curl-12070-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-lateral-raise-11160",
+  "brandSlug": "cybex",
+  "name": "Lateral Raise 11160",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-lateral-raise-11160.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-lateral-raise-11160-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-lateral-raise-11160-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-ab-abdominal-crunch-11090",
+  "brandSlug": "cybex",
+  "name": "Ab Abdominal Crunch 11090",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-ab-abdominal-crunch-11090.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-ab-abdominal-crunch-11090-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-ab-abdominal-crunch-11090-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-arm-tricep-extension-11080",
+  "brandSlug": "cybex",
+  "name": "Arm Tricep Extension 11080",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-arm-tricep-extension-11080.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-arm-tricep-extension-11080-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-arm-tricep-extension-11080-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-incline-pull-11020",
+  "brandSlug": "cybex",
+  "name": "Incline Pull 11020",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-incline-pull-11020.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-incline-pull-11020-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-incline-pull-11020-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-chest-press-11000",
+  "brandSlug": "cybex",
+  "name": "Chest Press 11000",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-chest-press-11000.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-chest-press-11000-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-chest-press-11000-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-vr-lat-pulldown",
+  "brandSlug": "cybex",
+  "name": "Vr Lat Pulldown",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr-lat-pulldown.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr-lat-pulldown-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr-lat-pulldown-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-strength-vrs-overhead-press",
+  "brandSlug": "cybex",
+  "name": "Strength Vrs Overhead Press",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-strength-vrs-overhead-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-overhead-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-overhead-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-prestige-strength-vrs-chest-press",
+  "brandSlug": "cybex",
+  "name": "Strength Vrs Chest Press",
+  "series": "Prestige",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-prestige-strength-vrs-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-nx-arm-extension-20080",
+  "brandSlug": "cybex",
+  "name": "Nx Arm Extension 20080",
+  "series": "Eagle",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-nx-arm-extension-20080.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-nx-arm-extension-20080-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-arm-extension-20080-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-bent-leg-abdominal-board",
+  "brandSlug": "cybex",
+  "name": "Bent Leg Abdominal Board",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-bent-leg-abdominal-board.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-adjustable-bench-w-0-80-degree-incline",
+  "brandSlug": "cybex",
+  "name": "Adjustable Bench W / 0-80 Degree Incline",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-adjustable-bench-w-0-80-degree-incline.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-adjustable-bench-w-0-80-degree-incline-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-adjustable-bench-w-0-80-degree-incline-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-utility-bench",
+  "brandSlug": "cybex",
+  "name": "Utility Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-utility-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-utility-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-utility-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-shoulder-press",
+  "brandSlug": "cybex",
+  "name": "Shoulder Press",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-fly-press",
+  "brandSlug": "cybex",
+  "name": "Fly Press",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-fly-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-fly-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-fly-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-chest-press",
+  "brandSlug": "cybex",
+  "name": "Chest Press",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-bicep-curl",
+  "brandSlug": "cybex",
+  "name": "Bicep Curl",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-bicep-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-bicep-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-bicep-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-hip-adduction-inner-thigh",
+  "brandSlug": "cybex",
+  "name": "Hip Adduction / Inner Thigh",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-hip-adduction-inner-thigh.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-hip-adduction-inner-thigh-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-hip-adduction-inner-thigh-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-classic-hip-abduction-outer-thigh",
+  "brandSlug": "cybex",
+  "name": "Hip Abduction / Outer Thigh",
+  "series": "Classic",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-classic-hip-abduction-outer-thigh.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-classic-hip-abduction-outer-thigh-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-classic-hip-abduction-outer-thigh-remanufactured"
+   }
+  ]
+ }
+]

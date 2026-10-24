@@ -5,6 +5,7 @@ import { motion } from "motion/react";
 import type { CatalogueItem } from "@/lib/types";
 import { LOADING_LABELS, MOVEMENT_LABELS } from "@/lib/types";
 import { MUSCLES } from "@/lib/muscles";
+import { toCompareEntry } from "@/lib/compare";
 import { useCompare } from "@/lib/compare-store";
 import { EquipmentVisual } from "./EquipmentVisual";
 import { MiniCurve } from "./ResistanceCurve";
@@ -47,6 +48,7 @@ export function EquipmentCard({ item, index = 0 }: { item: CatalogueItem; index?
             <Tag>{MOVEMENT_LABELS[item.movement]}</Tag>
             <Tag>{LOADING_LABELS[item.loading]}</Tag>
             {item.isoLateral && <Tag>Iso-lateral</Tag>}
+            {item.estimated && <Tag>Estimated</Tag>}
           </div>
           <div className="mt-auto flex items-end justify-between gap-3">
             <p className="text-xs text-ash">{item.primaryMuscles.map((m) => MUSCLES[m].label).join(" · ")}</p>
@@ -56,7 +58,7 @@ export function EquipmentCard({ item, index = 0 }: { item: CatalogueItem; index?
       </Link>
       <button
         type="button"
-        onClick={() => compare.toggle(item.slug)}
+        onClick={() => compare.toggle(toCompareEntry(item))}
         disabled={!inCompare && compare.full}
         className={`label border-t border-rivet px-4 py-2.5 text-left transition-colors disabled:cursor-not-allowed disabled:text-weld ${
           inCompare ? "bg-chalk text-ink" : "text-ash hover:bg-rivet hover:text-chalk"

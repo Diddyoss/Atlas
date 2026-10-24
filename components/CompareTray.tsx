@@ -6,23 +6,20 @@ import { AnimatePresence, motion } from "motion/react";
 import { Suspense } from "react";
 import { MAX_COMPARE } from "@/lib/compare";
 import { useCompare } from "@/lib/compare-store";
-import { MOVEMENT_LABELS, type Movement } from "@/lib/types";
+import { MOVEMENT_LABELS } from "@/lib/types";
 
-type Lookup = Record<string, { name: string; brand: string; movement: Movement }>;
-
-export function CompareTray({ lookup }: { lookup: Lookup }) {
+export function CompareTray() {
   return (
     <Suspense fallback={null}>
-      <Tray lookup={lookup} />
+      <Tray />
     </Suspense>
   );
 }
 
-function Tray({ lookup }: { lookup: Lookup }) {
-  const { ids, remove, clear } = useCompare();
+function Tray() {
+  const { entries, remove, clear } = useCompare();
   const path = usePathname();
-  const valid = ids.filter((id) => lookup[id]);
-  const show = valid.length > 0 && path.replace(/\/$/, "") !== "/compare";
+  const show = entries.length > 0 && path.replace(/\/$/, "") !== "/compare";
 
   return (
     <AnimatePresence>
@@ -38,17 +35,17 @@ function Tray({ lookup }: { lookup: Lookup }) {
             <span className="label hidden text-ash md:block">
               Compare
               <br />
-              {valid.length}/{MAX_COMPARE}
+              {entries.length}/{MAX_COMPARE}
             </span>
             <div className="scrollbar-none flex flex-1 gap-2 overflow-x-auto">
               {Array.from({ length: MAX_COMPARE }, (_, i) => {
-                const id = valid[i];
+                const e = entries[i];
                 return (
                   <div key={i} className="relative h-14 min-w-[150px] flex-1 border border-dashed border-rivet">
                     <AnimatePresence mode="popLayout">
-                      {id && (
+                      {e && (
                         <motion.div
-                          key={id}
+                          key={e.slug}
                           initial={{ scale: 0.6, opacity: 0, rotate: -4 }}
                           animate={{ scale: 1, opacity: 1, rotate: 0 }}
                           exit={{ scale: 0.6, opacity: 0 }}
@@ -57,11 +54,11 @@ function Tray({ lookup }: { lookup: Lookup }) {
                         >
                           <div className="min-w-0">
                             <p className="label truncate text-[0.6rem] text-ash">
-                              {lookup[id].brand} · {MOVEMENT_LABELS[lookup[id].movement]}
+                              {e.brand} · {MOVEMENT_LABELS[e.movement]}
                             </p>
-                            <p className="truncate text-sm">{lookup[id].name}</p>
+                            <p className="truncate text-sm">{e.name}</p>
                           </div>
-                          <button onClick={() => remove(id)} aria-label={`Remove ${lookup[id].name}`} className="text-ash hover:text-chalk">
+                          <button onClick={() => remove(e.slug)} aria-label={`Remove ${e.name}`} className="text-ash hover:text-chalk">
                             ×
                           </button>
                         </motion.div>
@@ -73,8 +70,8 @@ function Tray({ lookup }: { lookup: Lookup }) {
             </div>
             <div className="flex flex-col gap-1">
               <Link
-                href={`/compare?ids=${valid.join(",")}`}
-                className={`label px-4 py-2.5 text-center ${valid.length >= 2 ? "bg-chalk text-ink" : "pointer-events-none bg-rivet text-weld"}`}
+                href={`/compare?ids=${entries.map((e) => e.slug).join(",")}`}
+                className={`label px-4 py-2.5 text-center ${entries.length >= 2 ? "bg-chalk text-ink" : "pointer-events-none bg-rivet text-weld"}`}
               >
                 Compare →
               </Link>

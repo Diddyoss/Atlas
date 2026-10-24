@@ -1,6 +1,16 @@
-import type { CatalogueItem } from "./types";
+import type { CatalogueItem, Movement } from "./types";
 
 export const MAX_COMPARE = 4;
+
+/** What the compare tray shows for each machine; stored with the slug so pages don't ship a full lookup. */
+export type CompareEntry = { slug: string; name: string; brand: string; movement: Movement };
+
+export const toCompareEntry = (i: Pick<CatalogueItem, "slug" | "name" | "brand" | "movement">): CompareEntry => ({
+  slug: i.slug,
+  name: i.name,
+  brand: i.brand.name,
+  movement: i.movement,
+});
 
 export type Row = {
   key: string;

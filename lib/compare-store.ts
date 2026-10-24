@@ -1,25 +1,28 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
-import { MAX_COMPARE } from "./compare";
+import { MAX_COMPARE, type CompareEntry } from "./compare";
 
-const KEY = "ironatlas:compare";
+const KEY = "ironatlas:compare:v2";
 const listeners = new Set<() => void>();
-let cache: string[] | null = null;
-const EMPTY: string[] = [];
+let cache: CompareEntry[] | null = null;
+const EMPTY: CompareEntry[] = [];
 
-function read(): string[] {
+const isEntry = (e: unknown): e is CompareEntry =>
+  typeof e === "object" && e !== null && typeof (e as CompareEntry).slug === "string" && typeof (e as CompareEntry).name === "string";
+
+function read(): CompareEntry[] {
   if (cache) return cache;
   try {
     const parsed = JSON.parse(localStorage.getItem(KEY) ?? "[]");
-    cache = Array.isArray(parsed) ? parsed.filter((s) => typeof s === "string").slice(0, MAX_COMPARE) : [];
+    cache = Array.isArray(parsed) ? parsed.filter(isEntry).slice(0, MAX_COMPARE) : [];
   } catch {
     cache = [];
   }
   return cache;
 }
 
-function write(next: string[]) {
+function write(next: CompareEntry[]) {
   cache = next;
   try {
     localStorage.setItem(KEY, JSON.stringify(next));
@@ -45,18 +48,20 @@ function subscribe(l: () => void) {
 }
 
 export function useCompare() {
-  const ids = useSyncExternalStore(subscribe, read, () => EMPTY);
+  const entries = useSyncExternalStore(subscribe, read, () => EMPTY);
+  const ids = entries.map((e) => e.slug);
   return {
+    entries,
     ids,
-    full: ids.length >= MAX_COMPARE,
+    full: entries.length >= MAX_COMPARE,
     has: (slug: string) => ids.includes(slug),
-    toggle: (slug: string) => {
+    toggle: (entry: CompareEntry) => {
       const cur = read();
-      if (cur.includes(slug)) write(cur.filter((s) => s !== slug));
-      else if (cur.length < MAX_COMPARE) write([...cur, slug]);
+      if (cur.some((e) => e.slug === entry.slug)) write(cur.filter((e) => e.slug !== entry.slug));
+      else if (cur.length < MAX_COMPARE) write([...cur, entry]);
     },
-    remove: (slug: string) => write(read().filter((s) => s !== slug)),
-    set: (next: string[]) => write(next.slice(0, MAX_COMPARE)),
+    remove: (slug: string) => write(read().filter((e) => e.slug !== slug)),
+    set: (next: CompareEntry[]) => write(next.slice(0, MAX_COMPARE)),
     clear: () => write([]),
   };
 }

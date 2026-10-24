@@ -43,3 +43,7 @@ next-env.d.ts
 # community votes
 data/community.db*
 
+
+# scraper cache
+scripts/.cache/
+

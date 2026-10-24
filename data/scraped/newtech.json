@@ -1,0 +1,50 @@
+[
+ {
+  "slug": "newtech-seated-row",
+  "images": [
+   {
+    "src": "/equipment/newtech/newtech-seated-row.webp",
+    "credit": "NewTech Wellness (official site)",
+    "sourceUrl": "http://ntws.co.kr/54/?idx=2"
+   }
+  ],
+  "sources": [
+   {
+    "label": "NewTech Wellness (official site)",
+    "url": "http://ntws.co.kr/54/?idx=2"
+   }
+  ]
+ },
+ {
+  "slug": "newtech-lateral-raise",
+  "images": [
+   {
+    "src": "/equipment/newtech/newtech-lateral-raise.webp",
+    "credit": "NewTech Wellness (official site)",
+    "sourceUrl": "http://ntws.co.kr/54/?idx=28"
+   }
+  ],
+  "sources": [
+   {
+    "label": "NewTech Wellness (official site)",
+    "url": "http://ntws.co.kr/54/?idx=28"
+   }
+  ]
+ },
+ {
+  "slug": "newtech-hip-thrust",
+  "images": [
+   {
+    "src": "/equipment/newtech/newtech-hip-thrust.webp",
+    "credit": "NewTech Wellness (official site)",
+    "sourceUrl": "http://ntws.co.kr/54/?idx=39"
+   }
+  ],
+  "sources": [
+   {
+    "label": "NewTech Wellness (official site)",
+    "url": "http://ntws.co.kr/54/?idx=39"
+   }
+  ]
+ }
+]

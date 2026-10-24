@@ -17,6 +17,8 @@ export async function findFallbackImage(item: Equipment, brandName: string): Pro
       console.warn(`    source ${s.url}: ${(e as Error).message}`);
     }
   }
+  // Commons rarely has these machines and name-only matches pick up unrelated photos, so it's opt-in
+  if (!process.argv.includes("--wikimedia")) return null;
   return wikimedia(`${brandName.replace(/\(.*\)/, "").trim()} ${item.name}`, brandName);
 }
 

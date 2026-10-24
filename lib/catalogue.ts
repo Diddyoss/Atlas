@@ -1,5 +1,6 @@
 import brandsJson from "@/data/brands.json";
 import scrapedJson from "@/data/scraped/index.json";
+import generatedJson from "@/data/generated/index.json";
 import { curated } from "@/data/equipment";
 import type { Brand, CatalogueItem, Equipment, Scraped } from "./types";
 
@@ -43,8 +44,21 @@ export function buildCatalogue(brands: Brand[], items: Equipment[], scraped: Scr
 }
 
 const brands = brandsJson as Brand[];
-const catalogue = buildCatalogue(brands, curated, scrapedJson as Scraped[]);
+// Hand-reviewed machines first, then ones discovered from catalogues (estimated profiles)
+export const allEquipment = [...curated, ...(generatedJson as Equipment[])];
+const catalogue = buildCatalogue(brands, allEquipment, scrapedJson as Scraped[]);
 const bySlug = new Map(catalogue.map((i) => [i.slug, i]));
+
+/** Drop long-form text that list, search and compare views never render, to keep page payloads small. */
+export const toListItem = (i: CatalogueItem): CatalogueItem => ({
+  ...i,
+  pros: [],
+  cons: [],
+  editorialNote: "",
+  sources: [],
+  resistanceProfile: { ...i.resistanceProfile, notes: "" },
+  images: i.images.slice(0, 1).map((img) => ({ ...img, credit: "", sourceUrl: "https://x.invalid" })),
+});
 
 export const getBrands = () => brands;
 export const getBrand = (slug: string) => brands.find((b) => b.slug === slug);

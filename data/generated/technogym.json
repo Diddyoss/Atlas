@@ -1,0 +1,3594 @@
+[
+ {
+  "slug": "technogym-kinesis-press-station",
+  "brandSlug": "technogym",
+  "name": "Kinesis Press Station",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-kinesis-press-station.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-kinesis-press-station-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-kinesis-press-station-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-plurima-multistation-twin",
+  "brandSlug": "technogym",
+  "name": "Plurima Multistation - Twin",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-plurima-multistation-twin.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-twin-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-twin-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-plurima-core-leg-curl-leg-extension",
+  "brandSlug": "technogym",
+  "name": "Plurima Core / Leg Curl - Leg Extension",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-plurima-core-leg-curl-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-plurima-core-leg-curl-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-plurima-core-leg-curl-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-plurima-multistation-wall",
+  "brandSlug": "technogym",
+  "name": "Plurima Multistation Wall",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-plurima-multistation-wall.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-wall-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-wall-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-plurima-multistation-tower",
+  "brandSlug": "technogym",
+  "name": "Plurima Multistation Tower",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-plurima-multistation-tower.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-tower-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-tower-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-plurima-multistation-solo-leg-press-calf",
+  "brandSlug": "technogym",
+  "name": "Plurima Multistation-Solo Leg Press / Calf",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-plurima-multistation-solo-leg-press-calf.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-solo-leg-press-calf-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-solo-leg-press-calf-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-upper-back",
+  "brandSlug": "technogym",
+  "name": "Upper Back",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-upper-back.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-upper-back-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-upper-back-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-total-abdominal",
+  "brandSlug": "technogym",
+  "name": "Total Abdominal",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-total-abdominal.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-total-abdominal-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-total-abdominal-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-leg-press",
+  "brandSlug": "technogym",
+  "name": "Leg Press",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-shoulder-press",
+  "brandSlug": "technogym",
+  "name": "Shoulder Press",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-rotary-torso-rotation",
+  "brandSlug": "technogym",
+  "name": "Rotary Torso Rotation",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-rotary-torso-rotation.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-rotary-torso-rotation-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-rotary-torso-rotation-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-rotary-calf",
+  "brandSlug": "technogym",
+  "name": "Rotary Calf",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-rotary-calf.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-rotary-calf-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-rotary-calf-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-pectoral-pec-fly-machine",
+  "brandSlug": "technogym",
+  "name": "Pectoral Pec Fly Machine",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-pectoral-pec-fly-machine.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-pectoral-pec-fly-machine-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-pectoral-pec-fly-machine-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-lower-back",
+  "brandSlug": "technogym",
+  "name": "Lower Back",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-lower-back.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-lower-back-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-lower-back-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-leg-extension",
+  "brandSlug": "technogym",
+  "name": "Leg Extension",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-seated-leg-curl",
+  "brandSlug": "technogym",
+  "name": "Seated Leg Curl",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-seated-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-seated-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-seated-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-lat-pulldown",
+  "brandSlug": "technogym",
+  "name": "Lat Pulldown",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-lat-pulldown.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-lat-pulldown-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-lat-pulldown-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-glute",
+  "brandSlug": "technogym",
+  "name": "Glute",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-glute.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-glute-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-glute-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-chin-dip-assist",
+  "brandSlug": "technogym",
+  "name": "Chin / Dip Assist",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-chin-dip-assist.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-chin-dip-assist-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-chin-dip-assist-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-arm-tricep-extension",
+  "brandSlug": "technogym",
+  "name": "Arm Tricep Extension",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-arm-tricep-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-arm-tricep-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-arm-tricep-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-arm-curl",
+  "brandSlug": "technogym",
+  "name": "Arm Curl",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-arm-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-arm-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-arm-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-pulley",
+  "brandSlug": "technogym",
+  "name": "Pulley",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-pulley.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-pulley-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-pulley-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-pure-strength-plate-loaded-shoulder-press",
+  "brandSlug": "technogym",
+  "name": "Plate Loaded Shoulder Press",
+  "series": "Pure Strength",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-pure-strength-plate-loaded-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-pure-strength-plate-loaded-row",
+  "brandSlug": "technogym",
+  "name": "Plate Loaded Row",
+  "series": "Pure Strength",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-pure-strength-plate-loaded-row.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-row-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-row-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-pure-strength-plate-loaded-chest-press",
+  "brandSlug": "technogym",
+  "name": "Plate Loaded Chest Press",
+  "series": "Pure Strength",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-pure-strength-plate-loaded-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-pure-strength-plate-loaded-calf-press",
+  "brandSlug": "technogym",
+  "name": "Plate Loaded Calf Press",
+  "series": "Pure Strength",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-pure-strength-plate-loaded-calf-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-calf-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-calf-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-med-45-degree-back-hyperextension",
+  "brandSlug": "technogym",
+  "name": "Med 45 Degree Back Hyperextension",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-med-45-degree-back-hyperextension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-med-45-degree-back-hyperextension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-med-45-degree-back-hyperextension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-low-row",
+  "brandSlug": "technogym",
+  "name": "Low Row",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-low-row.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-low-row-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-low-row-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-leg-press",
+  "brandSlug": "technogym",
+  "name": "Leg Press",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-leg-extension",
+  "brandSlug": "technogym",
+  "name": "Leg Extension",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-shoulder-press",
+  "brandSlug": "technogym",
+  "name": "Shoulder Press",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-low-row",
+  "brandSlug": "technogym",
+  "name": "Low Row",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-low-row.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-low-row-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-low-row-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-lower-back",
+  "brandSlug": "technogym",
+  "name": "Lower Back",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-lower-back.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-lower-back-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-lower-back-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-chest-incline",
+  "brandSlug": "technogym",
+  "name": "Chest Incline",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-chest-incline.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-chest-incline-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-chest-incline-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-chest-press",
+  "brandSlug": "technogym",
+  "name": "Chest Press",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-chest-press",
+  "brandSlug": "technogym",
+  "name": "Chest Press",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-arm-curl",
+  "brandSlug": "technogym",
+  "name": "Arm Curl",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-arm-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-arm-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-arm-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-hip-adduction-inner-thigh",
+  "brandSlug": "technogym",
+  "name": "Hip Adduction / Inner Thigh",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-hip-adduction-inner-thigh.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-hip-adduction-inner-thigh-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-hip-adduction-inner-thigh-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-hip-abduction-outer-thigh",
+  "brandSlug": "technogym",
+  "name": "Hip Abduction / Outer Thigh",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-hip-abduction-outer-thigh.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-hip-abduction-outer-thigh-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-hip-abduction-outer-thigh-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-abdominal-crunch",
+  "brandSlug": "technogym",
+  "name": "Abdominal Crunch",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-abdominal-crunch.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-crunch-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-crunch-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-multi-adjustable-bench",
+  "brandSlug": "technogym",
+  "name": "Multi Adjustable Bench",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-multi-adjustable-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-multi-adjustable-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-multi-adjustable-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-abdominal-decline-bench",
+  "brandSlug": "technogym",
+  "name": "Abdominal / Decline Bench",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-abdominal-decline-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-decline-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-decline-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-selection-radiant-functional-trainer",
+  "brandSlug": "technogym",
+  "name": "Radiant Functional Trainer",
+  "series": "Selection",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-selection-radiant-functional-trainer.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-selection-radiant-functional-trainer-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-selection-radiant-functional-trainer-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-kinesis-personal-vision",
+  "brandSlug": "technogym",
+  "name": "Kinesis Personal Vision",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-kinesis-personal-vision.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-kinesis-personal-vision-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-kinesis-personal-vision-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-k1-kinesis-one",
+  "brandSlug": "technogym",
+  "name": "K1 Kinesis One",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-k1-kinesis-one.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-k1-kinesis-one-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-k1-kinesis-one-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-kinesis-class-functional-trainer-wall",
+  "brandSlug": "technogym",
+  "name": "Kinesis Class Functional Trainer Wall",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-kinesis-class-functional-trainer-wall.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-kinesis-class-functional-trainer-wall-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-kinesis-class-functional-trainer-wall-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-pure-strength-linear-leg-press-plate-loaded",
+  "brandSlug": "technogym",
+  "name": "Linear Leg Press Plate Loaded",
+  "series": "Pure Strength",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-pure-strength-linear-leg-press-plate-loaded.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-pure-strength-linear-leg-press-plate-loaded-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-linear-leg-press-plate-loaded-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-artis-leg-extension",
+  "brandSlug": "technogym",
+  "name": "Artis Leg Extension",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-artis-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-artis-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-artis-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-artis-total-abdominal",
+  "brandSlug": "technogym",
+  "name": "Artis Total Abdominal",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-artis-total-abdominal.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-artis-total-abdominal-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-artis-total-abdominal-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-element-abdominal-crunch",
+  "brandSlug": "technogym",
+  "name": "Abdominal Crunch",
+  "series": "Element",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-element-abdominal-crunch.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-element-abdominal-crunch-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-element-abdominal-crunch-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-pure-strength-45-degree-back-hyperextension-bench",
+  "brandSlug": "technogym",
+  "name": "45 Degree Back Hyperextension Bench",
+  "series": "Pure Strength",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-pure-strength-45-degree-back-hyperextension-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-pure-strength-45-degree-back-hyperextension-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-45-degree-back-hyperextension-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "technogym-4-stack-cable-jungle-gym",
+  "brandSlug": "technogym",
+  "name": "4-Stack Cable Jungle Gym",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/technogym/technogym-4-stack-cable-jungle-gym.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/technogym-4-stack-cable-jungle-gym-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/technogym-4-stack-cable-jungle-gym-remanufactured"
+   }
+  ]
+ }
+]

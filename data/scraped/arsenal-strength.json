@@ -1,0 +1,34 @@
+[
+ {
+  "slug": "arsenal-reloaded-pendulum-squat",
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-pendulum-squat.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-pendulum-squat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-pendulum-squat/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-hack-squat",
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-hack-squat.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-hack-squat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-hack-squat/"
+   }
+  ]
+ }
+]

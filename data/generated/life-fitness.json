@@ -1,0 +1,2887 @@
+[
+ {
+  "slug": "lf-insignia-dual-axis-chest-press",
+  "brandSlug": "life-fitness",
+  "name": "Dual Axis Chest Press",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-dual-axis-chest-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-assist-dip-chin",
+  "brandSlug": "life-fitness",
+  "name": "Assist Dip Chin",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-assist-dip-chin.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-assist-dip-chin"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-assist-dip-chin"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-biceps-curl",
+  "brandSlug": "life-fitness",
+  "name": "Biceps Curl",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-biceps-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-biceps-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-biceps-curl"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-biceps-curl-dependent",
+  "brandSlug": "life-fitness",
+  "name": "Biceps Curl - Dependent",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-biceps-curl-dependent.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-biceps-curl-dependent"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-biceps-curl-dependent"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-dual-axis-pulldown",
+  "brandSlug": "life-fitness",
+  "name": "Dual Axis Pulldown",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-dual-axis-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-lateral-raise",
+  "brandSlug": "life-fitness",
+  "name": "Lateral Raise",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-lateral-raise.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-lateral-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-lateral-raise"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-pectoral-fly-rear-deltoid",
+  "brandSlug": "life-fitness",
+  "name": "Pectoral Fly/rear Deltoid",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-pectoral-fly-rear-deltoid.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-pectoral-fly-rear-deltoid"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-pectoral-fly-rear-deltoid"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-row",
+  "brandSlug": "life-fitness",
+  "name": "Row",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-row"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-shoulder-press",
+  "brandSlug": "life-fitness",
+  "name": "Shoulder Press",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-shoulder-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-triceps-extension",
+  "brandSlug": "life-fitness",
+  "name": "Triceps Extension",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-triceps-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-triceps-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-triceps-extension"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-triceps-press",
+  "brandSlug": "life-fitness",
+  "name": "Triceps Press",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-triceps-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-triceps-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-triceps-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-abdominal",
+  "brandSlug": "life-fitness",
+  "name": "Abdominal",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-abdominal.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-abdominal"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-abdominal"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-torso-rotation",
+  "brandSlug": "life-fitness",
+  "name": "Torso Rotation",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-torso-rotation.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-torso-rotation"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-torso-rotation"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-abdominal-advanced",
+  "brandSlug": "life-fitness",
+  "name": "Abdominal Advanced",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-abdominal-advanced.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-abdominal-advanced"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-abdominal-advanced"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-back-extension",
+  "brandSlug": "life-fitness",
+  "name": "Back Extension",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-back-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-back-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-back-extension"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-arc-leg-press",
+  "brandSlug": "life-fitness",
+  "name": "Arc Leg Press",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-arc-leg-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-arc-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-arc-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-calf-extension",
+  "brandSlug": "life-fitness",
+  "name": "Calf Extension",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-calf-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-calf-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-calf-extension"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-glute",
+  "brandSlug": "life-fitness",
+  "name": "Glute",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-glute.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-glute"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-glute"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-glute-bridge",
+  "brandSlug": "life-fitness",
+  "name": "Glute Bridge",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-glute-bridge.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-glute-bridge"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-glute-bridge"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-hip-abduction-adduction",
+  "brandSlug": "life-fitness",
+  "name": "Hip Abduction / Adduction",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-hip-abduction-adduction.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-hip-abductor-adductor"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-hip-abductor-adductor"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-hip-adduction",
+  "brandSlug": "life-fitness",
+  "name": "Hip Adduction",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-hip-adduction.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-hip-adduction"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-hip-adduction"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-leg-curl",
+  "brandSlug": "life-fitness",
+  "name": "Leg Curl",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-seated-leg-curl",
+  "brandSlug": "life-fitness",
+  "name": "Seated Leg Curl",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-seated-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-seated-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-seated-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-sit-stand-hip-abductor",
+  "brandSlug": "life-fitness",
+  "name": "Sit / Stand Hip Abductor",
+  "series": "Insignia",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-sit-stand-hip-abductor.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-sit-stand-hip-abductor"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-sit-stand-hip-abductor"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-biceps-curl",
+  "brandSlug": "life-fitness",
+  "name": "Biceps Curl",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-biceps-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-biceps-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-biceps-curl"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-biceps-triceps",
+  "brandSlug": "life-fitness",
+  "name": "Biceps / Triceps",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-biceps-triceps.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-biceps-triceps"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-biceps-triceps"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-chest-press",
+  "brandSlug": "life-fitness",
+  "name": "Chest Press",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-chest-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-lat-pulldown",
+  "brandSlug": "life-fitness",
+  "name": "Lat Pulldown",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-lat-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-lat-pulldown-low-row",
+  "brandSlug": "life-fitness",
+  "name": "Lat Pulldown/low Row",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-lat-pulldown-low-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-lat-pulldown-low-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-lat-pulldown-low-row"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-multi-press",
+  "brandSlug": "life-fitness",
+  "name": "Multi-Press",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-multi-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-multi-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-multi-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-pectoral-fly-rear-deltoid",
+  "brandSlug": "life-fitness",
+  "name": "Pectoral Fly/rear Deltoid",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-pectoral-fly-rear-deltoid.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-pectoral-fly-rear-deltoid"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-pectoral-fly-rear-deltoid"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-seated-row",
+  "brandSlug": "life-fitness",
+  "name": "Seated Row",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-seated-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-seated-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-seated-row"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-shoulder-press",
+  "brandSlug": "life-fitness",
+  "name": "Shoulder Press",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-shoulder-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-triceps-extension",
+  "brandSlug": "life-fitness",
+  "name": "Triceps Extension",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-triceps-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-triceps-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-triceps-extension"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-abdominal",
+  "brandSlug": "life-fitness",
+  "name": "Abdominal",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-abdominal.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-abdominal"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-abdominal"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-abdominal-back-extension",
+  "brandSlug": "life-fitness",
+  "name": "Abdominal / Back Extension",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-abdominal-back-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-abdominal-back-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-abdominal-back-extension"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-hip-abductor-adductor",
+  "brandSlug": "life-fitness",
+  "name": "Hip Abductor Adductor",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-hip-abductor-adductor.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-hip-abductor-adductor"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-hip-abductor-adductor"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-leg-curl",
+  "brandSlug": "life-fitness",
+  "name": "Leg Curl",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-leg-extension",
+  "brandSlug": "life-fitness",
+  "name": "Leg Extension",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-leg-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-leg-extension-leg-curl",
+  "brandSlug": "life-fitness",
+  "name": "Leg Extension / Leg Curl",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-leg-extension-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-extension-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-extension-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-leg-press",
+  "brandSlug": "life-fitness",
+  "name": "Leg Press",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-leg-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-axiom-seated-leg-curl-extension",
+  "brandSlug": "life-fitness",
+  "name": "Seated Leg Curl / Extension",
+  "series": "Axiom",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-axiom-seated-leg-curl-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-seated-leg-curl-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-seated-leg-curl-extension"
+   }
+  ]
+ }
+]

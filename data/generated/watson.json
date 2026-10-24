@@ -1,0 +1,1555 @@
+[
+ {
+  "slug": "watson-single-stack-dual-cable-lat-pulldown",
+  "brandSlug": "watson",
+  "name": "Single Stack Dual Cable Lat Pulldown",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-single-stack-dual-cable-lat-pulldown.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-single-stack-dual-cable-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-single-stack-dual-cable-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "watson-adjustable-sissy-squat",
+  "brandSlug": "watson",
+  "name": "Adjustable Sissy Squat",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-adjustable-sissy-squat.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-adjustable-sissy-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-adjustable-sissy-squat"
+   }
+  ]
+ },
+ {
+  "slug": "watson-plate-loaded-smith-machine",
+  "brandSlug": "watson",
+  "name": "Plate Loaded Smith Machine",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-plate-loaded-smith-machine.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-plate-loaded-smith-machine"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-plate-loaded-smith-machine"
+   }
+  ]
+ },
+ {
+  "slug": "watson-lat-pulldown-low-pulley",
+  "brandSlug": "watson",
+  "name": "Lat Pulldown / Low Pulley",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-lat-pulldown-low-pulley.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-lat-pulldown-low-pulley-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-lat-pulldown-low-pulley-row"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-dual-stack-chest-press",
+  "brandSlug": "watson",
+  "name": "Dual Stack Chest Press",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-dual-stack-chest-press.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-dual-stack-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-dual-stack-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-chest-support-t-bar-row",
+  "brandSlug": "watson",
+  "name": "Chest Support T-Bar Row",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-chest-support-t-bar-row.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-chest-support-t-bar-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-chest-support-t-bar-row"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-front-pulldown-dual-stack",
+  "brandSlug": "watson",
+  "name": "Front Pulldown (dual Stack)",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-front-pulldown-dual-stack.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-dual-stack-front-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-dual-stack-front-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-leg-press-plate-loaded",
+  "brandSlug": "watson",
+  "name": "Leg Press - Plate Loaded",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-leg-press-plate-loaded.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-plate-load-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-plate-load-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "watson-linear-hack-squat-45-degree",
+  "brandSlug": "watson",
+  "name": "Linear Hack Squat - 45 Degree",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-linear-hack-squat-45-degree.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-linear-hack-squat-45-degree"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-linear-hack-squat-45-degree"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-functional-trainer",
+  "brandSlug": "watson",
+  "name": "Functional Trainer",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-functional-trainer.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-functional-trainer"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-functional-trainer"
+   }
+  ]
+ },
+ {
+  "slug": "watson-half-rack-jungle",
+  "brandSlug": "watson",
+  "name": "Half Rack Jungle",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-half-rack-jungle.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-half-rack-jungle"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-half-rack-jungle"
+   }
+  ]
+ },
+ {
+  "slug": "watson-counter-balanced-plate-loaded-smith-machine",
+  "brandSlug": "watson",
+  "name": "Counter-Balanced Plate Loaded Smith Machine",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-counter-balanced-plate-loaded-smith-machine.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-counter-balanced-plate-loaded-smith-machine"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-counter-balanced-plate-loaded-smith-machine"
+   }
+  ]
+ },
+ {
+  "slug": "watson-dual-adjustable-pulley-dap",
+  "brandSlug": "watson",
+  "name": "Dual Adjustable Pulley (dap)",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-dual-adjustable-pulley-dap.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-dual-adjustable-pulley"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-dual-adjustable-pulley"
+   }
+  ]
+ },
+ {
+  "slug": "watson-dual-cable-adjustable-pulley",
+  "brandSlug": "watson",
+  "name": "Dual Cable Adjustable Pulley",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-dual-cable-adjustable-pulley.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-dual-cable-adjustable-pulley"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-dual-cable-adjustable-pulley"
+   }
+  ]
+ },
+ {
+  "slug": "watson-cable-crossover",
+  "brandSlug": "watson",
+  "name": "Cable Crossover",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-cable-crossover.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-cable-crossover"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-cable-crossover"
+   }
+  ]
+ },
+ {
+  "slug": "watson-single-weight-stack-adjustable-pulley",
+  "brandSlug": "watson",
+  "name": "Single Weight Stack Adjustable Pulley",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-single-weight-stack-adjustable-pulley.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-single-weight-stack-adjustable-pulley"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-single-weight-stack-adjustable-pulley"
+   }
+  ]
+ },
+ {
+  "slug": "watson-dual-stack-smith-machine",
+  "brandSlug": "watson",
+  "name": "Dual Stack Smith Machine",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-dual-stack-smith-machine.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-dual-stack-smith-machine"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-dual-stack-smith-machine"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-power-cage",
+  "brandSlug": "watson",
+  "name": "Power Cage",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-power-cage.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-cage"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-cage"
+   }
+  ]
+ },
+ {
+  "slug": "watson-wall-mounted-half-rack",
+  "brandSlug": "watson",
+  "name": "Wall Mounted Half Rack",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-wall-mounted-half-rack.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-wall-mounted-half-rack"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-wall-mounted-half-rack"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-half-rack",
+  "brandSlug": "watson",
+  "name": "Half Rack",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-half-rack.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-half-rack"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-half-rack"
+   }
+  ]
+ },
+ {
+  "slug": "watson-adjustable-bench",
+  "brandSlug": "watson",
+  "name": "Adjustable Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-adjustable-bench.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-adjustable-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-adjustable-bench"
+   }
+  ]
+ },
+ {
+  "slug": "watson-animal-adjustable-bench",
+  "brandSlug": "watson",
+  "name": "Adjustable Bench",
+  "series": "Animal",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/watson/watson-animal-adjustable-bench.webp",
+    "credit": "Gym Equipment UK (Watson dealer)",
+    "sourceUrl": "https://gymequipment.co.uk/watson-animal-adjustable-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gym Equipment UK (Watson dealer)",
+    "url": "https://gymequipment.co.uk/watson-animal-adjustable-bench"
+   }
+  ]
+ }
+]

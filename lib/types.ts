@@ -99,6 +99,8 @@ export const EquipmentSchema = z.object({
   secondaryMuscles: z.array(muscle),
   isoLateral: z.boolean(),
   discontinued: z.boolean(),
+  /** Profile and scores come from the movement template rather than a hands-on review */
+  estimated: z.boolean(),
   years: z.string().optional(),
   resistanceProfile: z.object({
     shape: z.enum(PROFILE_SHAPES),

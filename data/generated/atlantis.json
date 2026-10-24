@@ -1,0 +1,5571 @@
+[
+ {
+  "slug": "atlantis-dual-seated-crunch-a301",
+  "brandSlug": "atlantis",
+  "name": "Dual Seated Crunch (A301)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-dual-seated-crunch-a301.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/a301"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/a301"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-adjustable-sit-up-bench-a264",
+  "brandSlug": "atlantis",
+  "name": "Adjustable Sit Up Bench (A264)",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-adjustable-sit-up-bench-a264.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/a264"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/a264"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-poliquin-seated-preacher-curl-b856",
+  "brandSlug": "atlantis",
+  "name": "Poliquin Seated Preacher Curl (B856)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-poliquin-seated-preacher-curl-b856.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/b856"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/b856"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-selectorized-french-press-t262",
+  "brandSlug": "atlantis",
+  "name": "Selectorized French Press (T262)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-selectorized-french-press-t262.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/t262"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/t262"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-biceps-curl-b157",
+  "brandSlug": "atlantis",
+  "name": "Biceps Curl (B157)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-biceps-curl-b157.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/b157"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/b157"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-horizontal-curl-b158",
+  "brandSlug": "atlantis",
+  "name": "Horizontal Curl (B158)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-horizontal-curl-b158.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/b158"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/b158"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-biceps-isolator-b160",
+  "brandSlug": "atlantis",
+  "name": "Biceps Isolator (B160)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-biceps-isolator-b160.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/b160"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/b160"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-horizontal-biceps-isolator-b260",
+  "brandSlug": "atlantis",
+  "name": "Horizontal Biceps Isolator (B260)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-horizontal-biceps-isolator-b260.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/b260"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/b260"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-assisted-chin-dip-d131",
+  "brandSlug": "atlantis",
+  "name": "Assisted Chin/dip (D131)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-assisted-chin-dip-d131.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d131"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d131"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-overhead-triceps-cable-motion-t161",
+  "brandSlug": "atlantis",
+  "name": "Overhead Triceps (cable Motion) (T161)",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-overhead-triceps-cable-motion-t161.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/t161"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/t161"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-overhead-triceps-t162",
+  "brandSlug": "atlantis",
+  "name": "Overhead Triceps (T162)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-overhead-triceps-t162.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/t162"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/t162"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-triceps-pushdown-t163",
+  "brandSlug": "atlantis",
+  "name": "Triceps Pushdown (T163)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-triceps-pushdown-t163.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/t163"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/t163"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-triceps-extension-t164",
+  "brandSlug": "atlantis",
+  "name": "Triceps Extension (T164)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-triceps-extension-t164.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/t164"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/t164"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-incline-triceps-pushdown-t215",
+  "brandSlug": "atlantis",
+  "name": "Incline Triceps Pushdown (T215)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-incline-triceps-pushdown-t215.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/t215"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/t215"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-preacher-curl-pw357",
+  "brandSlug": "atlantis",
+  "name": "Preacher Curl (PW357)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-preacher-curl-pw357.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw357"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw357"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-seated-preacher-curl-b256",
+  "brandSlug": "atlantis",
+  "name": "Seated Preacher Curl (B256)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-seated-preacher-curl-b256.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/b256"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/b256"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-standing-bicep-curl-b257",
+  "brandSlug": "atlantis",
+  "name": "Standing Bicep Curl (B257)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-standing-bicep-curl-b257.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/b257"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/b257"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-unilateral-lat-pulldown-pw623",
+  "brandSlug": "atlantis",
+  "name": "Unilateral Lat Pulldown (PW623)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-unilateral-lat-pulldown-pw623.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw623"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw623"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-shrug-and-deadlift-machine-pw335",
+  "brandSlug": "atlantis",
+  "name": "Shrug And Deadlift Machine (PW335)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-shrug-and-deadlift-machine-pw335.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw335"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw335"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-incline-t-bar-row-pw625",
+  "brandSlug": "atlantis",
+  "name": "Incline T-Bar Row (PW625)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-incline-t-bar-row-pw625.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw625"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw625"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-incline-hyper-extension-pro-d828",
+  "brandSlug": "atlantis",
+  "name": "Incline Hyper Extension Pro (D828)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-incline-hyper-extension-pro-d828.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d828"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d828"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-incline-hyper-extension-pro-flat-version-d828f",
+  "brandSlug": "atlantis",
+  "name": "Incline Hyper Extension Pro (flat Version) (D828F)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-incline-hyper-extension-pro-flat-version-d828f.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d828f"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d828f"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-lat-pulldown-d123",
+  "brandSlug": "atlantis",
+  "name": "Lat Pulldown (D123)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-lat-pulldown-d123.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d123"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d123"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-low-row-d124",
+  "brandSlug": "atlantis",
+  "name": "Low Row (D124)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-low-row-d124.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d124"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d124"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-incline-row-d132",
+  "brandSlug": "atlantis",
+  "name": "Incline Row (D132)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-incline-row-d132.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d132"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d132"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-diverging-row-d337",
+  "brandSlug": "atlantis",
+  "name": "Diverging Row (D337)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-diverging-row-d337.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d337"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d337"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-vertical-row-d433",
+  "brandSlug": "atlantis",
+  "name": "Vertical Row (D433)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-vertical-row-d433.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d433"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d433"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-lat-pulldown-low-row-combo-heavy-stack-d438",
+  "brandSlug": "atlantis",
+  "name": "Lat Pulldown / Low Row Combo (heavy Stack) (D438)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-lat-pulldown-low-row-combo-heavy-stack-d438.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d438"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d438"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-seal-row-d533",
+  "brandSlug": "atlantis",
+  "name": "Seal Row (D533)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-seal-row-d533.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d533"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d533"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-unilateral-low-row-nm510-model-ms13",
+  "brandSlug": "atlantis",
+  "name": "Unilateral Low Row (nm510 Model) (MS13)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-unilateral-low-row-nm510-model-ms13.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/ms13"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/ms13"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-unilateral-lat-pulldown-nm500-model-ms12",
+  "brandSlug": "atlantis",
+  "name": "Unilateral Lat Pulldown (nm500 Model) (MS12)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-unilateral-lat-pulldown-nm500-model-ms12.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/ms12"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/ms12"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-reverse-hyper-extension-machine-d215",
+  "brandSlug": "atlantis",
+  "name": "Reverse Hyper Extension Machine (D215)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-reverse-hyper-extension-machine-d215.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d215"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d215"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-front-pulldown-pw423",
+  "brandSlug": "atlantis",
+  "name": "Front Pulldown (PW423)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-front-pulldown-pw423.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw423"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw423"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-row-pw437",
+  "brandSlug": "atlantis",
+  "name": "Row (PW437)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-row-pw437.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw437"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw437"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-low-row-pw637",
+  "brandSlug": "atlantis",
+  "name": "Low Row (PW637)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-low-row-pw637.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw637"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw637"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-lat-pulldown-rd123",
+  "brandSlug": "atlantis",
+  "name": "Lat Pulldown (RD123)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-lat-pulldown-rd123.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/rd123"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/rd123"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-low-row-rd124",
+  "brandSlug": "atlantis",
+  "name": "Low Row (RD124)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-low-row-rd124.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/rd124"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/rd124"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-lat-pulldown-low-row-combo-heavy-stack-rd438",
+  "brandSlug": "atlantis",
+  "name": "Lat Pulldown / Low Row Combo (heavy Stack) (RD438)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-lat-pulldown-low-row-combo-heavy-stack-rd438.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/rd438"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/rd438"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-standing-calf-m118",
+  "brandSlug": "atlantis",
+  "name": "Standing Calf (M118)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-standing-calf-m118.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/m118"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/m118"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-incline-calf-raise-m318",
+  "brandSlug": "atlantis",
+  "name": "Incline Calf Raise (M318)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-incline-calf-raise-m318.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/m318"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/m318"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-seated-calf-m219",
+  "brandSlug": "atlantis",
+  "name": "Seated Calf (M219)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-seated-calf-m219.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/m219"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/m219"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-seated-calf-press-pw319",
+  "brandSlug": "atlantis",
+  "name": "Seated Calf Press (PW319)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-seated-calf-press-pw319.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw319"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw319"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-seated-converging-chest-press-p140",
+  "brandSlug": "atlantis",
+  "name": "Seated Converging Chest Press (P140)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-seated-converging-chest-press-p140.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p140"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p140"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-incline-converging-chest-press-p143",
+  "brandSlug": "atlantis",
+  "name": "Incline Converging Chest Press (P143)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-incline-converging-chest-press-p143.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p143"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p143"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-pullover-p144",
+  "brandSlug": "atlantis",
+  "name": "Pullover (P144)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pullover",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    99,
+    97,
+    93,
+    88,
+    83,
+    79,
+    76,
+    74,
+    72,
+    70
+   ],
+   "notes": "Pullovers are classically stretch-loaded overhead. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 9,
+   "rom": 9,
+   "ergonomics": 6,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-pullover-p144.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p144"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p144"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-pec-rear-delt-fly-combo-p156",
+  "brandSlug": "atlantis",
+  "name": "Pec / Rear Delt Fly Combo (P156)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-pec-rear-delt-fly-combo-p156.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p156"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p156"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-vertical-pec-fly-p356",
+  "brandSlug": "atlantis",
+  "name": "Vertical Pec Fly (P356)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-vertical-pec-fly-p356.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p356"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p356"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-decline-flat-converging-bench-press-p439",
+  "brandSlug": "atlantis",
+  "name": "Decline / Flat Converging Bench Press (P439)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-decline-flat-converging-bench-press-p439.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p439"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p439"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-lying-converging-bench-press-p441",
+  "brandSlug": "atlantis",
+  "name": "Lying Converging Bench Press (P441)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-lying-converging-bench-press-p441.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p441"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p441"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-converging-incline-bench-press-p443",
+  "brandSlug": "atlantis",
+  "name": "Converging Incline Bench Press (P443)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-converging-incline-bench-press-p443.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p443"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p443"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-incline-pec-fly-pw256",
+  "brandSlug": "atlantis",
+  "name": "Incline Pec Fly (PW256)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-incline-pec-fly-pw256.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw256"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw256"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-vertical-chest-press-pw737",
+  "brandSlug": "atlantis",
+  "name": "Vertical Chest Press (PW737)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-vertical-chest-press-pw737.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw737"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw737"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-decline-vertical-chest-press-pw739",
+  "brandSlug": "atlantis",
+  "name": "Decline Vertical Chest Press (PW739)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-decline-vertical-chest-press-pw739.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw739"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw739"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-olympic-incline-bench-press-with-pivot-p338",
+  "brandSlug": "atlantis",
+  "name": "Olympic Incline Bench Press (with Pivot) (P338)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-olympic-incline-bench-press-with-pivot-p338.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/p338"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/p338"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-glute-abductor-pw429",
+  "brandSlug": "atlantis",
+  "name": "Glute Abductor (PW429)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-glute-abductor-pw429.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw429"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw429"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-pendulum-squat-pro-pw212",
+  "brandSlug": "atlantis",
+  "name": "Pendulum Squat Pro (PW212)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pendulum-squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    99,
+    97,
+    93,
+    88,
+    83,
+    79,
+    76,
+    74,
+    72,
+    70
+   ],
+   "notes": "Pendulum arc: heaviest in the hole where the quads are longest. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 9,
+   "rom": 9,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-pendulum-squat-pro-pw212.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw212"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw212"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-power-squat-pro-pw611",
+  "brandSlug": "atlantis",
+  "name": "Power Squat Pro (PW611)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-power-squat-pro-pw611.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw611"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw611"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-hack-squat-machine-pw412",
+  "brandSlug": "atlantis",
+  "name": "Hack Squat Machine (PW412)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-hack-squat-machine-pw412.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw412"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw412"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-unilateral-leg-press-pro-pw419",
+  "brandSlug": "atlantis",
+  "name": "Unilateral Leg Press Pro (PW419)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-unilateral-leg-press-pro-pw419.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw419"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw419"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-leg-extension-c105",
+  "brandSlug": "atlantis",
+  "name": "Leg Extension (C105)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-leg-extension-c105.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c105"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c105"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-lying-leg-curl-c106",
+  "brandSlug": "atlantis",
+  "name": "Lying Leg Curl (C106)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-lying-leg-curl-c106.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c106"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c106"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-standing-leg-curl-c107",
+  "brandSlug": "atlantis",
+  "name": "Standing Leg Curl (C107)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-standing-leg-curl-c107.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c107"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c107"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-seated-leg-curl-c108",
+  "brandSlug": "atlantis",
+  "name": "Seated Leg Curl (C108)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-seated-leg-curl-c108.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c108"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c108"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-kneeling-leg-curl-c118",
+  "brandSlug": "atlantis",
+  "name": "Kneeling Leg Curl (C118)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-kneeling-leg-curl-c118.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c118"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c118"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-glute-machine-c122",
+  "brandSlug": "atlantis",
+  "name": "Glute Machine (C122)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-glute-machine-c122.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c122"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c122"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-adjustable-single-leg-squat-stand-c220",
+  "brandSlug": "atlantis",
+  "name": "Adjustable Single Leg Squat Stand (C220)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-adjustable-single-leg-squat-stand-c220.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c220"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c220"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-leg-extension-leg-curl-combo-c230",
+  "brandSlug": "atlantis",
+  "name": "Leg Extension/leg Curl Combo (C230)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-leg-extension-leg-curl-combo-c230.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c230"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c230"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-hip-abductor-machine-c329",
+  "brandSlug": "atlantis",
+  "name": "Hip Abductor Machine (C329)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-hip-abductor-machine-c329.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c329"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c329"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-horizontal-leg-press-c403",
+  "brandSlug": "atlantis",
+  "name": "Horizontal Leg Press (C403)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-horizontal-leg-press-c403.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c403"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c403"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-40-degree-leg-press-c401",
+  "brandSlug": "atlantis",
+  "name": "40 Degree Leg Press (C401)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-40-degree-leg-press-c401.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c401"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c401"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-hack-squat-c412",
+  "brandSlug": "atlantis",
+  "name": "Hack Squat (C412)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-hack-squat-c412.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c412"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c412"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-assisted-glute-and-ham-developer-pw322",
+  "brandSlug": "atlantis",
+  "name": "Assisted Glute And Ham Developer (PW322)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-assisted-glute-and-ham-developer-pw322.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw322"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw322"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-belt-squat-pw511",
+  "brandSlug": "atlantis",
+  "name": "Belt Squat (PW511)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-belt-squat-pw511.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw511"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw511"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-poor-man-s-glute-and-ham-developer-c322",
+  "brandSlug": "atlantis",
+  "name": "Poor Man’s Glute And Ham Developer (C322)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-poor-man-s-glute-and-ham-developer-c322.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c322"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c322"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-sissy-squat-c117",
+  "brandSlug": "atlantis",
+  "name": "Sissy Squat (C117)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-sissy-squat-c117.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/c117"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/c117"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-precision-glute-and-ham-developer-d227",
+  "brandSlug": "atlantis",
+  "name": "Glute And Ham Developer (D227)",
+  "series": "Precision",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-precision-glute-and-ham-developer-d227.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/d227"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/d227"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-converging-shoulder-press-e149",
+  "brandSlug": "atlantis",
+  "name": "Converging Shoulder Press (E149)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-converging-shoulder-press-e149.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/e149"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/e149"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-seated-side-rear-deltoid-e352",
+  "brandSlug": "atlantis",
+  "name": "Seated Side / Rear Deltoid (E352)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "rear-delt",
+  "primaryMuscles": [
+   "rear-delts"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Reverse fly with fairly even loading. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-seated-side-rear-deltoid-e352.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/e352"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/e352"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-converging-shoulder-press-e449",
+  "brandSlug": "atlantis",
+  "name": "Converging Shoulder Press (E449)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-converging-shoulder-press-e449.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/e449"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/e449"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-plate-loaded-viking-press-pw549",
+  "brandSlug": "atlantis",
+  "name": "Viking Press (PW549)",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-plate-loaded-viking-press-pw549.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw549"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw549"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-shoulder-press-with-pivot-e348",
+  "brandSlug": "atlantis",
+  "name": "Shoulder Press (with Pivot) (E348)",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-shoulder-press-with-pivot-e348.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/e348"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/e348"
+   }
+  ]
+ }
+]

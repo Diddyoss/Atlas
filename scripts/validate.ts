@@ -1,8 +1,7 @@
 import brandsJson from "../data/brands.json";
 import scrapedJson from "../data/scraped/index.json";
-import { curated } from "../data/equipment";
 import { BrandSchema, EquipmentSchema, ScrapedSchema } from "../lib/types";
-import { buildCatalogue } from "../lib/catalogue";
+import { allEquipment as curated, buildCatalogue } from "../lib/catalogue";
 
 let errors = 0;
 const fail = (msg: string) => {
@@ -34,7 +33,11 @@ const catalogue = buildCatalogue(brands as never, curated, scrapedJson as never)
 const noImage = catalogue.filter((i) => i.images.length === 0);
 const noSource = catalogue.filter((i) => i.sources.length === 0 && i.images.length === 0);
 
-console.log(`\n${brands.length} brands, ${catalogue.length} machines (${catalogue.filter((i) => i.vintage).length} vintage)`);
+console.log(
+  `\n${brands.length} brands, ${catalogue.length} machines (${catalogue.filter((i) => i.vintage).length} vintage, ${catalogue.filter((i) => i.estimated).length} estimated)`,
+);
+const perBrand = brands.map((b) => `${b.slug}:${catalogue.filter((i) => i.brandSlug === b.slug).length}`);
+console.log(perBrand.join("  "));
 console.log(`${catalogue.length - noImage.length}/${catalogue.length} have images`);
 if (noImage.length) {
   const shown = noImage.slice(0, 8).map((i) => i.slug);

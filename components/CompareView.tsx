@@ -13,6 +13,7 @@ import {
   parseCompareIds,
   rowDiffers,
   stretchBias,
+  toCompareEntry,
   type Row,
 } from "@/lib/compare";
 import { useCompare } from "@/lib/compare-store";
@@ -39,14 +40,14 @@ export function CompareView({ items }: { items: CatalogueItem[] }) {
   useEffect(() => {
     const qs = key ? `?ids=${key}` : "";
     if (window.location.search !== qs) window.history.replaceState(null, "", `${window.location.pathname}${qs}`);
-    if (store.ids.join(",") !== key) store.set(key ? key.split(",") : []);
+    if (store.ids.join(",") !== key) store.set(key ? key.split(",").map((s) => toCompareEntry(bySlug.get(s)!)) : []);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [key]);
 
   const setIds = (next: string[]) => {
     const qs = next.length ? `?ids=${next.join(",")}` : "";
     window.history.replaceState(null, "", `${window.location.pathname}${qs}`);
-    store.set(next);
+    store.set(next.map((s) => toCompareEntry(bySlug.get(s)!)));
   };
 
   const sections = useMemo(() => buildSections(selected, community), [selected, community]);

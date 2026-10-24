@@ -76,6 +76,7 @@ export function brandItems(brandSlug: string, items: ItemInput[]): Equipment[] {
     secondaryMuscles: i.secondary ?? [],
     isoLateral: i.iso ?? false,
     discontinued: i.discontinued ?? false,
+    estimated: false,
     years: i.years,
     resistanceProfile: {
       shape: i.variants ? "adjustable" : Array.isArray(i.curve) ? inferShape(i.curve) : PRESET_SHAPE[i.curve],

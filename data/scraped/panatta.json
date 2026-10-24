@@ -1,0 +1,98 @@
+[
+ {
+  "slug": "panatta-super-pendulum-squat",
+  "images": [
+   {
+    "src": "/equipment/panatta/panatta-super-pendulum-squat.webp",
+    "credit": "Primo Fitness (Panatta dealer)",
+    "sourceUrl": "https://panattafitness.com/product/freeweight-special/lower-body/panatta-freeweight-special-super-super-pendulum-squat-1fw080/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Primo Fitness (Panatta dealer)",
+    "url": "https://panattafitness.com/product/freeweight-special/lower-body/panatta-freeweight-special-super-super-pendulum-squat-1fw080/"
+   }
+  ]
+ },
+ {
+  "slug": "panatta-super-hack-squat",
+  "images": [
+   {
+    "src": "/equipment/panatta/panatta-super-hack-squat.webp",
+    "credit": "Primo Fitness (Panatta dealer)",
+    "sourceUrl": "https://panattafitness.com/product/freeweight-special/lower-body/panatta-freeweight-special-super-hack-squat-1fw087/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Primo Fitness (Panatta dealer)",
+    "url": "https://panattafitness.com/product/freeweight-special/lower-body/panatta-freeweight-special-super-hack-squat-1fw087/"
+   }
+  ]
+ },
+ {
+  "slug": "panatta-monolith-leg-extension",
+  "images": [
+   {
+    "src": "/equipment/panatta/panatta-monolith-leg-extension.webp",
+    "credit": "Primo Fitness (Panatta dealer)",
+    "sourceUrl": "https://panattafitness.com/product/monolith/lower-body-monolith/panatta-monolith-leg-extension-1mth081/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Primo Fitness (Panatta dealer)",
+    "url": "https://panattafitness.com/product/monolith/lower-body-monolith/panatta-monolith-leg-extension-1mth081/"
+   }
+  ]
+ },
+ {
+  "slug": "panatta-belt-squat",
+  "images": [
+   {
+    "src": "/equipment/panatta/panatta-belt-squat.webp",
+    "credit": "Primo Fitness (Panatta dealer)",
+    "sourceUrl": "https://panattafitness.com/product/freeweight-special/lower-body/panatta-freeweight-special-belt-squat-1fw095/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Primo Fitness (Panatta dealer)",
+    "url": "https://panattafitness.com/product/freeweight-special/lower-body/panatta-freeweight-special-belt-squat-1fw095/"
+   }
+  ]
+ },
+ {
+  "slug": "panatta-inclined-chest-press-circular",
+  "images": [
+   {
+    "src": "/equipment/panatta/panatta-inclined-chest-press-circular.webp",
+    "credit": "Primo Fitness (Panatta dealer)",
+    "sourceUrl": "https://panattafitness.com/product/freeweight-hp/upper-body-freeweight-hp/panatta-freeweight-hp-inclined-chest-press-1hp535b/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Primo Fitness (Panatta dealer)",
+    "url": "https://panattafitness.com/product/freeweight-hp/upper-body-freeweight-hp/panatta-freeweight-hp-inclined-chest-press-1hp535b/"
+   }
+  ]
+ },
+ {
+  "slug": "panatta-hack-squat",
+  "images": [
+   {
+    "src": "/equipment/panatta/panatta-hack-squat.webp",
+    "credit": "Primo Fitness (Panatta dealer)",
+    "sourceUrl": "https://panattafitness.com/product/freeweight-hp/lower-body-freeweight-hp/panatta-freeweight-hp-hack-squat-1hp587/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Primo Fitness (Panatta dealer)",
+    "url": "https://panattafitness.com/product/freeweight-hp/lower-body-freeweight-hp/panatta-freeweight-hp-hack-squat-1hp587/"
+   }
+  ]
+ }
+]

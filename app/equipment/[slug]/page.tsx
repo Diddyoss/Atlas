@@ -11,7 +11,7 @@ import { ProfileViewer } from "@/components/ProfileViewer";
 import { ScoreBar } from "@/components/ScoreBar";
 import { VoteWidget } from "@/components/VoteWidget";
 import { getCatalogue, getItem } from "@/lib/catalogue";
-import { accessAverage, feelAverage } from "@/lib/compare";
+import { accessAverage, feelAverage, toCompareEntry } from "@/lib/compare";
 import { MUSCLES } from "@/lib/muscles";
 import { FEEL_LABELS, LOADING_LABELS, MOVEMENT_LABELS, type FeelKey } from "@/lib/types";
 
@@ -37,8 +37,11 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
   const item = getItem(slug);
   if (!item) notFound();
 
+  // Same movement from other brands; reviewed machines with photos first
+  const rank = (i: typeof item) => Number(!i.estimated) * 2 + Number(i.images.length > 0);
   const similar = getCatalogue()
-    .filter((i) => i.slug !== item.slug && i.movement === item.movement)
+    .filter((i) => i.movement === item.movement && i.brandSlug !== item.brandSlug)
+    .sort((a, b) => rank(b) - rank(a))
     .slice(0, 3);
 
   return (
@@ -84,7 +87,13 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
             <h1 className="stencil mt-2 text-5xl sm:text-6xl">{item.name}</h1>
           </div>
           <div className="flex flex-wrap gap-2">
-            {[MOVEMENT_LABELS[item.movement], LOADING_LABELS[item.loading], item.isoLateral && "Iso-lateral", item.specs.priceBand]
+            {[
+              MOVEMENT_LABELS[item.movement],
+              LOADING_LABELS[item.loading],
+              item.isoLateral && "Iso-lateral",
+              item.specs.priceBand,
+              item.estimated && "Estimated profile",
+            ]
               .filter(Boolean)
               .map((t) => (
                 <span key={String(t)} className="label border border-rivet px-2 py-1 text-ash">
@@ -99,7 +108,7 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
             <Big label="Start load" value={`${item.accessibility.startingResistanceKg}kg`} />
           </div>
           <div className="flex flex-wrap gap-3">
-            <CompareButton slug={item.slug} />
+            <CompareButton entry={toCompareEntry(item)} />
             <Link
               href={`/compare?ids=${[item.slug, ...similar.map((s) => s.slug)].slice(0, 3).join(",")}`}
               className="label border-2 border-rivet px-5 py-3 text-ash hover:border-chalk hover:text-chalk"
@@ -130,7 +139,7 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
           </div>
         </Panel>
 
-        <Panel title="Feel (editorial)">
+        <Panel title={item.estimated ? "Feel (estimated from movement type)" : "Feel (editorial)"}>
           <FeelRadar items={[{ label: item.name, feel: item.feel }]} />
           <div className="mt-4 space-y-3">
             {(Object.keys(FEEL_LABELS) as FeelKey[]).map((k) => (
@@ -159,26 +168,30 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
           <VoteWidget item={item} />
         </Panel>
 
-        <Panel title="Pros" className="lg:col-span-1">
-          <ul className="space-y-2">
-            {item.pros.map((p) => (
-              <li key={p} className="flex gap-3 text-sm">
-                <span className="text-chalk">+</span>
-                {p}
-              </li>
-            ))}
-          </ul>
-        </Panel>
-        <Panel title="Cons">
-          <ul className="space-y-2">
-            {item.cons.map((p) => (
-              <li key={p} className="flex gap-3 text-sm text-ash">
-                <span>−</span>
-                {p}
-              </li>
-            ))}
-          </ul>
-        </Panel>
+        {item.pros.length > 0 && (
+          <Panel title="Pros">
+            <ul className="space-y-2">
+              {item.pros.map((p) => (
+                <li key={p} className="flex gap-3 text-sm">
+                  <span className="text-chalk">+</span>
+                  {p}
+                </li>
+              ))}
+            </ul>
+          </Panel>
+        )}
+        {item.cons.length > 0 && (
+          <Panel title="Cons">
+            <ul className="space-y-2">
+              {item.cons.map((p) => (
+                <li key={p} className="flex gap-3 text-sm text-ash">
+                  <span>−</span>
+                  {p}
+                </li>
+              ))}
+            </ul>
+          </Panel>
+        )}
         <Panel title="Sources">
           {item.sources.length ? (
             <ul className="space-y-2">

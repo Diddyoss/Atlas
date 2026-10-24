@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { AnimatePresence, motion } from "motion/react";
+import { useEffect, useRef, useState } from "react";
 import { MUSCLES, type MuscleId } from "@/lib/muscles";
 
 type Shape = { id: MuscleId; points: string };
@@ -44,9 +45,33 @@ type Props = {
   compact?: boolean;
 };
 
+type Tip = { id: MuscleId; x: number; y: number };
+
 export function BodyMap({ selected = [], secondary = [], onToggle, compact }: Props) {
   const [hover, setHover] = useState<MuscleId | null>(null);
+  const [tip, setTip] = useState<Tip | null>(null);
+  const wrapRef = useRef<HTMLDivElement>(null);
+  const hideTimer = useRef<ReturnType<typeof setTimeout>>(undefined);
   const interactive = Boolean(onToggle);
+
+  useEffect(() => () => clearTimeout(hideTimer.current), []);
+
+  /** Place the label at a viewport point, kept inside the map's box. */
+  const showTip = (id: MuscleId, clientX: number, clientY: number, autoHide = false) => {
+    const box = wrapRef.current?.getBoundingClientRect();
+    if (!box) return;
+    clearTimeout(hideTimer.current);
+    setTip({ id, x: Math.min(Math.max(clientX - box.left, 56), box.width - 56), y: clientY - box.top });
+    // Touch has no "leave" event, so a tapped label fades on its own
+    if (autoHide) hideTimer.current = setTimeout(() => setTip(null), 1600);
+  };
+
+  const tipStatus = (id: MuscleId) => {
+    if (interactive) return selected.includes(id) ? "Selected · tap to remove" : "Tap to filter";
+    if (selected.includes(id)) return "Primary mover";
+    if (secondary.includes(id)) return "Secondary";
+    return "Not targeted";
+  };
 
   const fill = (id: MuscleId) => {
     if (selected.includes(id)) return "var(--color-chalk)";
@@ -71,8 +96,25 @@ export function BodyMap({ selected = [], secondary = [], onToggle, compact }: Pr
                 strokeWidth={1}
                 strokeLinejoin="round"
                 className={`transition-[fill] duration-300 ${interactive ? "cursor-pointer" : ""}`}
-                onMouseEnter={() => setHover(s.id)}
-                onMouseLeave={() => setHover(null)}
+                onPointerEnter={(e) => {
+                  setHover(s.id);
+                  if (e.pointerType === "mouse") showTip(s.id, e.clientX, e.clientY);
+                }}
+                onPointerMove={(e) => {
+                  if (e.pointerType === "mouse") showTip(s.id, e.clientX, e.clientY);
+                }}
+                onPointerLeave={(e) => {
+                  setHover(null);
+                  if (e.pointerType === "mouse") setTip(null);
+                }}
+                onPointerUp={(e) => {
+                  if (e.pointerType !== "mouse") showTip(s.id, e.clientX, e.clientY, true);
+                }}
+                onFocus={(e) => {
+                  const r = e.currentTarget.getBoundingClientRect();
+                  showTip(s.id, r.left + r.width / 2, r.top);
+                }}
+                onBlur={() => setTip(null)}
                 onClick={() => onToggle?.(s.id)}
                 role={interactive ? "button" : undefined}
                 aria-label={interactive ? `${active ? "Remove" : "Filter by"} ${MUSCLES[s.id].label}` : MUSCLES[s.id].label}
@@ -97,9 +139,29 @@ export function BodyMap({ selected = [], secondary = [], onToggle, compact }: Pr
 
   return (
     <div>
-      <div className={`grid grid-cols-2 gap-2 ${compact ? "max-w-[220px]" : ""}`}>
+      <div ref={wrapRef} className={`relative grid grid-cols-2 gap-2 ${compact ? "max-w-[220px]" : ""}`}>
         {view(FRONT, "Front")}
         {view(BACK, "Back")}
+        <AnimatePresence>
+          {tip && (
+            <motion.div
+              key="tip"
+              role="tooltip"
+              initial={{ opacity: 0, y: 6, scale: 0.92 }}
+              animate={{ opacity: 1, y: 0, scale: 1 }}
+              exit={{ opacity: 0, scale: 0.92 }}
+              transition={{ duration: 0.15 }}
+              className="pointer-events-none absolute z-20 -translate-x-1/2 -translate-y-[calc(100%+12px)] whitespace-nowrap border border-chalk bg-ink px-3 py-1.5 shadow-[4px_4px_0_var(--color-rivet)]"
+              style={{ left: tip.x, top: tip.y }}
+            >
+              <p className="stencil text-lg leading-none">{MUSCLES[tip.id].label}</p>
+              <p className="label mt-1 text-[0.58rem] text-ash">
+                {MUSCLES[tip.id].group} · {tipStatus(tip.id)}
+              </p>
+              <span className="absolute -bottom-[6px] left-1/2 h-2.5 w-2.5 -translate-x-1/2 rotate-45 border-b border-r border-chalk bg-ink" />
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
       {interactive && (
         <p className="label mt-2 h-4 text-center text-ash" aria-live="polite">

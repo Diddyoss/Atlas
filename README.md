@@ -4,9 +4,11 @@
 
 A dark, black-and-white, industrial compendium for comparing strength equipment, built for gym goers and bodybuilders.
 
-- **77 machines from 22 brands.** Active brands: Hammer Strength, Life Fitness, Panatta, Newtech, Prime Fitness, Watson, Atlantis, Nautilus, Arsenal Strength, Gym80, Matrix, Technogym, Hoist, Rogue and Eleiko.
+- **1,400+ machines from 22 brands, 97% with photos.** About 80 are hand-reviewed; the rest come from manufacturer and dealer catalogues and have estimated profiles.
+- **Active brands:** Panatta, gym80, Nautilus, Newtech, Atlantis, Arsenal Strength, Hammer Strength, Hoist, Prime Fitness, Technogym, Life Fitness, Watson, Matrix, Rogue and Eleiko.
 - **Vintage vault.** Out-of-business brands (Flex, classic Cybex, classic MedX, Icarian, Bodymasters, Nebula, classic Universal) and discontinued lines from active brands, such as the original Nautilus Pullover. Filter them in or out with the Era control, or open `/vintage`.
-- **Search** by name, brand, series or alias ("hammer row", "blue monster"), or **by function**: tap muscles on the front/back body map, filter by movement pattern, loading type or iso-lateral design. Filters live in the URL, so any search can be shared.
+- **Search** by name, brand, series or alias ("hammer row", "blue monster").
+- **Search by function:** tap muscles on the front/back body map (a label names each muscle on hover or tap), or filter by movement pattern, loading type, iso-lateral design or *hand-reviewed only*. Filters live in the URL, so any search can be shared.
 - **Compare up to 4 machines**:
   - overlaid resistance curves and feel radars
   - accessibility (entry, adjustment, beginner-friendliness, starting load, wheelchair transfer)
@@ -35,21 +37,40 @@ npm run typecheck
 npm run build && npm start
 ```
 
-## Photos and the scraper
+## Catalogue discovery and photos
 
-Machines show a blueprint-style schematic until a photo is available. `npm run scrape` collects product photos and source links:
+`npm run discover` builds most of the catalogue. It reads public product feeds and catalogue pages, keeps the strength machines, and downloads a photo for each:
+
+| Brand | Source |
+| --- | --- |
+| Prime, Hoist | the brands' own Shopify stores |
+| Hammer Strength, Life Fitness | lifefitness.com catalogue |
+| Atlantis | atlantisstrength.com |
+| gym80 | gym80.de API |
+| Nautilus | Core Health & Fitness store |
+| Newtech | ntws.co.kr |
+| Panatta | Primo Fitness (US dealer; panattasport.com blocks automated access) |
+| Arsenal Strength | Performaxx (AU distributor) |
+| Watson | Gym Equipment UK |
+| Vintage Cybex, Icarian and Nautilus; Technogym; Matrix | Fitness Superstore and Global Fitness (remanufactured listings) |
 
 ```bash
-npm run scrape -- --brand atlantis --dry   # report matches, write nothing
-npm run scrape -- --brand all              # download, convert to webp, write data/scraped/*.json
+npm run discover                        # all sources
+npm run discover -- --only panatta      # one source (others reuse their cached results)
+npm run discover -- --from-cache        # re-process without fetching product lists again
 npm run validate
 ```
 
-1. **Brand sites first.** Adapters in `scripts/scrape/adapters.ts` list each brand's catalogue pages. Product pages are matched to catalogue entries by fuzzy name.
-2. **Third-party fallback.** Dealer and reseller pages already cited in a machine's sources are tried next, then Wikimedia Commons (openly licensed photos, best for vintage gear).
-3. **Polite by design.** The scraper honours robots.txt and crawl delays, identifies itself, and waits between requests. Several brand sites block bots or render client-side. For client-side sites, install Playwright (`npm i -D playwright && npx playwright install chromium`).
+How it works:
 
-Every photo is credited with a link to its source. **Product photos belong to their owners.** Check each site's terms before publishing scraped images, which is why none are committed here by default.
+- **Classification.** Each product is classified into a movement pattern by name (`scripts/discover/classify.ts`). Accessories, cardio and parts are dropped.
+- **Curated machines.** Products that match a hand-curated machine (same brand, movement and series) just give it a photo and source link.
+- **Everything else** becomes an **estimated** entry. Its curve, muscles and scores come from the movement template (`data/templates.ts`) with small brand nudges. It is labelled "Estimated" in the UI and can be hidden with the *Hand-reviewed only* filter.
+- **Politeness.** Requests honour robots.txt and crawl delays, identify the bot, and are queued per host.
+
+Machines without a reachable photo (most MedX, Bodymasters, Nebula, Universal and Flex models) show a blueprint-style schematic. `npm run scrape -- --brand <slug> --fallback-only` retries the dealer pages cited on curated machines.
+
+Every photo is credited with a link to its source page. **Product photos belong to their owners.** They are included here for a personal, non-commercial comparison project.
 
 ## Deploying the preview (GitHub Pages)
 

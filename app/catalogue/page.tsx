@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import { Suspense } from "react";
 import { CatalogueBrowser } from "@/components/CatalogueBrowser";
 import { PageHeader } from "@/components/PageHeader";
-import { getBrands, getCatalogue } from "@/lib/catalogue";
+import { getBrands, getCatalogue, toListItem } from "@/lib/catalogue";
 
 export const metadata: Metadata = { title: "Catalogue" };
 
 export default function CataloguePage() {
-  const items = getCatalogue();
+  const items = getCatalogue().map(toListItem);
   const brands = getBrands().map(({ slug, name, status }) => ({ slug, name, status }));
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-8">

@@ -1,0 +1,82 @@
+[
+ {
+  "slug": "prime-hybrid-leg-curl",
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-hybrid-leg-curl.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-seated-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-seated-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-chest-press",
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-chest-press.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-lat-pulldown",
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-lat-pulldown.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-lat-pulldown-diverging"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-lat-pulldown-diverging"
+   }
+  ]
+ },
+ {
+  "slug": "prime-evolution-seated-row",
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-evolution-seated-row.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/evolution-seated-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/evolution-seated-row"
+   }
+  ]
+ },
+ {
+  "slug": "prime-pec-fly-rear-delt",
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-pec-fly-rear-delt.webp",
+    "credit": "Prime Fitness (official store)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/hybrid-pec-rear-delt"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (official store)",
+    "url": "https://www.primefitnessusa.com/products/hybrid-pec-rear-delt"
+   }
+  ]
+ }
+]

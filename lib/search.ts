@@ -11,6 +11,8 @@ export type Filters = {
   movements: Movement[];
   loading: Loading[];
   iso: boolean;
+  /** Hide machines whose profile is estimated from the movement type */
+  reviewed: boolean;
   /** Only match primary muscles when filtering by muscle */
   primaryOnly: boolean;
   vintage: VintageMode;
@@ -23,6 +25,7 @@ export const EMPTY_FILTERS: Filters = {
   movements: [],
   loading: [],
   iso: false,
+  reviewed: false,
   primaryOnly: false,
   vintage: "all",
 };
@@ -67,6 +70,7 @@ export function filterItems(items: CatalogueItem[], f: Filters, index?: Index): 
     if (f.movements.length && !f.movements.includes(i.movement)) return false;
     if (f.loading.length && !f.loading.includes(i.loading)) return false;
     if (f.iso && !i.isoLateral) return false;
+    if (f.reviewed && i.estimated) return false;
     if (f.muscles.length) {
       const worked = f.primaryOnly ? i.primaryMuscles : [...i.primaryMuscles, ...i.secondaryMuscles];
       if (!f.muscles.some((m) => worked.includes(m))) return false;
@@ -88,6 +92,7 @@ export function filtersFromParams(p: URLSearchParams, base: Partial<Filters> = {
     movements: list(p.get("movement")) as Movement[],
     loading: list(p.get("loading")) as Loading[],
     iso: p.get("iso") === "1",
+    reviewed: p.get("reviewed") === "1",
     primaryOnly: p.get("primary") === "1",
     vintage: vintage === "only" || vintage === "exclude" ? vintage : (base.vintage ?? "all"),
   };
@@ -101,6 +106,7 @@ export function filtersToParams(f: Filters, base: Partial<Filters> = {}): URLSea
   if (f.movements.length) p.set("movement", f.movements.join(","));
   if (f.loading.length) p.set("loading", f.loading.join(","));
   if (f.iso) p.set("iso", "1");
+  if (f.reviewed) p.set("reviewed", "1");
   if (f.primaryOnly) p.set("primary", "1");
   if (f.vintage !== (base.vintage ?? "all")) p.set("vintage", f.vintage);
   return p;

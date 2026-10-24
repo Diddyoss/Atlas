@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import { CatalogueBrowser } from "@/components/CatalogueBrowser";
 import { PageHeader } from "@/components/PageHeader";
-import { getBrand, getBrands, getItemsByBrand } from "@/lib/catalogue";
+import { getBrand, getBrands, getItemsByBrand, toListItem } from "@/lib/catalogue";
 
 export function generateStaticParams() {
   return getBrands().map((b) => ({ slug: b.slug }));
@@ -26,7 +26,7 @@ async function BrandDetail({ params }: Pick<PageProps<"/brands/[slug]">, "params
   const { slug } = await params;
   const brand = getBrand(slug);
   if (!brand) notFound();
-  const items = getItemsByBrand(slug);
+  const items = getItemsByBrand(slug).map(toListItem);
   const defunct = brand.status === "defunct";
 
   return (

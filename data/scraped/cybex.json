@@ -1,0 +1,34 @@
+[
+ {
+  "slug": "cybex-vr2-chest-press",
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-vr2-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-vr2-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-vr2-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "cybex-eagle-leg-extension",
+  "images": [
+   {
+    "src": "/equipment/cybex/cybex-eagle-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/cybex-eagle-leg-extension-11050-w-rom-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/cybex-eagle-leg-extension-11050-w-rom-remanufactured"
+   }
+  ]
+ }
+]

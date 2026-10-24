@@ -11,7 +11,8 @@
     "test": "vitest run",
     "scrape": "tsx scripts/scrape/index.ts",
     "build:static": "next build && node scripts/flatten-export.mjs out",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "discover": "tsx scripts/discover/index.ts"
   },
   "dependencies": {
     "fuse.js": "^7.5.0",

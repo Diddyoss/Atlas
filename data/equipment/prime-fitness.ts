@@ -91,8 +91,8 @@ export default brandItems("prime-fitness", [
   {
     slug: "prime-pec-fly-rear-delt",
     name: "Pec Fly / Rear Delt",
-    series: "Evolution",
-    aliases: ["pec deck", "rear delt fly"],
+    series: "Hybrid",
+    aliases: ["pec deck", "rear delt fly", "pec/rear delt"],
     loading: "selectorized",
     movement: "chest-fly",
     primary: ["chest", "rear-delts"],

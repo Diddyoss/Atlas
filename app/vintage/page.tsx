@@ -3,14 +3,16 @@ import Link from "next/link";
 import { Suspense } from "react";
 import { CatalogueBrowser } from "@/components/CatalogueBrowser";
 import { PageHeader } from "@/components/PageHeader";
-import { getBrands, getCatalogue } from "@/lib/catalogue";
+import { getBrands, getCatalogue, toListItem } from "@/lib/catalogue";
 
 export const metadata: Metadata = { title: "Vintage" };
 
 const BASE = { vintage: "only" as const };
 
 export default function VintagePage() {
-  const items = getCatalogue().filter((i) => i.vintage);
+  const items = getCatalogue()
+    .filter((i) => i.vintage)
+    .map(toListItem);
   const all = getBrands();
   const defunct = all.filter((b) => b.status === "defunct");
   const brands = all.map(({ slug, name, status }) => ({ slug, name, status }));

@@ -1,0 +1,4686 @@
+[
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-t-bar-row",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral T-Bar Row",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-t-bar-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/iso-lateral-t-bar-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/iso-lateral-t-bar-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-reverse-v-squat",
+  "brandSlug": "hammer-strength",
+  "name": "Reverse V-Squat",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-reverse-v-squat.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/reverse-v-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/reverse-v-squat"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-super-squat-press",
+  "brandSlug": "hammer-strength",
+  "name": "Super Squat Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-super-squat-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/super-squat-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/super-squat-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-super-fly",
+  "brandSlug": "hammer-strength",
+  "name": "Super Fly",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-super-fly.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/super-fly"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/super-fly"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-pendulum-x-squat",
+  "brandSlug": "hammer-strength",
+  "name": "Pendulum-X Squat",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pendulum-squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    99,
+    97,
+    93,
+    88,
+    83,
+    79,
+    76,
+    74,
+    72,
+    70
+   ],
+   "notes": "Pendulum arc: heaviest in the hole where the quads are longest. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 9,
+   "rom": 9,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-pendulum-x-squat.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/pendulum-x-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/pendulum-x-squat"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-ground-base-multi-squat",
+  "brandSlug": "hammer-strength",
+  "name": "Ground Base Multi-Squat",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-ground-base-multi-squat.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/ground-base-multi-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/ground-base-multi-squat"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-t-bar-row",
+  "brandSlug": "hammer-strength",
+  "name": "T-Bar Row",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-t-bar-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hammer-strength-plate-loaded-t-bar-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hammer-strength-plate-loaded-t-bar-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-bench-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Bench Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-bench-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-bench-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-bench-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-abdominal-oblique-crunch",
+  "brandSlug": "hammer-strength",
+  "name": "Abdominal / Oblique Crunch",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-abdominal-oblique-crunch.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-abdominal-oblique-crunch"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-abdominal-oblique-crunch"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-chest-back",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Chest / Back",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-chest-back.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-chest-back"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-chest-back"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-d-y-row",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral D.y. Row",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-d-y-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-d-y-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-d-y-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-decline-chest-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Decline Chest Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-decline-chest-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/iso-lateral-decline-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/iso-lateral-decline-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-horizontal-bench-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Horizontal Bench Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-horizontal-bench-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-horizontal-bench-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-horizontal-bench-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-low-row",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Low Row",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-low-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-low-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-low-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-shoulder-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Shoulder Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-shoulder-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-super-incline-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Super Incline Press",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-super-incline-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-super-incline-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-super-incline-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-wide-pulldown",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Wide Pulldown",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-wide-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-wide-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-wide-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-lateral-raise",
+  "brandSlug": "hammer-strength",
+  "name": "Lateral Raise",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-lateral-raise.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-lateral-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-lateral-raise"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-pullover",
+  "brandSlug": "hammer-strength",
+  "name": "Pullover",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pullover",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    99,
+    97,
+    93,
+    88,
+    83,
+    79,
+    76,
+    74,
+    72,
+    70
+   ],
+   "notes": "Pullovers are classically stretch-loaded overhead. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 9,
+   "rom": 9,
+   "ergonomics": 6,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-pullover.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-pullover"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-pullover"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-seated-biceps",
+  "brandSlug": "hammer-strength",
+  "name": "Seated Biceps",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-seated-biceps.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-biceps"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-biceps"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-seated-dip",
+  "brandSlug": "hammer-strength",
+  "name": "Seated Dip",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-seated-dip.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-dip"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-dip"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-seated-standing-shrug",
+  "brandSlug": "hammer-strength",
+  "name": "Seated / Standing Shrug",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-seated-standing-shrug.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-standing-shrug"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-standing-shrug"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-glute-ham-reverse-hyper",
+  "brandSlug": "hammer-strength",
+  "name": "Glute Ham / Reverse Hyper",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-glute-ham-reverse-hyper.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/glute-ham-reverse-hyper-combo"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/glute-ham-reverse-hyper-combo"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-glute-drive",
+  "brandSlug": "hammer-strength",
+  "name": "Glute Drive",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-glute-drive.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hammer-strength-plate-loaded-glute-drive"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hammer-strength-plate-loaded-glute-drive"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-belt-squat",
+  "brandSlug": "hammer-strength",
+  "name": "Belt Squat",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-belt-squat.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hammer-strength-plate-loaded-belt-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hammer-strength-plate-loaded-belt-squat"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-kneeling-leg-curl",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Kneeling Leg Curl",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-kneeling-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-kneeling-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-kneeling-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-leg-curl",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Leg Curl",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-hack-squat",
+  "brandSlug": "hammer-strength",
+  "name": "Hack Squat",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-hack-squat.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hack-squat"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/hack-squat"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-seated-calf-raise",
+  "brandSlug": "hammer-strength",
+  "name": "Seated Calf Raise",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-seated-calf-raise.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-calf-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-calf-raise"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-assisted-nordic-ham",
+  "brandSlug": "hammer-strength",
+  "name": "Assisted Nordic Ham",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-assisted-nordic-ham.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/assisted-nordic-ham"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/assisted-nordic-ham"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-iso-lateral-leg-extension",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Leg Extension",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-iso-lateral-leg-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/iso-lateral-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/iso-lateral-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-ground-base-jammer",
+  "brandSlug": "hammer-strength",
+  "name": "Ground Base Jammer",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-ground-base-jammer.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/ground-base-jammer"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/ground-base-jammer"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-ground-base-combo-twist",
+  "brandSlug": "hammer-strength",
+  "name": "Ground Base Combo Twist",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-ground-base-combo-twist.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/ground-base-combo-twist"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/ground-base-combo-twist"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-plate-loaded-ground-base-squat-high-pull",
+  "brandSlug": "hammer-strength",
+  "name": "Ground Base Squat / High Pull",
+  "series": "Plate-Loaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-plate-loaded-ground-base-squat-high-pull.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-squat-high-pull"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-squat-high-pull"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-assist-dip-chin",
+  "brandSlug": "hammer-strength",
+  "name": "Assist Dip Chin",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-assist-dip-chin.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-assist-dip-chin"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-assist-dip-chin"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-biceps-curl",
+  "brandSlug": "hammer-strength",
+  "name": "Biceps Curl",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-biceps-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-biceps-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-biceps-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-chest-press",
+  "brandSlug": "hammer-strength",
+  "name": "Chest Press",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-chest-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-fixed-pulldown",
+  "brandSlug": "hammer-strength",
+  "name": "Fixed Pulldown",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-fixed-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-fixed-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-fixed-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-lat-pulldown",
+  "brandSlug": "hammer-strength",
+  "name": "Lat Pulldown",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-lat-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-lateral-raise",
+  "brandSlug": "hammer-strength",
+  "name": "Lateral Raise",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-lateral-raise.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-lateral-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-lateral-raise"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-seated-row",
+  "brandSlug": "hammer-strength",
+  "name": "Seated Row",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-seated-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-seated-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-seated-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-shoulder-press",
+  "brandSlug": "hammer-strength",
+  "name": "Shoulder Press",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-shoulder-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-pectoral-fly-rear-deltoid",
+  "brandSlug": "hammer-strength",
+  "name": "Pectoral Fly/rear Deltoid",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-pectoral-fly-rear-deltoid.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-pectoral-fly-rear-deltoid"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-pectoral-fly-rear-deltoid"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-triceps-extension",
+  "brandSlug": "hammer-strength",
+  "name": "Triceps Extension",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-triceps-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-triceps-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-triceps-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-pectoral-fly",
+  "brandSlug": "hammer-strength",
+  "name": "Pectoral Fly",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-pectoral-fly.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-pectoral-fly"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-pectoral-fly"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-abdominal-crunch",
+  "brandSlug": "hammer-strength",
+  "name": "Abdominal Crunch",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-abdominal-crunch.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-abdominal-crunch"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-abdominal-crunch"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-back-extension",
+  "brandSlug": "hammer-strength",
+  "name": "Back Extension",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-back-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-back-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-back-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-hip-abduction",
+  "brandSlug": "hammer-strength",
+  "name": "Hip Abduction",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-hip-abduction.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-hip-abduction"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-hip-abduction"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-hip-adduction",
+  "brandSlug": "hammer-strength",
+  "name": "Hip Adduction",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-hip-adduction.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-hip-adduction"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-hip-adduction"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-hip-and-glute",
+  "brandSlug": "hammer-strength",
+  "name": "Hip And Glute",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-hip-and-glute.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-hip-and-glute"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-hip-and-glute"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-horizontal-calf",
+  "brandSlug": "hammer-strength",
+  "name": "Horizontal Calf",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-horizontal-calf.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-horizontal-calf"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-horizontal-calf"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-leg-curl",
+  "brandSlug": "hammer-strength",
+  "name": "Leg Curl",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-leg-extension",
+  "brandSlug": "hammer-strength",
+  "name": "Leg Extension",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-leg-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-seated-leg-press",
+  "brandSlug": "hammer-strength",
+  "name": "Seated Leg Press",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-seated-leg-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-seated-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-seated-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-standing-calf",
+  "brandSlug": "hammer-strength",
+  "name": "Standing Calf",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-standing-calf.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-standing-calf"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-standing-calf"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-select-seated-leg-curl",
+  "brandSlug": "hammer-strength",
+  "name": "Seated Leg Curl",
+  "series": "Select",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-select-seated-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-seated-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-select-seated-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-abdominal-crunch",
+  "brandSlug": "hammer-strength",
+  "name": "Abdominal Crunch",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-abdominal-crunch.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-abdominal-crunch"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-abdominal-crunch"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-biceps-curl",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Biceps Curl",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-biceps-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-biceps-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-biceps-curl"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-chest-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Chest Press",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-chest-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-decline-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Decline Press",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-decline-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-decline-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-decline-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-front-pulldown",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Front Pulldown",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-front-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-front-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-front-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-high-row",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral High Row",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-high-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-high-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-high-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-incline-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Incline Press",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-incline-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-incline-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-incline-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-row",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Row",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-shoulder-press",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Shoulder Press",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-shoulder-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/mts-iso-lateral-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/mts-iso-lateral-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-triceps-extension",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Triceps Extension",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-triceps-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/mts-iso-lateral-triceps-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/mts-iso-lateral-triceps-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-leg-extension",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Leg Extension",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-leg-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-iso-lateral-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-mts-iso-lateral-kneeling-leg-curl",
+  "brandSlug": "hammer-strength",
+  "name": "ISO-Lateral Kneeling Leg Curl",
+  "series": "MTS",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-mts-iso-lateral-kneeling-leg-curl.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-kneeling-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-kneeling-leg-curl"
+   }
+  ]
+ }
+]

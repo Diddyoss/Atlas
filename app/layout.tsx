@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Anton, IBM_Plex_Mono, IBM_Plex_Sans } from "next/font/google";
 import { Nav } from "@/components/Nav";
 import { CompareTray } from "@/components/CompareTray";
-import { getCatalogue } from "@/lib/catalogue";
 import "./globals.css";
 
 const anton = Anton({ variable: "--font-anton", weight: "400", subsets: ["latin"] });
@@ -16,10 +15,6 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
-  // Slim lookup for the compare tray, so it can show names without fetching
-  const lookup = Object.fromEntries(
-    getCatalogue().map((i) => [i.slug, { name: i.name, brand: i.brand.name, movement: i.movement, loading: i.loading }]),
-  );
   return (
     <html lang="en" className={`${anton.variable} ${plexMono.variable} ${plexSans.variable} antialiased`}>
       <body className="bg-grid min-h-screen flex flex-col">
@@ -33,7 +28,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             </span>
           </div>
         </footer>
-        <CompareTray lookup={lookup} />
+        <CompareTray />
       </body>
     </html>
   );

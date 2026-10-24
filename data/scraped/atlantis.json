@@ -1,0 +1,34 @@
+[
+ {
+  "slug": "atlantis-standing-lateral-raise",
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-standing-lateral-raise.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/e252"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/e252"
+   }
+  ]
+ },
+ {
+  "slug": "atlantis-hip-thrust",
+  "images": [
+   {
+    "src": "/equipment/atlantis/atlantis-hip-thrust.webp",
+    "credit": "Atlantis Strength (official catalogue)",
+    "sourceUrl": "https://atlantisstrength.com/gym-equipment/pw702"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Atlantis Strength (official catalogue)",
+    "url": "https://atlantisstrength.com/gym-equipment/pw702"
+   }
+  ]
+ }
+]

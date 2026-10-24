@@ -1,0 +1,5200 @@
+[
+ {
+  "slug": "arsenal-alpha-11-power-rack",
+  "brandSlug": "arsenal-strength",
+  "name": "Alpha -11 Power Rack",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-11-power-rack.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-11-power-rack"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-11-power-rack"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-flat-bench",
+  "brandSlug": "arsenal-strength",
+  "name": "Alpha Flat Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-flat-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-flat-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-flat-bench"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-standing-calf-raise",
+  "brandSlug": "arsenal-strength",
+  "name": "M1 Standing Calf Raise",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-standing-calf-raise.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-arsenal-strength-m1-standing-calf-raise"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-arsenal-strength-m1-standing-calf-raise"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-flat-bench-2",
+  "brandSlug": "arsenal-strength",
+  "name": "Flat Bench",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-flat-bench-2.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-flat-bench/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-flat-bench/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-standing-lateral-raise",
+  "brandSlug": "arsenal-strength",
+  "name": "Standing Lateral Raise",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lateral-raise",
+  "primaryMuscles": [
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Machine laterals keep some tension at the bottom, peaking mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-standing-lateral-raise.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-lateral-raise/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-lateral-raise/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-standing-leg-curl",
+  "brandSlug": "arsenal-strength",
+  "name": "Standing Leg Curl",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-standing-leg-curl.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-leg-curl/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-leg-curl/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-standing-calf-raise",
+  "brandSlug": "arsenal-strength",
+  "name": "Standing Calf Raise",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-standing-calf-raise.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-calf-raise/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-calf-raise/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-overhead-tricep-extension",
+  "brandSlug": "arsenal-strength",
+  "name": "Overhead Tricep Extension",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-overhead-tricep-extension.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-overhead-tricep-extension/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-overhead-tricep-extension/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-lying-leg-curl",
+  "brandSlug": "arsenal-strength",
+  "name": "Lying Leg Curl",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-lying-leg-curl.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-lying-leg-curl/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-lying-leg-curl/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-leg-extension",
+  "brandSlug": "arsenal-strength",
+  "name": "Leg Extension",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-leg-extension.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-leg-extension/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-leg-extension/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-inner-outer-thigh",
+  "brandSlug": "arsenal-strength",
+  "name": "Inner/outer Thigh",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-inner-outer-thigh.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-inner-outer-thigh/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-inner-outer-thigh/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-glute-isolator",
+  "brandSlug": "arsenal-strength",
+  "name": "Glute Isolator",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-glute-isolator.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-glute-isolator/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-glute-isolator/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-functional-trainer",
+  "brandSlug": "arsenal-strength",
+  "name": "Functional Trainer",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-functional-trainer.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-functional-trainer/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-functional-trainer/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-pec-fly-rear-delt",
+  "brandSlug": "arsenal-strength",
+  "name": "Pec Fly/rear Delt",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-pec-fly-rear-delt.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-pec-fly-rear-delt/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-pec-fly-rear-delt/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-donkey-calf-raise",
+  "brandSlug": "arsenal-strength",
+  "name": "Donkey Calf Raise",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-donkey-calf-raise.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-donkey-calf-raise/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-donkey-calf-raise/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-m1-selectorized-bicep-curl",
+  "brandSlug": "arsenal-strength",
+  "name": "Bicep Curl",
+  "series": "M1 Selectorized",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-m1-selectorized-bicep-curl.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-bicep-curl/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-bicep-curl/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-vertical-row",
+  "brandSlug": "arsenal-strength",
+  "name": "Vertical Row",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-vertical-row.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-viking-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Viking Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-viking-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-viking-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-viking-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-vertical-leg-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Vertical Leg Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-vertical-leg-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-leg-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-leg-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-vertical-chest-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Vertical Chest Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-vertical-chest-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-chest-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-chest-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-tricep-kickback-dip",
+  "brandSlug": "arsenal-strength",
+  "name": "Tricep Kickback/dip",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-tricep-kickback-dip.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-tricep-kickback-dip/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-tricep-kickback-dip/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-t-bar-row",
+  "brandSlug": "arsenal-strength",
+  "name": "T-Bar Row",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-t-bar-row.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-t-bar-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-t-bar-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-iso-conv-shoulder-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Iso Conv Shoulder Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-iso-conv-shoulder-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-conv-shoulder-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-conv-shoulder-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-standing-chest-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Standing Chest Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-standing-chest-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-standing-chest-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-standing-chest-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-seated-calf-raise",
+  "brandSlug": "arsenal-strength",
+  "name": "Seated Calf Raise",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-seated-calf-raise.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-seated-calf-raise/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-seated-calf-raise/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-power-squat",
+  "brandSlug": "arsenal-strength",
+  "name": "Power Squat",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-power-squat.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-power-squat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-power-squat/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-iso-multi-row",
+  "brandSlug": "arsenal-strength",
+  "name": "Iso Multi Row",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-iso-multi-row.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-multi-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-multi-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-lever-row",
+  "brandSlug": "arsenal-strength",
+  "name": "Lever Row",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-lever-row.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-lever-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-lever-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-linear-leg-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Linear Leg Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-linear-leg-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-leg-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-leg-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-leg-extension-seated-leg-curl",
+  "brandSlug": "arsenal-strength",
+  "name": "Leg Extension/seated Leg Curl",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-leg-extension-seated-leg-curl.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-leg-extension-seated-leg-curl/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-leg-extension-seated-leg-curl/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-iso-lat-pulldown",
+  "brandSlug": "arsenal-strength",
+  "name": "Iso Lat Pulldown",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-iso-lat-pulldown.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-lat-pulldown/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-lat-pulldown/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-iso-incline-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Iso Incline Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-iso-incline-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-incline-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-incline-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-glute-bridge",
+  "brandSlug": "arsenal-strength",
+  "name": "Glute Bridge",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-glute-bridge.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-glute-bridge/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-glute-bridge/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-incline-fly",
+  "brandSlug": "arsenal-strength",
+  "name": "Incline Fly",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-incline-fly.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-incline-fly/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-incline-fly/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-multi-flex",
+  "brandSlug": "arsenal-strength",
+  "name": "Multi Flex",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-multi-flex.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-flex/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-flex/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-iso-flat-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Iso Flat Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-iso-flat-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-flat-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-flat-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-bilateral-leg-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Bilateral Leg Press",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-bilateral-leg-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-bilateral-leg-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-bilateral-leg-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-belt-squat",
+  "brandSlug": "arsenal-strength",
+  "name": "Belt Squat",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-belt-squat.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-reloaded-belt-squat/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-reloaded-belt-squat/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-posterior-chain-developer",
+  "brandSlug": "arsenal-strength",
+  "name": "Posterior Chain Developer",
+  "series": "Reloaded",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-posterior-chain-developer.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-reloaded-posterior-chain-developer/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-reloaded-posterior-chain-developer/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-7-power-rack",
+  "brandSlug": "arsenal-strength",
+  "name": "7 Power Rack",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-7-power-rack.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-power-rack/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-power-rack/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-7-half-rack",
+  "brandSlug": "arsenal-strength",
+  "name": "7 Half Rack",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-7-half-rack.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-half-rack/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-half-rack/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-11-power-rack-2",
+  "brandSlug": "arsenal-strength",
+  "name": "11 Power Rack",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-power-rack/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-11-half-rack",
+  "brandSlug": "arsenal-strength",
+  "name": "11 Half Rack",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-11-half-rack.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-half-rack/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-half-rack/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-vertical-knee-raise-dip-station",
+  "brandSlug": "arsenal-strength",
+  "name": "Vertical Knee Raise/dip Station",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-vertical-knee-raise-dip-station.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-vertical-knee-raise-dip-station/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-vertical-knee-raise-dip-station/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-upright-utility-bench",
+  "brandSlug": "arsenal-strength",
+  "name": "Upright Utility Bench",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-upright-utility-bench.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-upright-utility-bench/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-upright-utility-bench/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-standing-preacher-curl-bench",
+  "brandSlug": "arsenal-strength",
+  "name": "Standing Preacher Curl Bench",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-standing-preacher-curl-bench.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-standing-preacher-curl-bench/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-standing-preacher-curl-bench/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-smith-machine-0-or-7-degree",
+  "brandSlug": "arsenal-strength",
+  "name": "Smith Machine (0 Or 7 Degree)",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-smith-machine-0-or-7-degree.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-smith-machine-0-or-7-degree/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-smith-machine-0-or-7-degree/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-sissy-squat-stand",
+  "brandSlug": "arsenal-strength",
+  "name": "Sissy Squat Stand",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-sissy-squat-stand.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-sissy-squat-stand/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-sissy-squat-stand/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-olympic-military-bench-w-breaker-arms",
+  "brandSlug": "arsenal-strength",
+  "name": "Olympic Military Bench W/breaker Arms",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-olympic-military-bench-w-breaker-arms.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-military-bench-w-breaker-arms/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-military-bench-w-breaker-arms/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-olympic-flat-bench",
+  "brandSlug": "arsenal-strength",
+  "name": "Olympic Flat Bench",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-olympic-flat-bench.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-flat-bench/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-flat-bench/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-olympic-decline-bench",
+  "brandSlug": "arsenal-strength",
+  "name": "Olympic Decline Bench",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-olympic-decline-bench.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-decline-bench/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-decline-bench/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-multi-adjustable-bench-ladder-style",
+  "brandSlug": "arsenal-strength",
+  "name": "Multi Adjustable Bench – Ladder Style",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-multi-adjustable-bench-ladder-style.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-multi-adjustable-bench-ladder-style/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-multi-adjustable-bench-ladder-style/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-glute-ham-developer",
+  "brandSlug": "arsenal-strength",
+  "name": "Glute/ham Developer",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-glute-ham-developer.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-glute-ham-developer/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-glute-ham-developer/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-competition-flat-bench-w-face-savers",
+  "brandSlug": "arsenal-strength",
+  "name": "Competition Flat Bench W/face Savers",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-competition-flat-bench-w-face-savers.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-competition-flat-bench-w-face-savers/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-competition-flat-bench-w-face-savers/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-combo-rack",
+  "brandSlug": "arsenal-strength",
+  "name": "Combo Rack",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-combo-rack.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-combo-rack/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-combo-rack/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-adjustable-lumbar-incline-bench",
+  "brandSlug": "arsenal-strength",
+  "name": "Adjustable Lumbar Incline Bench",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-adjustable-lumbar-incline-bench.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-lumbar-incline-bench/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-lumbar-incline-bench/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-adjustable-decline-bench",
+  "brandSlug": "arsenal-strength",
+  "name": "Adjustable Decline Bench",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-adjustable-decline-bench.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-decline-bench/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-decline-bench/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-alpha-45-degree-back-extension",
+  "brandSlug": "arsenal-strength",
+  "name": "45 Degree Back Extension",
+  "series": "Alpha",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-45-degree-back-extension.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-45-degree-back-extension/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-45-degree-back-extension/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-linear-smith-shoulder-press-arsenal-strength-reloaded",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Reloaded Linear Smith Shoulder Press",
+  "series": "Reloaded Linear Smith Shoulder Press",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-linear-smith-shoulder-press-arsenal-strength-reloaded.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-shoulder-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-shoulder-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-multi-grip-pulldown-high-row-arsenal-strength-reloade",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Reloaded Multi Grip Pulldown/high Row",
+  "series": "Reloaded Multi Grip Pulldown/high Row",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-multi-grip-pulldown-high-row-arsenal-strength-reloade.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-grip-pulldown-high-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-grip-pulldown-high-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-linear-smith-row-arsenal-strength-reloaded-linear-smi",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Reloaded Linear Smith Row",
+  "series": "Reloaded Linear Smith Row",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-linear-smith-row-arsenal-strength-reloaded-linear-smi.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-horizontal-leg-press-arsenal-strength-reloaded-horizo",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Reloaded Horizontal Leg Press",
+  "series": "Reloaded Horizontal Leg Press",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-horizontal-leg-press-arsenal-strength-reloaded-horizo.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-horizontal-leg-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-horizontal-leg-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-reloaded-hip-hack-press-arsenal-strength-reloaded-hip-hack-pre",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Reloaded Hip Hack Press",
+  "series": "Reloaded Hip Hack Press",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "hack-squat",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Linear sled: near-constant load, light at lockout as knees straighten. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 7,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-reloaded-hip-hack-press-arsenal-strength-reloaded-hip-hack-pre.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-reloaded-hip-hack-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-hip-hack-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-pivot-leg-press-arsenal-strength-forgex-pivot-leg-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Forgex Pivot Leg Press",
+  "series": "Forgex Pivot Leg Press",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-pivot-leg-press-arsenal-strength-forgex-pivot-leg-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-forgex-pivot-leg-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-forgex-pivot-leg-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-lying-leg-curl-arsenal-strength-forgex-lying-leg-curl",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Forgex Lying Leg Curl",
+  "series": "Forgex Lying Leg Curl",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-lying-leg-curl-arsenal-strength-forgex-lying-leg-curl.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-forgex-lying-leg-curl/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-forgex-lying-leg-curl/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-leg-extension-arsenal-strength-forgex-leg-extension",
+  "brandSlug": "arsenal-strength",
+  "name": "Arsenal Strength – Forgex Leg Extension",
+  "series": "Forgex Leg Extension",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-leg-extension-arsenal-strength-forgex-leg-extension.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-forgex-leg-extension/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-strength-forgex-leg-extension/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-shoulder-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Shoulder Press",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-shoulder-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-shoulder-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-shoulder-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-seated-iso-bicep-curl",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Seated Iso Bicep Curl",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-seated-iso-bicep-curl.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-seated-iso-bicep-curl/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-seated-iso-bicep-curl/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-seated-tricep-extension",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Seated Tricep Extension",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-seated-tricep-extension.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-seated-tricep-extension/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-seated-tricep-extension/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-scorpion-high-row",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Scorpion High Row",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-scorpion-high-row.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-scorpion-high-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-scorpion-high-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-seated-row",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Seated Row",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-seated-row.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-seated-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-seated-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-diverging-row",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Diverging Row",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-diverging-row.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-diverging-row/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-diverging-row/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forex-wide-chest-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Forex Wide Chest Press",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forex-wide-chest-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forex-wide-chest-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forex-wide-chest-press/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-upright-decline-fly",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Upright Decline Fly",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-upright-decline-fly.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-upright-decline-fly/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-upright-decline-fly/"
+   }
+  ]
+ },
+ {
+  "slug": "arsenal-forgex-converging-chest-press",
+  "brandSlug": "arsenal-strength",
+  "name": "Forgex Converging Chest Press",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-forgex-converging-chest-press.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-forgex-converging-chest-press/"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Performaxx (Arsenal Strength distributor)",
+    "url": "https://performaxx.com.au/product/arsenal-forgex-converging-chest-press/"
+   }
+  ]
+ }
+]

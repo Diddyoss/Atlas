@@ -50,7 +50,7 @@ export default brandItems("panatta", [
   {
     slug: "panatta-hack-squat",
     name: "Hack Squat",
-    series: "Freeweight One",
+    series: "Freeweight HP",
     aliases: ["panatta standard hack"],
     loading: "plate",
     movement: "hack-squat",

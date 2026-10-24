@@ -1,0 +1,50 @@
+[
+ {
+  "slug": "lf-insignia-chest-press",
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-chest-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-lat-pulldown",
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-lat-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "lf-insignia-leg-extension",
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-insignia-leg-extension.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-leg-extension"
+   }
+  ]
+ }
+]

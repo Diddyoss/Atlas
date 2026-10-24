@@ -1,0 +1,98 @@
+[
+ {
+  "slug": "hammer-iso-lateral-front-pulldown",
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-iso-lateral-front-pulldown.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-front-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-front-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-iso-lateral-high-row",
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-iso-lateral-high-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-high-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-high-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-iso-lateral-incline-press",
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-iso-lateral-incline-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-incline-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-incline-press"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-iso-lateral-row",
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-iso-lateral-row.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-row"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-iso-lateral-wide-chest",
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-iso-lateral-wide-chest.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-wide-chest"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-wide-chest"
+   }
+  ]
+ },
+ {
+  "slug": "hammer-linear-leg-press",
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-linear-leg-press.webp",
+    "credit": "Life Fitness (official catalogue)",
+    "sourceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-linear-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness (official catalogue)",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-linear-leg-press"
+   }
+  ]
+ }
+]

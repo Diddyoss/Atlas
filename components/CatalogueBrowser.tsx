@@ -10,6 +10,8 @@ import { LOADING_LABELS, LOADING_TYPES, MOVEMENT_LABELS, MOVEMENTS, type Brand, 
 import { BodyMap } from "./BodyMap";
 import { EquipmentCard } from "./EquipmentCard";
 
+const PAGE_SIZE = 36;
+
 type Props = {
   items: CatalogueItem[];
   brands: Pick<Brand, "slug" | "name" | "status">[];
@@ -24,10 +26,19 @@ export function CatalogueBrowser({ items, brands, base = {} }: Props) {
   const [railOpen, setRailOpen] = useState(false);
   const index = useMemo(() => createIndex(items), [items]);
 
-  const results = useMemo(
-    () => filterItems(items, { ...filters, q: deferredQuery }, index),
-    [items, filters, deferredQuery, index],
-  );
+  const results = useMemo(() => {
+    const found = filterItems(items, { ...filters, q: deferredQuery }, index);
+    if (deferredQuery.trim()) return found; // keep search relevance order
+    // Browsing: photographed machines first, hand-reviewed ones ahead of estimated (sort is stable)
+    const rank = (i: CatalogueItem) => (i.images.length ? 2 : 0) + (i.estimated ? 0 : 1);
+    return [...found].sort((a, b) => rank(b) - rank(a));
+  }, [items, filters, deferredQuery, index]);
+
+  // Render in pages; a new search or filter starts from the first page again
+  const signature = `${params.toString()}|${deferredQuery}`;
+  const [paging, setPaging] = useState({ signature, shown: PAGE_SIZE });
+  const shown = paging.signature === signature ? paging.shown : PAGE_SIZE;
+  const visible = results.slice(0, shown);
 
   const update = (patch: Partial<Filters>) => {
     const next = { ...filters, q: query, ...patch };
@@ -41,7 +52,12 @@ export function CatalogueBrowser({ items, brands, base = {} }: Props) {
   };
 
   const activeCount =
-    filters.brands.length + filters.muscles.length + filters.movements.length + filters.loading.length + Number(filters.iso);
+    filters.brands.length +
+    filters.muscles.length +
+    filters.movements.length +
+    filters.loading.length +
+    Number(filters.iso) +
+    Number(filters.reviewed);
 
   const vintageLocked = base.vintage === "only";
   const usedMovements = MOVEMENTS.filter((m) => items.some((i) => i.movement === m));
@@ -122,6 +138,15 @@ export function CatalogueBrowser({ items, brands, base = {} }: Props) {
               />
               Iso-lateral only
             </label>
+            <label className="label mt-2 flex cursor-pointer items-center gap-2 text-ash">
+              <input
+                type="checkbox"
+                checked={filters.reviewed}
+                onChange={(e) => update({ reviewed: e.target.checked })}
+                className="accent-chalk"
+              />
+              Hand-reviewed only
+            </label>
           </Section>
         </div>
       </aside>
@@ -176,11 +201,19 @@ export function CatalogueBrowser({ items, brands, base = {} }: Props) {
 
         <motion.div layout className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
           <AnimatePresence mode="popLayout">
-            {results.map((item, i) => (
-              <EquipmentCard key={item.slug} item={item} index={i} />
+            {visible.map((item, i) => (
+              <EquipmentCard key={item.slug} item={item} index={i % PAGE_SIZE} />
             ))}
           </AnimatePresence>
         </motion.div>
+        {results.length > shown && (
+          <button
+            onClick={() => setPaging({ signature, shown: shown + PAGE_SIZE })}
+            className="label mt-6 w-full border border-rivet py-4 text-ash transition-colors hover:border-chalk hover:text-chalk"
+          >
+            Show more · {results.length - shown} left
+          </button>
+        )}
         {results.length === 0 && (
           <div className="border border-dashed border-rivet p-12 text-center">
             <p className="stencil text-3xl text-ash">Nothing on the floor</p>

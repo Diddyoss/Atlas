@@ -1,0 +1,50 @@
+[
+ {
+  "slug": "nautilus-leverage-incline-press",
+  "images": [
+   {
+    "src": "/equipment/nautilus/nautilus-leverage-incline-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/nautilus-leverage-incline-press-9np-l2003-60bzs-new"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/nautilus-leverage-incline-press-9np-l2003-60bzs-new"
+   }
+  ]
+ },
+ {
+  "slug": "nautilus-impact-leg-extension",
+  "images": [
+   {
+    "src": "/equipment/nautilus/nautilus-impact-leg-extension.webp",
+    "credit": "Core Health & Fitness (Nautilus)",
+    "sourceUrl": "https://www.corehandf.com/products/nautilus-impact-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Core Health & Fitness (Nautilus)",
+    "url": "https://www.corehandf.com/products/nautilus-impact-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "nautilus-inspiration-lat-pulldown",
+  "images": [
+   {
+    "src": "/equipment/nautilus/nautilus-inspiration-lat-pulldown.webp",
+    "credit": "Core Health & Fitness (Nautilus)",
+    "sourceUrl": "https://www.corehandf.com/products/nautilus-inspiration-lat-pull-down"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Core Health & Fitness (Nautilus)",
+    "url": "https://www.corehandf.com/products/nautilus-inspiration-lat-pull-down"
+   }
+  ]
+ }
+]
