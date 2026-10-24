@@ -2,7 +2,7 @@ import type { Loading, Movement } from "../../lib/types";
 
 /** Things that show up in product feeds but aren't machines. */
 const NOT_A_MACHINE =
-  /\b(attachments?|handles?|pads?|kits?|replacements?|mounts?|upgrades?|collars?|olympic plates?|weight plates?|bumper plates?|plate sets?|plate trees?|plate racks?|bumpers?|bundles?|dumbbells?|kettlebells?|storage|weight trees?|hat|shirt|socks|beanie|gift|cups?|abmat|mats?|flooring|straps?|carabiners?|j-hooks?|spotter|band pegs?|balls?|targets?|bags?|ropes?|covers?|cushions?|upholstery|shrouds?|parts?|fee|installation|assembly|treadmills?|bikes?|ellipticals?|cycles?|rowers?|steppers?|climbers?|arc trainers?|ergometers?|ube|crosstrainers?|flexstriders?|stairs?|stairmaster|consoles?|tv|grippers?|neck|tibia|wrist|(?:dumbbell|barbell|plate|storage|bar) stands?|packages?|coming soon|(?<!t[- ])bars?|ez curl|straight bar|sled|plyo|boxes?|benches? only|bench attachment|lockers?|weight horns?|platforms?|accessory rack|accessories|(?:barbell|disk|disc|plates?|curl|bell|wall) racks?|rack wall|narrow rack|safety (?:arms?|stops?)|set of weights)\b/i;
+  /\b(attachments?|handles?|pads?|kits?|replacements?|mounts?|upgrades?|collars?|olympic plates?|weight plates?|bumper plates?|plate sets?|plate trees?|plate racks?|bumpers?|bundles?|dumbbells?|kettlebells?|storage|weight trees?|hat|shirt|socks|beanie|gift|cups?|abmat|mats?|flooring|straps?|carabiners?|j-hooks?|spotter|band pegs?|balls?|targets?|bags?|ropes?|covers?|cushions?|upholstery|shrouds?|parts?|fee|installation|assembly|treadmills?|bikes?|ellipticals?|cycles?|rowers?|steppers?|climbers?|arc trainers?|ergometers?|ube|crosstrainers?|flexstriders?|stairs?|stairmaster|consoles?|tv|grippers?|neck|tibia|wrist|(?:dumbbell|barbell|plate|storage|bar) stands?|packages?|coming soon|(?<!t[- ])bars?|ez curl|straight bar|sled|plyo|boxes?|benches? only|bench attachment|lockers?|weight horns?|platforms?|accessory rack|accessories|(?:barbell|disk|disc|plates?|curl|bell|wall) racks?|rack wall|narrow rack|safety (?:arms?|stops?)|set of weights)\b|\s(?:for|to fit)\s/i;
 
 type Rule = [RegExp, Movement];
 
@@ -69,6 +69,8 @@ export function shortenName(name: string, brandNames: string[], series?: string)
   n = n
     // Codes are all-caps after tidyName, so "45-Degree" and "4-Way" survive
     .replace(/\b\d[A-Z0-9]*(-[A-Z0-9]*[A-Z][A-Z0-9]*|-\d+[A-Z]+[A-Z0-9]*)+\b/g, "")
+    // Trailing catalogue codes ("Pec Fly / Rear Delt DSL0505")
+    .replace(/\s+[A-Z]{2,4}\d{3,5}[A-Z]?$/, "")
     .replace(/\s{2,}/g, " ")
     .trim();
   return n.length >= 3 ? n : name;

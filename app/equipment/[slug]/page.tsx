@@ -61,7 +61,7 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
         <div className="relative border border-rivet">
           <EquipmentVisual item={item} className="aspect-[4/3]" sizes="(max-width: 1024px) 100vw, 55vw" priority />
           {item.vintage && (
-            <span className="stencil absolute bottom-6 right-6 -rotate-6 border-4 border-chalk px-4 py-1 text-3xl text-chalk opacity-90">
+            <span className="stencil absolute right-4 top-4 z-10 -rotate-6 border-4 border-chalk bg-ink/90 px-4 py-1 text-2xl text-chalk sm:text-3xl">
               Discontinued
             </span>
           )}
@@ -70,7 +70,7 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
               href={item.images[0].sourceUrl}
               target="_blank"
               rel="noreferrer"
-              className="label absolute bottom-2 left-2 bg-ink/80 px-2 py-1 text-[0.6rem] text-ash hover:text-chalk"
+              className="label absolute bottom-2 left-2 z-10 max-w-[calc(100%-1rem)] truncate bg-ink/85 px-2 py-1 text-[0.6rem] text-ash hover:text-chalk"
             >
               Image: {item.images[0].credit} ↗
             </a>

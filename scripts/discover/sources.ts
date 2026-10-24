@@ -142,7 +142,7 @@ const nautilus: Source = {
 /** Remanufactured-equipment dealer: our source for vintage Cybex/Icarian/Nautilus and for Technogym and Matrix. */
 const fitnessSuperstore: Source = {
   id: "fitness-superstore",
-  brands: ["cybex", "icarian", "nautilus", "technogym", "matrix"],
+  brands: ["cybex", "icarian", "nautilus", "technogym", "matrix", "precor"],
   run: async () => {
     const store = "https://fitnesssuperstore.com";
     const out: Raw[] = [];
@@ -152,16 +152,18 @@ const fitnessSuperstore: Source = {
       let brandSlug: string | null = null;
       let discontinued = false;
       if (p.vendor === "Cybex") brandSlug = "cybex";
-      else if (p.vendor === "Precor" && /icarian/i.test(p.title)) brandSlug = "icarian";
+      else if (p.vendor === "Precor") brandSlug = /icarian/i.test(p.title) ? "icarian" : "precor";
       else if (p.vendor === "Nautilus") {
         brandSlug = "nautilus";
         discontinued = !CURRENT_NAUTILUS.test(p.title);
       } else if (p.vendor === "Technogym") brandSlug = "technogym";
       else if (p.vendor === "Matrix") brandSlug = "matrix";
       if (!brandSlug) continue;
-      const name = tidyName(p.title.replace(new RegExp(`^(${p.vendor}|Precor Icarian|Precor)\\s+`, "i"), ""));
+      const name = tidyName(p.title.replace(new RegExp(`^(${p.vendor}|Precor Icarian|Precor)\\s+`, "i"), ""))
+        // Leading catalogue codes such as "DSL0314" hide the series name
+        .replace(/^[A-Z]{2,4}\d{3,5}[A-Z]?\s+/, "");
       const series = name.match(
-        /^(VR1|VR2|VR3|Eagle|Prestige|Classic|Plate Loaded|Nitro Plus|Nitro|Evo|One|2ST|Next Generation|Inspiration|Impact|Instinct|Selection|Element\+?|Pure Strength|Ultra|Aura|Versa|Magnum|Genesis)\b/i,
+        /^(VR1|VR2|VR3|Eagle|Prestige|Classic|Plate Loaded|Nitro Plus|Nitro|Evo|One|2ST|Next Generation|Inspiration|Impact|Instinct|Selection|Element\+?|Pure Strength|Ultra|Aura|Versa|Magnum|Genesis|Discovery|Vitality|Resolute|Icarian)\b/i,
       )?.[1];
       out.push({
         brandSlug,
@@ -180,17 +182,52 @@ const fitnessSuperstore: Source = {
 
 const globalFitness: Source = {
   id: "global-fitness",
-  brands: ["arsenal-strength"],
+  brands: ["arsenal-strength", "precor"],
   run: async () => {
     const store = "https://www.globalfitness.com";
     return (await shopifyAll(store))
-      .filter((p) => /arsenal/i.test(p.vendor) && p.images.length)
+      .filter((p) => /arsenal|precor/i.test(p.vendor) && p.images.length)
+      .map((p) => {
+        const precor = /precor/i.test(p.vendor);
+        // Tidy first: titles often start with "Used", which hides the brand prefix
+        const name = tidyName(p.title)
+          .replace(/^(arsenal strength|precor)\s+/i, "")
+          .replace(/^[A-Z]{2,4}\d{3,5}[A-Z]?\s+/, "");
+        return {
+          brandSlug: precor ? (/icarian/i.test(p.title) ? "icarian" : "precor") : "arsenal-strength",
+          name,
+          series: precor ? name.match(/^(Discovery|Vitality|Resolute|Icarian)\b/i)?.[1] : undefined,
+          url: `${store}/products/${p.handle}`,
+          image: p.images[0].src,
+          credit: "Global Fitness (dealer listing)",
+          context: p.tags.join(" "),
+        };
+      });
+  },
+};
+
+const gymleco: Source = {
+  id: "gymleco",
+  brands: ["gymleco"],
+  run: async () => {
+    const store = "https://gymleco.com";
+    const TYPES: Record<string, Loading | undefined> = {
+      "Plate loaded machines": "plate",
+      "Combi machines": undefined,
+      "Smith machines": "bench-rack",
+      "Functional training": undefined,
+    };
+    return (await shopifyAll(store))
+      .filter((p) => p.product_type in TYPES && p.images.length && !p.tags.includes("sv-only"))
       .map((p) => ({
-        brandSlug: "arsenal-strength",
-        name: tidyName(p.title.replace(/^arsenal strength\s+/i, "")),
+        brandSlug: "gymleco",
+        // Drop the leading model number ("067 Gymleco Hip & Back Extension")
+        name: tidyName(p.title.replace(/^\d{2,4}[A-Z]?\s+/, "").replace(/^gymleco\s+/i, "")),
+        series: p.product_type === "Combi machines" ? "Combi" : p.product_type === "Plate loaded machines" ? "Plate Loaded" : undefined,
+        loading: TYPES[p.product_type],
         url: `${store}/products/${p.handle}`,
         image: p.images[0].src,
-        credit: "Global Fitness (dealer listing)",
+        credit: "Gymleco (official store)",
         context: p.tags.join(" "),
       }));
   },
@@ -376,12 +413,19 @@ const atlantis: Source = {
       });
     }
     log("atlantis", `${found.size} products on body-part pages`);
-    // Prefer the full-size product photo over the listing thumbnail
+    // Product pages share one site-wide og:image banner, so start from the listing thumbnail
+    // (e.g. p140-4-416x454.png) and look up the largest size of that same photo on the product page.
     for (const raw of found.values()) {
-      const page = await safe("atlantis", raw.url, async () => extractProduct(await fetchText(raw.url), raw.url));
-      if (page?.image) raw.image = page.image;
+      if (!raw.image) continue;
+      const base = raw.image.split("/").pop()!.replace(/-\d+x\d+(?=\.\w+$)/, "").replace(/\.\w+$/, "");
+      const html = await safe("atlantis", raw.url, () => fetchText(raw.url));
+      if (!html) continue;
+      const sizes = [...html.matchAll(new RegExp(`[^"'\\s(]*/${base.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}-(\\d+)x\\d+\\.(?:png|jpe?g|webp)`, "gi"))]
+        .map((m) => ({ url: new URL(m[0].replace(/^\/\//, "https://"), raw.url).href, width: Number(m[1]) }))
+        .sort((a, b) => b.width - a.width);
+      if (sizes[0]) raw.image = sizes[0].url;
     }
-    return [...found.values()].filter((r) => r.image);
+    return [...found.values()].filter((r) => r.image && !/og-image/i.test(r.image));
   },
 };
 
@@ -507,6 +551,7 @@ export const SOURCES: Source[] = [
   nautilus,
   fitnessSuperstore,
   globalFitness,
+  gymleco,
   panatta,
   arsenal,
   lifeFitness,

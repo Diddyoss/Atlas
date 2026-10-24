@@ -4,8 +4,8 @@
 
 A dark, black-and-white, industrial compendium for comparing strength equipment, built for gym goers and bodybuilders.
 
-- **1,400+ machines from 22 brands, 97% with photos.** About 80 are hand-reviewed; the rest come from manufacturer and dealer catalogues and have estimated profiles.
-- **Active brands:** Panatta, gym80, Nautilus, Newtech, Atlantis, Arsenal Strength, Hammer Strength, Hoist, Prime Fitness, Technogym, Life Fitness, Watson, Matrix, Rogue and Eleiko.
+- **1,600+ machines from 24 brands, 97% with photos.** About 80 are hand-reviewed; the rest come from manufacturer and dealer catalogues and have estimated profiles.
+- **Active brands:** Panatta, Gymleco, gym80, Nautilus, Newtech, Atlantis, Arsenal Strength, Precor, Hammer Strength, Hoist, Prime Fitness, Technogym, Life Fitness, Watson, Matrix, Rogue and Eleiko.
 - **Vintage vault.** Out-of-business brands (Flex, classic Cybex, classic MedX, Icarian, Bodymasters, Nebula, classic Universal) and discontinued lines from active brands, such as the original Nautilus Pullover. Filter them in or out with the Era control, or open `/vintage`.
 - **Search** by name, brand, series or alias ("hammer row", "blue monster").
 - **Search by function:** tap muscles on the front/back body map (a label names each muscle on hover or tap), or filter by movement pattern, loading type, iso-lateral design or *hand-reviewed only*. Filters live in the URL, so any search can be shared.
@@ -43,7 +43,7 @@ npm run build && npm start
 
 | Brand | Source |
 | --- | --- |
-| Prime, Hoist | the brands' own Shopify stores |
+| Prime, Hoist, Gymleco | the brands' own Shopify stores |
 | Hammer Strength, Life Fitness | lifefitness.com catalogue |
 | Atlantis | atlantisstrength.com |
 | gym80 | gym80.de API |
@@ -52,7 +52,7 @@ npm run build && npm start
 | Panatta | Primo Fitness (US dealer; panattasport.com blocks automated access) |
 | Arsenal Strength | Performaxx (AU distributor) |
 | Watson | Gym Equipment UK |
-| Vintage Cybex, Icarian and Nautilus; Technogym; Matrix | Fitness Superstore and Global Fitness (remanufactured listings) |
+| Vintage Cybex, Icarian and Nautilus; Precor; Technogym; Matrix | Fitness Superstore and Global Fitness (remanufactured listings; precor.com renders its catalogue client-side) |
 
 ```bash
 npm run discover                        # all sources

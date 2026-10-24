@@ -33,6 +33,8 @@ const opt = (n: string) => {
 const only = opt("only")?.split(",");
 const NO_IMAGES = args.includes("--no-images");
 const FROM_CACHE = args.includes("--from-cache");
+/** Brands whose photos are downloaded again even if a file already exists (e.g. after fixing a source) */
+const REFRESH = new Set(opt("refresh")?.split(",") ?? []);
 
 const PREFIX: Record<string, string> = {
   "hammer-strength": "hammer",
@@ -74,8 +76,8 @@ async function saveImage(brand: string, slug: string, url: string): Promise<stri
   const dir = path.join(ROOT, "public", "equipment", brand);
   const file = path.join(dir, `${slug}.webp`);
   const src = `/equipment/${brand}/${slug}.webp`;
-  if (existsSync(file)) return src;
-  if (NO_IMAGES) return null;
+  if (existsSync(file) && !REFRESH.has(brand)) return src;
+  if (NO_IMAGES) return existsSync(file) ? src : null;
   mkdirSync(dir, { recursive: true });
   try {
     const buf = await fetchBuffer(url);

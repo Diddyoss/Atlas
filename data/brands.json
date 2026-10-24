@@ -152,6 +152,27 @@
     "signature": "Competition bars and Prestera racks"
   },
   {
+    "slug": "precor",
+    "name": "Precor",
+    "country": "USA",
+    "founded": 1980,
+    "status": "active",
+    "note": "Owned by Peloton since 2021. Precor's older Icarian line is listed under Vintage.",
+    "website": "https://www.precor.com/en-US/strength",
+    "blurb": "Woodinville, Washington manufacturer best known for cardio, with a full strength range: Discovery plate-loaded and selectorized machines, Resolute and Vitality selectorized lines, and the Glutebuilder.",
+    "signature": "Discovery series"
+  },
+  {
+    "slug": "gymleco",
+    "name": "Gymleco",
+    "country": "Sweden",
+    "founded": 1994,
+    "status": "active",
+    "website": "https://gymleco.com",
+    "blurb": "Family-owned Swedish maker founded by designer Kari Jernvall, building its machines in-house. Known for simple, heavy plate-loaded and combi machines that fill Nordic gyms.",
+    "signature": "Plate-loaded and combi machines"
+  },
+  {
     "slug": "flex-fitness",
     "name": "Flex Fitness",
     "country": "USA",

@@ -26,12 +26,12 @@ export function EquipmentCard({ item, index = 0 }: { item: CatalogueItem; index?
         <div className="relative">
           <EquipmentVisual item={item} className="aspect-[10/7]" />
           {item.vintage && (
-            <span className="label absolute left-3 top-3 -rotate-3 border-2 border-chalk px-2 py-0.5 text-chalk">
+            <span className="label absolute bottom-3 left-3 z-10 max-w-[calc(100%-1.5rem)] -rotate-2 truncate border-2 border-chalk bg-ink/90 px-2 py-0.5 text-[0.62rem] text-chalk">
               Discontinued{item.years ? ` · ${item.years}` : ""}
             </span>
           )}
           {item.editorialFavorite && (
-            <span className="label absolute right-3 top-3 bg-chalk px-2 py-0.5 text-ink">★ Pick</span>
+            <span className="label absolute right-3 top-3 z-10 bg-chalk px-2 py-0.5 text-ink">★ Pick</span>
           )}
         </div>
         <div className="flex flex-1 flex-col gap-3 p-4">

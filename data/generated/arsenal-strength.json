@@ -2893,7 +2893,13 @@
   "cons": [],
   "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
   "editorialFavorite": false,
-  "images": [],
+  "images": [
+   {
+    "src": "/equipment/arsenal-strength/arsenal-alpha-11-power-rack-2.webp",
+    "credit": "Performaxx (Arsenal Strength distributor)",
+    "sourceUrl": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-power-rack/"
+   }
+  ],
   "sources": [
    {
     "label": "Performaxx (Arsenal Strength distributor)",

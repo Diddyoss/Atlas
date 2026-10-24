@@ -218,6 +218,7 @@ const BRAND_TRAITS: Record<string, { build?: number; smoothness?: number; stretc
   technogym: { smoothness: 1 },
   medx: { smoothness: 2, build: 1 },
   cybex: { smoothness: 1 },
+  gymleco: { build: 1 },
 };
 
 const clamp = (n: number) => Math.max(1, Math.min(10, n));

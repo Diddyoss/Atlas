@@ -1,0 +1,3512 @@
+[
+ {
+  "slug": "precor-c404ec-experience-strength-c-line-chest-press",
+  "brandSlug": "precor",
+  "name": "C404EC Experience Strength C-Line Chest Press",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-c404ec-experience-strength-c-line-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-c404ec-experience-strength-c-line-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-c404ec-experience-strength-c-line-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-s-line-dual-pulldown-seated-row",
+  "brandSlug": "precor",
+  "name": "S Line Dual Pulldown / Seated Row",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-s-line-dual-pulldown-seated-row.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-s-line-dual-pulldown-seated-row-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-s-line-dual-pulldown-seated-row-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-plate-loaded-lat-pulldown",
+  "brandSlug": "precor",
+  "name": "Plate Loaded Lat Pulldown",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-plate-loaded-lat-pulldown.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-dpl0305-discovery-series-plate-loaded-lat-pulldown-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-dpl0305-discovery-series-plate-loaded-lat-pulldown-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-half-rack",
+  "brandSlug": "precor",
+  "name": "Half Rack",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-half-rack.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-dbr0611-discovery-series-half-rack-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-dbr0611-discovery-series-half-rack-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-pec-fly-rear-delt",
+  "brandSlug": "precor",
+  "name": "Pec Fly / Rear Delt",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-fly",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Fly geometry usually loads the stretched, arms-open position most. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 8,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-pec-fly-rear-delt.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-pec-fly-rear-delt-dsl0505-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-pec-fly-rear-delt-dsl0505-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-plate-loaded-leg-extension",
+  "brandSlug": "precor",
+  "name": "Plate Loaded Leg Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-plate-loaded-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-dpl0560-discovery-plate-loaded-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-dpl0560-discovery-plate-loaded-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-plate-loaded-chest-press",
+  "brandSlug": "precor",
+  "name": "Plate Loaded Chest Press",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-plate-loaded-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-dpl0540-discovery-plate-loaded-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-dpl0540-discovery-plate-loaded-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-incline-lever-t-bar-row-dpl0311-plate-loaded",
+  "brandSlug": "precor",
+  "name": "Incline Lever T-Bar Row DPL0311 Plate Loaded",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-incline-lever-t-bar-row-dpl0311-plate-loaded.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-incline-lever-t-bar-row-dpl0311-plate-loaded-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-incline-lever-t-bar-row-dpl0311-plate-loaded-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-s3-55-multi-gym-strength-system",
+  "brandSlug": "precor",
+  "name": "S3.55 Multi Gym Strength System",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-s3-55-multi-gym-strength-system.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-s3-55-multi-gym-strength-system-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-s3-55-multi-gym-strength-system-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-s3-45-multi-station-strength-system",
+  "brandSlug": "precor",
+  "name": "S3.45 Multi-Station Strength System",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-s3-45-multi-station-strength-system.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-s3-45-multi-station-strength-system-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-s3-45-multi-station-strength-system-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-s3-23-functional-trainer",
+  "brandSlug": "precor",
+  "name": "S3.23 Functional Trainer",
+  "aliases": [],
+  "loading": "cable",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-s3-23-functional-trainer.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-s3-23-functional-trainer-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-s3-23-functional-trainer-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-experience-c-line-leg-press",
+  "brandSlug": "precor",
+  "name": "Experience C Line Leg Press",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-experience-c-line-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-experience-c-line-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-experience-c-line-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-squat-machine-dpl0624-plate-loaded",
+  "brandSlug": "precor",
+  "name": "Squat Machine DPL0624 Plate Loaded",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    62,
+    64,
+    67,
+    71,
+    75,
+    80,
+    85,
+    90,
+    94,
+    98,
+    100
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-squat-machine-dpl0624-plate-loaded.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-squat-machine-dpl0624-plate-loaded-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-squat-machine-dpl0624-plate-loaded-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-c027es-leg-extension-leg-curl",
+  "brandSlug": "precor",
+  "name": "C027ES Leg Extension / Leg Curl",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-c027es-leg-extension-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-vitality-c027es-leg-extension-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-vitality-c027es-leg-extension-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-shoulder-press",
+  "brandSlug": "precor",
+  "name": "Shoulder Press",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-vitality-series-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-vitality-series-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-c010es-vitality-leg-press-calf-extension",
+  "brandSlug": "precor",
+  "name": "C010ES Vitality Leg Press / Calf Extension",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-c010es-vitality-leg-press-calf-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-c010es-vitality-leg-press-calf-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-c010es-vitality-leg-press-calf-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-seated-leg-curl",
+  "brandSlug": "precor",
+  "name": "Seated Leg Curl",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-seated-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-vitality-series-seated-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-vitality-series-seated-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-leg-extension",
+  "brandSlug": "precor",
+  "name": "Leg Extension",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-leg-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-vitality-series-leg-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-vitality-series-leg-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-lat-pulldown",
+  "brandSlug": "precor",
+  "name": "Lat Pulldown",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-lat-pulldown.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-vitality-series-lat-pulldown-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-vitality-series-lat-pulldown-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-chest-press",
+  "brandSlug": "precor",
+  "name": "Chest Press",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-vitality-series-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-vitality-series-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-adjustable-decline-ab-bench",
+  "brandSlug": "precor",
+  "name": "Adjustable Decline Ab Bench",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-adjustable-decline-ab-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-adjustable-decline-ab-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-adjustable-decline-ab-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-ab-bench",
+  "brandSlug": "precor",
+  "name": "Ab Bench",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-ab-bench.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-ab102-ab-bench-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-ab102-ab-bench-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-abench-pro",
+  "brandSlug": "precor",
+  "name": "Abench Pro",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-abench-pro.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-ab100p-abench-pro-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-ab100p-abench-pro-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-820-multi-gym-8-stack-10-station",
+  "brandSlug": "precor",
+  "name": "820 Multi-Gym 8-Stack 10-Station",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-820-multi-gym-8-stack-10-station.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-820-multi-gym-8-stack-10-station-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-820-multi-gym-8-stack-10-station-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-seated-leg-curl",
+  "brandSlug": "precor",
+  "name": "Selectorized Seated Leg Curl",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-seated-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-seated-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-seated-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-glute-extension",
+  "brandSlug": "precor",
+  "name": "Selectorized Glute Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-glute-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-glute-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-glute-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-prone-leg-curl",
+  "brandSlug": "precor",
+  "name": "Selectorized Prone Leg Curl",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-prone-leg-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-prone-leg-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-prone-leg-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-converging-shoulder-press",
+  "brandSlug": "precor",
+  "name": "Selectorized Converging Shoulder Press",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-converging-shoulder-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-shoulder-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-shoulder-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-converging-chest-press",
+  "brandSlug": "precor",
+  "name": "Selectorized Converging Chest Press",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-converging-chest-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-chest-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-chest-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-diverging-lat-pulldown",
+  "brandSlug": "precor",
+  "name": "Selectorized Diverging Lat Pulldown",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": true,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-diverging-lat-pulldown.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-diverging-lat-pulldown-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-diverging-lat-pulldown-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-back-extension",
+  "brandSlug": "precor",
+  "name": "Selectorized Back Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-back-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-back-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-back-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-triceps-extension",
+  "brandSlug": "precor",
+  "name": "Selectorized Triceps Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-triceps-extension.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-triceps-extension-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-triceps-extension-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-selectorized-biceps-curl",
+  "brandSlug": "precor",
+  "name": "Selectorized Biceps Curl",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-selectorized-biceps-curl.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-biceps-curl-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-biceps-curl-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "precor-vitality-s-line-leg-press-calf-extension-combo",
+  "brandSlug": "precor",
+  "name": "S Line Leg Press Calf Extension Combo",
+  "series": "Vitality",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-vitality-s-line-leg-press-calf-extension-combo.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-vitality-series-s-line-leg-press-calf-extension-combo"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-vitality-series-s-line-leg-press-calf-extension-combo"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-abdominal",
+  "brandSlug": "precor",
+  "name": "Abdominal",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-abdominal.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-abdominal"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-abdominal"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-bicep-curl",
+  "brandSlug": "precor",
+  "name": "Bicep Curl",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "biceps",
+  "primaryMuscles": [
+   "biceps"
+  ],
+  "secondaryMuscles": [
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Curl cams generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-bicep-curl.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-bicep-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-bicep-curl"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-back-extension",
+  "brandSlug": "precor",
+  "name": "Back Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-back-extension.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-back-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-back-extension"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-chest-press",
+  "brandSlug": "precor",
+  "name": "Chest Press",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-chest-press.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-inner-thigh",
+  "brandSlug": "precor",
+  "name": "Inner Thigh",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-inner-thigh.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-inner-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-inner-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-glute-extension",
+  "brandSlug": "precor",
+  "name": "Glute Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "hip-thrust",
+  "primaryMuscles": [
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Hip extension machines usually peak at lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 7,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-glute-extension.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-glute-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-glute-extension"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-outer-thigh",
+  "brandSlug": "precor",
+  "name": "Outer Thigh",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "abduction",
+  "primaryMuscles": [
+   "abductors",
+   "adductors"
+  ],
+  "secondaryMuscles": [
+   "glutes"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Thigh machines load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-outer-thigh.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-outer-thigh"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-outer-thigh"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-leg-extension",
+  "brandSlug": "precor",
+  "name": "Leg Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-extension",
+  "primaryMuscles": [
+   "quads"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "ascending",
+   "curve": [
+    52,
+    57,
+    62,
+    67,
+    72,
+    77,
+    82,
+    87,
+    92,
+    96,
+    100
+   ],
+   "notes": "Extension cams normally get heavier toward full knee extension. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-leg-extension.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-leg-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-leg-extension"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-lat-pulldown",
+  "brandSlug": "precor",
+  "name": "Lat Pulldown",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-lat-pulldown.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-lat-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-lat-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-rotary-torso",
+  "brandSlug": "precor",
+  "name": "Rotary Torso",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-rotary-torso.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-rotary-torso"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-rotary-torso"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-rear-delt-and-pec-fly",
+  "brandSlug": "precor",
+  "name": "Rear Delt And Pec Fly",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "rear-delt",
+  "primaryMuscles": [
+   "rear-delts"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Reverse fly with fairly even loading. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-rear-delt-and-pec-fly.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-rear-delt-and-pec-fly"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-rear-delt-and-pec-fly"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-seated-calf-extension",
+  "brandSlug": "precor",
+  "name": "Seated Calf Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "calf",
+  "primaryMuscles": [
+   "calves"
+  ],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Calf machines are close to flat across the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-seated-calf-extension.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-calf-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-calf-extension"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-seated-row",
+  "brandSlug": "precor",
+  "name": "Seated Row",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "row",
+  "primaryMuscles": [
+   "upper-back",
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "rear-delts",
+   "biceps",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Rows usually load the reach most, easing toward the squeeze. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-seated-row.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-row"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-row"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-seated-leg-press",
+  "brandSlug": "precor",
+  "name": "Seated Leg Press",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-seated-leg-press.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-press"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-seated-leg-curl",
+  "brandSlug": "precor",
+  "name": "Seated Leg Curl",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "leg-curl",
+  "primaryMuscles": [
+   "hamstrings"
+  ],
+  "secondaryMuscles": [
+   "calves"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "descending",
+   "curve": [
+    100,
+    98,
+    94,
+    89,
+    83,
+    77,
+    71,
+    65,
+    60,
+    55,
+    52
+   ],
+   "notes": "Curls load most with the knee extended, easing as it bends. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-seated-leg-curl.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-curl"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-curl"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-tricep-extension",
+  "brandSlug": "precor",
+  "name": "Tricep Extension",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-tricep-extension.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-tricep-extension"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-tricep-extension"
+   }
+  ]
+ },
+ {
+  "slug": "precor-discovery-shoulder-press",
+  "brandSlug": "precor",
+  "name": "Shoulder Press",
+  "series": "Discovery",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/precor/precor-discovery-shoulder-press.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-discovery-series-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-discovery-series-shoulder-press"
+   }
+  ]
+ }
+]

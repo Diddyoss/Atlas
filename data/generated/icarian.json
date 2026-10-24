@@ -1,8 +1,9 @@
 [
  {
-  "slug": "icarian-6-stack-multi-station-gym-cw2222",
+  "slug": "icarian-icarian-6-stack-multi-station-gym",
   "brandSlug": "icarian",
-  "name": "6-Stack Multi-Station Gym CW2222",
+  "name": "6-Stack Multi-Station Gym",
+  "series": "Icarian",
   "aliases": [],
   "loading": "selectorized",
   "movement": "multi",
@@ -58,7 +59,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-6-stack-multi-station-gym-cw2222.webp",
+    "src": "/equipment/icarian/icarian-icarian-6-stack-multi-station-gym.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-6-stack-multi-station-gym-cw2222-remanufactured"
    }
@@ -71,9 +72,10 @@
   ]
  },
  {
-  "slug": "icarian-vertical-pec-deck-405",
+  "slug": "icarian-icarian-vertical-pec-deck-405",
   "brandSlug": "icarian",
   "name": "Vertical Pec Deck 405",
+  "series": "Icarian",
   "aliases": [],
   "loading": "selectorized",
   "movement": "chest-fly",
@@ -125,7 +127,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-vertical-pec-deck-405.webp",
+    "src": "/equipment/icarian/icarian-icarian-vertical-pec-deck-405.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-vertical-pec-deck-405-remanufactured"
    }
@@ -138,9 +140,10 @@
   ]
  },
  {
-  "slug": "icarian-plate-loaded-t-bar-incline-lever-row",
+  "slug": "icarian-icarian-plate-loaded-t-bar-incline-lever-row",
   "brandSlug": "icarian",
   "name": "Plate Loaded T Bar Incline Lever Row",
+  "series": "Icarian",
   "aliases": [],
   "loading": "plate",
   "movement": "row",
@@ -195,7 +198,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-plate-loaded-t-bar-incline-lever-row.webp",
+    "src": "/equipment/icarian/icarian-icarian-plate-loaded-t-bar-incline-lever-row.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-plate-loaded-t-bar-incline-lever-row-remanufactured"
    }
@@ -208,9 +211,10 @@
   ]
  },
  {
-  "slug": "icarian-multi-purpose-utility-bench",
+  "slug": "icarian-icarian-multi-purpose-utility-bench",
   "brandSlug": "icarian",
   "name": "Multi Purpose Utility Bench",
+  "series": "Icarian",
   "aliases": [],
   "loading": "bench-rack",
   "movement": "multi",
@@ -266,7 +270,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-multi-purpose-utility-bench.webp",
+    "src": "/equipment/icarian/icarian-icarian-multi-purpose-utility-bench.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-multi-purpose-utility-bench-remanufactured"
    }
@@ -279,9 +283,80 @@
   ]
  },
  {
-  "slug": "icarian-seated-preacher-curl",
+  "slug": "icarian-icarian-angled-45-degree-plate-loaded-leg-press",
+  "brandSlug": "icarian",
+  "name": "Angled 45 Degree Plate Loaded Leg Press",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "plate",
+  "movement": "leg-press",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "hamstrings",
+   "adductors"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Sled and seated presses load fairly evenly through the range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 15,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-angled-45-degree-plate-loaded-leg-press.webp",
+    "credit": "Fitness Superstore (remanufactured listing)",
+    "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-angled-45-degree-plate-loaded-leg-press-remanufactured"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Fitness Superstore (remanufactured listing)",
+    "url": "https://fitnesssuperstore.com/products/precor-icarian-angled-45-degree-plate-loaded-leg-press-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-seated-preacher-curl",
   "brandSlug": "icarian",
   "name": "Seated Preacher Curl",
+  "series": "Icarian",
   "aliases": [],
   "loading": "bench-rack",
   "movement": "biceps",
@@ -333,7 +408,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-seated-preacher-curl.webp",
+    "src": "/equipment/icarian/icarian-icarian-seated-preacher-curl.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-seated-preacher-curl-remanufactured"
    }
@@ -346,9 +421,10 @@
   ]
  },
  {
-  "slug": "icarian-seated-calf-raise",
+  "slug": "icarian-icarian-seated-calf-raise",
   "brandSlug": "icarian",
   "name": "Seated Calf Raise",
+  "series": "Icarian",
   "aliases": [],
   "loading": "plate",
   "movement": "calf",
@@ -398,7 +474,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-seated-calf-raise.webp",
+    "src": "/equipment/icarian/icarian-icarian-seated-calf-raise.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-seated-calf-raise-remanufactured"
    }
@@ -411,9 +487,10 @@
   ]
  },
  {
-  "slug": "icarian-lateral-raise",
+  "slug": "icarian-icarian-lateral-raise",
   "brandSlug": "icarian",
   "name": "Lateral Raise",
+  "series": "Icarian",
   "aliases": [],
   "loading": "selectorized",
   "movement": "lateral-raise",
@@ -465,7 +542,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-lateral-raise.webp",
+    "src": "/equipment/icarian/icarian-icarian-lateral-raise.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-lateral-raise-remanufactured"
    }
@@ -478,9 +555,10 @@
   ]
  },
  {
-  "slug": "icarian-45-degree-back-extension",
+  "slug": "icarian-icarian-45-degree-back-extension",
   "brandSlug": "icarian",
   "name": "45 Degree Back Extension",
+  "series": "Icarian",
   "aliases": [],
   "loading": "bench-rack",
   "movement": "lower-back",
@@ -533,7 +611,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-45-degree-back-extension.webp",
+    "src": "/equipment/icarian/icarian-icarian-45-degree-back-extension.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-45-degree-back-extension-remanufactured"
    }
@@ -546,9 +624,10 @@
   ]
  },
  {
-  "slug": "icarian-adjustable-cable-crossover",
+  "slug": "icarian-icarian-adjustable-cable-crossover",
   "brandSlug": "icarian",
   "name": "Adjustable Cable Crossover",
+  "series": "Icarian",
   "aliases": [],
   "loading": "cable",
   "movement": "multi",
@@ -604,7 +683,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-adjustable-cable-crossover.webp",
+    "src": "/equipment/icarian/icarian-icarian-adjustable-cable-crossover.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-adjustable-cable-crossover-remanufactured"
    }
@@ -617,9 +696,10 @@
   ]
  },
  {
-  "slug": "icarian-5-stack-cw2200-multi-station-gym",
+  "slug": "icarian-icarian-5-stack-cw2200-multi-station-gym",
   "brandSlug": "icarian",
   "name": "5 Stack CW2200 Multi Station Gym",
+  "series": "Icarian",
   "aliases": [],
   "loading": "selectorized",
   "movement": "multi",
@@ -675,7 +755,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-5-stack-cw2200-multi-station-gym.webp",
+    "src": "/equipment/icarian/icarian-icarian-5-stack-cw2200-multi-station-gym.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-5-stack-cw2200-multi-station-gym-remanufactured"
    }
@@ -688,9 +768,10 @@
   ]
  },
  {
-  "slug": "icarian-cw-702-vkr-vertical-knee-raise",
+  "slug": "icarian-icarian-cw-702-vkr-vertical-knee-raise",
   "brandSlug": "icarian",
   "name": "Cw-702 Vkr Vertical Knee Raise",
+  "series": "Icarian",
   "aliases": [],
   "loading": "bench-rack",
   "movement": "core",
@@ -742,7 +823,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-cw-702-vkr-vertical-knee-raise.webp",
+    "src": "/equipment/icarian/icarian-icarian-cw-702-vkr-vertical-knee-raise.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-cw-702-vkr-vertical-knee-raise-remanufactured"
    }
@@ -755,9 +836,10 @@
   ]
  },
  {
-  "slug": "icarian-cw-408-flat-olympic-bench",
+  "slug": "icarian-icarian-cw-408-flat-olympic-bench",
   "brandSlug": "icarian",
   "name": "Cw-408 Flat Olympic Bench",
+  "series": "Icarian",
   "aliases": [],
   "loading": "bench-rack",
   "movement": "multi",
@@ -813,7 +895,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-cw-408-flat-olympic-bench.webp",
+    "src": "/equipment/icarian/icarian-icarian-cw-408-flat-olympic-bench.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-cw-408-flat-olympic-bench-remanufactured"
    }
@@ -826,9 +908,10 @@
   ]
  },
  {
-  "slug": "icarian-super-squat-624",
+  "slug": "icarian-icarian-super-squat-624",
   "brandSlug": "icarian",
   "name": "Super Squat 624",
+  "series": "Icarian",
   "aliases": [],
   "loading": "plate",
   "movement": "squat",
@@ -882,7 +965,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-super-squat-624.webp",
+    "src": "/equipment/icarian/icarian-icarian-super-squat-624.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-super-squat-624-remanufactured"
    }
@@ -895,9 +978,10 @@
   ]
  },
  {
-  "slug": "icarian-chin-dip-assist",
+  "slug": "icarian-icarian-chin-dip-assist",
   "brandSlug": "icarian",
   "name": "Chin Dip Assist",
+  "series": "Icarian",
   "aliases": [],
   "loading": "selectorized",
   "movement": "pulldown",
@@ -951,7 +1035,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-chin-dip-assist.webp",
+    "src": "/equipment/icarian/icarian-icarian-chin-dip-assist.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-chin-dip-assist-remanufactured"
    }
@@ -964,9 +1048,10 @@
   ]
  },
  {
-  "slug": "icarian-smith-machine",
+  "slug": "icarian-icarian-smith-machine",
   "brandSlug": "icarian",
   "name": "Smith Machine",
+  "series": "Icarian",
   "aliases": [],
   "loading": "bench-rack",
   "movement": "multi",
@@ -1022,7 +1107,7 @@
   "editorialFavorite": false,
   "images": [
    {
-    "src": "/equipment/icarian/icarian-smith-machine.webp",
+    "src": "/equipment/icarian/icarian-icarian-smith-machine.webp",
     "credit": "Fitness Superstore (remanufactured listing)",
     "sourceUrl": "https://fitnesssuperstore.com/products/precor-icarian-smith-machine-remanufactured"
    }
@@ -1031,6 +1116,1197 @@
    {
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-smith-machine-remanufactured"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-abench-abdominal-crunch-bench",
+  "brandSlug": "icarian",
+  "name": "Abench Abdominal Crunch Bench",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "core",
+  "primaryMuscles": [
+   "abs"
+  ],
+  "secondaryMuscles": [
+   "obliques"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Ab and torso machines are close to flat. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-abench-abdominal-crunch-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-abench-abdominal-crunch-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-abench-abdominal-crunch-bench"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-dip-chin-assist",
+  "brandSlug": "icarian",
+  "name": "Dip Chin Assist",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-dip-chin-assist.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-dip-chin-assist"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-dip-chin-assist"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-flat-bench",
+  "brandSlug": "icarian",
+  "name": "Flat Bench",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-flat-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-flat-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-flat-bench"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-hyperextension-bench",
+  "brandSlug": "icarian",
+  "name": "Hyperextension Bench",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "lower-back",
+  "primaryMuscles": [
+   "lower-back"
+  ],
+  "secondaryMuscles": [
+   "glutes",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Back extensions load fairly evenly. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-hyperextension-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-hyperextension-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-hyperextension-bench"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-olympic-flat-bench",
+  "brandSlug": "icarian",
+  "name": "Olympic Flat Bench",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-olympic-flat-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-olympic-flat-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-flat-bench"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-olympic-decline-bench",
+  "brandSlug": "icarian",
+  "name": "Olympic Decline Bench",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-olympic-decline-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-olympic-decline-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-decline-bench"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-olympic-incline-bench",
+  "brandSlug": "icarian",
+  "name": "Olympic Incline Bench",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-olympic-incline-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-olympic-incline-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-incline-bench"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-plate-loaded-smith-machine",
+  "brandSlug": "icarian",
+  "name": "Plate Loaded Smith Machine",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-plate-loaded-smith-machine.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-plate-loaded-smith-machine"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-plate-loaded-smith-machine"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-power-cage",
+  "brandSlug": "icarian",
+  "name": "Power Cage",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-power-cage.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-power-cage"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-power-cage"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-pulldown",
+  "brandSlug": "icarian",
+  "name": "Pulldown",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "pulldown",
+  "primaryMuscles": [
+   "lats"
+  ],
+  "secondaryMuscles": [
+   "biceps",
+   "upper-back",
+   "rear-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Pulldowns are fairly even; lever versions load the top stretch more. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-pulldown.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-pulldown"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-pulldown"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-seated-dip",
+  "brandSlug": "icarian",
+  "name": "Seated Dip",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "triceps",
+  "primaryMuscles": [
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "chest",
+   "front-delts"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Triceps machines generally peak mid-range. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 8,
+   "beginner": 9,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-seated-dip.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-seated-dip"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-seated-dip"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-rear-delt-and-pec-fly",
+  "brandSlug": "icarian",
+  "name": "Rear Delt And Pec Fly",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "rear-delt",
+  "primaryMuscles": [
+   "rear-delts"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "traps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Reverse fly with fairly even loading. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-rear-delt-and-pec-fly.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-rear-delt-and-pec-fly"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-rear-delt-and-pec-fly"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-squat-rack",
+  "brandSlug": "icarian",
+  "name": "Squat Rack",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "squat",
+  "primaryMuscles": [
+   "quads",
+   "glutes"
+  ],
+  "secondaryMuscles": [
+   "adductors",
+   "hamstrings"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Lever squats tend to get heavier toward lockout; free-weight depends on leverage. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 6,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 6,
+   "adjustment": 6,
+   "beginner": 6,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-squat-rack.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-squat-rack"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-squat-rack"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-shoulder-press",
+  "brandSlug": "icarian",
+  "name": "Shoulder Press",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "shoulder-press",
+  "primaryMuscles": [
+   "front-delts",
+   "side-delts"
+  ],
+  "secondaryMuscles": [
+   "triceps",
+   "upper-chest"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Overhead press: peak load just above shoulder height. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 6,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-shoulder-press.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-shoulder-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-shoulder-press"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-super-bench-multi-adjustable-bench",
+  "brandSlug": "icarian",
+  "name": "Super Bench Multi Adjustable Bench",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "bench-rack",
+  "movement": "multi",
+  "primaryMuscles": [
+   "chest",
+   "lats",
+   "quads"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps",
+   "biceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 8,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 7,
+   "startingResistanceKg": 20,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-super-bench-multi-adjustable-bench.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/used-precor-icarian-super-bench-multi-adjustable-bench"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/used-precor-icarian-super-bench-multi-adjustable-bench"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-vertical-chest-press",
+  "brandSlug": "icarian",
+  "name": "Vertical Chest Press",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "chest-press",
+  "primaryMuscles": [
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Typical press profile: hardest mid-range, easing toward lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-vertical-chest-press.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/refurbished-precor-icarian-vertical-chest-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/refurbished-precor-icarian-vertical-chest-press"
+   }
+  ]
+ },
+ {
+  "slug": "icarian-icarian-incline-press",
+  "brandSlug": "icarian",
+  "name": "Incline Press",
+  "series": "Icarian",
+  "aliases": [],
+  "loading": "selectorized",
+  "movement": "incline-press",
+  "primaryMuscles": [
+   "upper-chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "triceps"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "bell",
+   "curve": [
+    60,
+    70,
+    80,
+    89,
+    96,
+    100,
+    97,
+    90,
+    81,
+    71,
+    62
+   ],
+   "notes": "Incline press: mid-range peak with front delts working harder near lockout. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 7,
+   "rom": 7,
+   "ergonomics": 7,
+   "build": 7
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 7,
+   "beginner": 8,
+   "startingResistanceKg": 5,
+   "transferFriendly": false
+  },
+  "specs": {},
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/icarian/icarian-icarian-incline-press.webp",
+    "credit": "Global Fitness (dealer listing)",
+    "sourceUrl": "https://www.globalfitness.com/products/refurbished-precor-icarian-incline-press"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Global Fitness (dealer listing)",
+    "url": "https://www.globalfitness.com/products/refurbished-precor-icarian-incline-press"
    }
   ]
  }
