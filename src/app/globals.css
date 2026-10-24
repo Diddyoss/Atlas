@@ -1,0 +1,213 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #0a0a0a;
+  --ink-2: #111111;
+  --ink-3: #1a1a1a;
+  --line: #2a2a2a;
+  --line-2: #3a3a3a;
+  --mute: #8a8a8a;
+  --bone: #e9e7e2;
+  --paper: #f5f4f0;
+  --signal: #ffffff;
+  --hazard: #f2c94c;
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-line-2: var(--line-2);
+  --color-mute: var(--mute);
+  --color-bone: var(--bone);
+  --color-paper: var(--paper);
+  --color-hazard: var(--hazard);
+  --font-sans: var(--font-archivo);
+  --font-mono: var(--font-mono);
+}
+
+html {
+  background: var(--ink);
+  color-scheme: dark;
+}
+
+body {
+  background: var(--ink);
+  color: var(--bone);
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+/* Expanded industrial display type */
+.display {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-stretch: 125%;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  line-height: 0.9;
+}
+
+.label {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--mute);
+}
+
+/* Blueprint grid behind sections */
+.grid-bg {
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* Diagonal hazard stripe */
+.hazard {
+  background: repeating-linear-gradient(-45deg, var(--paper) 0 10px, var(--ink) 10px 20px);
+}
+
+/* Riveted panel */
+.panel {
+  position: relative;
+  background: var(--ink-2);
+  border: 1px solid var(--line);
+}
+.panel::before,
+.panel::after {
+  content: "";
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 999px;
+  background: var(--line-2);
+  top: 8px;
+}
+.panel::before { left: 8px; }
+.panel::after { right: 8px; }
+
+/* ── Animations ─────────────────────────────────────────────── */
+
+@keyframes page-in {
+  from { opacity: 0; transform: translateY(14px); filter: blur(4px); }
+  to { opacity: 1; transform: none; filter: none; }
+}
+.page-in { animation: page-in 0.55s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: none; }
+}
+.rise { animation: rise 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+
+@keyframes marquee {
+  to { transform: translateX(-50%); }
+}
+.marquee { animation: marquee 38s linear infinite; }
+
+@keyframes scan {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100vh); }
+}
+.scanline {
+  pointer-events: none;
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 120px;
+  background: linear-gradient(to bottom, transparent, rgb(255 255 255 / 0.025), transparent);
+  animation: scan 7s linear infinite;
+  z-index: 60;
+}
+
+@keyframes draw {
+  to { stroke-dashoffset: 0; }
+}
+.draw {
+  stroke-dasharray: var(--len, 1200);
+  stroke-dashoffset: var(--len, 1200);
+  animation: draw 1.4s cubic-bezier(0.6, 0, 0.2, 1) forwards;
+}
+
+@keyframes plate-spin {
+  to { transform: rotate(360deg); }
+}
+.plate-spin { animation: plate-spin 18s linear infinite; transform-origin: center; transform-box: fill-box; }
+
+@keyframes stack-pump {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-14px); }
+}
+.stack-pump { animation: stack-pump 2.6s cubic-bezier(0.5, 0, 0.5, 1) infinite; }
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+.blink { animation: blink 1.1s steps(1) infinite; }
+
+@keyframes pop {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.25); }
+  100% { transform: scale(1); }
+}
+.pop { animation: pop 0.35s ease-out; }
+
+@keyframes tray-in {
+  from { transform: translateY(110%); }
+  to { transform: none; }
+}
+.tray-in { animation: tray-in 0.45s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s ease, transform 0.7s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.reveal.in { opacity: 1; transform: none; }
+
+/* Machine card hover: lift + light sweep */
+.card {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.35s cubic-bezier(0.2, 0.7, 0.2, 1), border-color 0.35s;
+}
+.card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(105deg, transparent 40%, rgb(255 255 255 / 0.08) 50%, transparent 60%);
+  transform: translateX(-120%);
+  transition: transform 0.8s ease;
+  pointer-events: none;
+}
+.card:hover { transform: translateY(-4px); border-color: var(--bone); }
+.card:hover::after { transform: translateX(120%); }
+
+.muscle {
+  transition: fill 0.25s, opacity 0.25s;
+  cursor: pointer;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .reveal { opacity: 1; transform: none; }
+}
+
+/* Machine art: idle until hovered or marked live */
+.art .plate-spin,
+.art .stack-pump { animation-play-state: paused; }
+.card:hover .art .plate-spin,
+.card:hover .art .stack-pump,
+.art.live .plate-spin,
+.art.live .stack-pump { animation-play-state: running; }
