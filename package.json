@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "vitest run",
+    "typecheck": "next typegen && tsc --noEmit",
+    "scrape:images": "node scripts/scrape-images.mjs"
   },
   "dependencies": {
     "next": "16.4.3",

@@ -110,8 +110,11 @@ export function applyFilters(machines: Machine[], f: Filters): Machine[] {
     const s = scoreQuery(m, f.q);
     if (s === 0) continue;
     // Primary-muscle hits outrank secondary ones when filtering by muscle.
-    const muscleBoost = f.muscles.filter((x) => m.primary.includes(x)).length;
-    scored.push({ m, s: s + muscleBoost * 2 });
+    // A machine whose main target is the muscle (hip thrust for glutes) beats a compound lift.
+    const mainTarget = f.muscles.includes(m.primary[0]);
+    const muscleBoost =
+      f.muscles.filter((x) => m.primary.includes(x)).length * 2 + (mainTarget ? 1 : 0) + (mainTarget && m.primary.length === 1 ? 1 : 0);
+    scored.push({ m, s: s + muscleBoost });
   }
   const by: Record<SortKey, (a: { m: Machine; s: number }, b: { m: Machine; s: number }) => number> = {
     relevance: (a, b) => b.s - a.s || a.m.name.localeCompare(b.m.name),

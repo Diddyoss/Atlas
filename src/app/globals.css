@@ -29,6 +29,7 @@
 
 html {
   background: var(--ink);
+  overflow-x: clip;
   color-scheme: dark;
 }
 

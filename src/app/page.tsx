@@ -106,7 +106,7 @@ export default function Home() {
         <Reveal className="grid items-center gap-12 md:grid-cols-2">
           <div>
             <p className="label">Search by function</p>
-            <h2 className="display mt-3 text-5xl text-paper">Pick a muscle.</h2>
+            <h2 className="display mt-3 text-4xl sm:text-5xl text-paper">Pick a muscle.</h2>
             <p className="mt-4 max-w-md text-mute">
               Tap any muscle to see every machine that trains it, ranked with primary movers first. Combine it with brand and
               loading filters in the catalogue.
@@ -126,7 +126,7 @@ export default function Home() {
             <div className="flex flex-wrap items-end justify-between gap-4">
               <div>
                 <p className="label">Resistance profiles</p>
-                <h2 className="display mt-3 text-5xl text-paper">Same lift. Different curve.</h2>
+                <h2 className="display mt-3 text-4xl sm:text-5xl text-paper">Same lift. Different curve.</h2>
               </div>
               <Link href={`/compare?ids=${SHOOTOUTS[0].ids.join(",")}`} className="font-mono text-xs uppercase tracking-wider text-mute hover:text-paper">
                 Full comparison →
@@ -143,7 +143,7 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-4 py-20">
         <Reveal>
           <p className="label">Benchmarks</p>
-          <h2 className="display mt-3 text-5xl text-paper">Floor legends.</h2>
+          <h2 className="display mt-3 text-4xl sm:text-5xl text-paper">Floor legends.</h2>
         </Reveal>
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {featured.map((m, i) => (
@@ -156,7 +156,7 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-4">
         <Reveal>
           <p className="label">Head to head</p>
-          <h2 className="display mt-3 text-5xl text-paper">Shootouts.</h2>
+          <h2 className="display mt-3 text-4xl sm:text-5xl text-paper">Shootouts.</h2>
         </Reveal>
         <div className="mt-8 grid gap-4 md:grid-cols-3">
           {SHOOTOUTS.map((s, i) => (
@@ -183,7 +183,7 @@ export default function Home() {
             <div className="grid gap-6 p-8 md:grid-cols-[2fr_1fr] md:items-end">
               <div>
                 <p className="label">The vault</p>
-                <h2 className="display mt-3 text-5xl text-paper">Vintage iron.</h2>
+                <h2 className="display mt-3 text-4xl sm:text-5xl text-paper">Vintage iron.</h2>
                 <p className="mt-4 max-w-xl text-mute">
                   Arthur Jones&apos; Nautilus cams, MedX precision, Cybex Eagle, Flex and Icarian. Discontinued machines still
                   worth tracking down, kept separate from the main catalogue.

@@ -1,6 +1,9 @@
 import { deriveRatings, deriveSpecs } from "@/lib/derive";
 import type { CurveShape, LoadType, Machine, Movement, Muscle, Ratings, Specs } from "@/lib/types";
 import { getBrand } from "./brands";
+import IMAGES from "./images.json";
+
+const images: Record<string, { image: string; credit: string }> = IMAGES;
 
 interface Opts {
   line?: string;
@@ -51,6 +54,8 @@ function def(
     specs: deriveSpecs(id, movement, load, o.s),
     priceTier: o.price ?? (load === "plate-loaded" ? 3 : 2),
     sourceUrl: o.url ?? b.url,
+    image: images[id]?.image,
+    imageCredit: images[id]?.credit,
   };
 }
 
