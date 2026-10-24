@@ -173,6 +173,14 @@
     "signature": "Plate-loaded and combi machines"
   },
   {
+    "slug": "xmaster",
+    "name": "XMaster Fitness",
+    "country": "Not stated",
+    "status": "active",
+    "blurb": "Free-weight brand sold mainly through online marketplaces, known for chrome Olympic grip plates and steel-core urethane grip plates. Few official specs are published, so prices here are estimates.",
+    "signature": "Chrome and urethane grip plates"
+  },
+  {
     "slug": "flex-fitness",
     "name": "Flex Fitness",
     "country": "USA",

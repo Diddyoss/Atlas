@@ -81,9 +81,22 @@ const BRAND_TIER: Record<string, number> = {
 const HEAVY = new Set<Equipment["movement"]>(["leg-press", "hack-squat", "pendulum-squat", "squat"]);
 const SMALL = new Set<Equipment["movement"]>(["calf", "biceps", "triceps", "lateral-raise", "core", "abduction", "rear-delt"]);
 
+/** Free weights are priced by mass: typical new USD per kg, and a default set mass when unknown */
+const FREE_WEIGHT_USD_PER_KG: Partial<Record<Equipment["movement"], { perKg: number; defaultKg: number }>> = {
+  dumbbells: { perKg: 7, defaultKg: 500 },
+  "fixed-barbells": { perKg: 6, defaultKg: 300 },
+  plates: { perKg: 4, defaultKg: 450 },
+};
+
+/** Sea freight for free weights is charged on weight (SGD per kg) */
+const FREIGHT_PER_KG: Record<Region, number> = { "north-america": 1.6, europe: 1.3, "east-asia": 0.6 };
+
 /** Typical new price in USD for this kind of machine from an average commercial brand */
-export function typicalNewUsd(item: Pick<Equipment, "movement" | "loading" | "name">): number {
+export function typicalNewUsd(item: Pick<Equipment, "movement" | "loading" | "name" | "specs">): number {
   const n = item.name.toLowerCase();
+  if (item.movement === "barbell") return 450;
+  const fw = FREE_WEIGHT_USD_PER_KG[item.movement];
+  if (fw) return fw.perKg * (item.specs.weightKg ?? fw.defaultKg);
   if (item.loading === "bench-rack") {
     if (/smith/.test(n)) return 4200;
     if (/rack|cage|rig/.test(n)) return 2600;
@@ -119,7 +132,7 @@ export type PriceBreakdown = {
 const round10 = (n: number) => Math.round(n / 10) * 10;
 
 export function priceInSgd(
-  item: Pick<Equipment, "brandSlug" | "movement" | "loading" | "name" | "listPrice" | "discontinued">,
+  item: Pick<Equipment, "brandSlug" | "movement" | "loading" | "name" | "listPrice" | "discontinued" | "specs">,
   vintage: boolean,
 ): PriceBreakdown {
   const region = ORIGIN[item.brandSlug] ?? "north-america";
@@ -152,7 +165,11 @@ export function priceInSgd(
       : "No longer made: estimated used-market price for a serviced machine";
   }
   // Used machines bought from a US dealer ship from the US whatever the brand's origin
-  const freight = FREIGHT[isNew ? region : "north-america"][size];
+  const origin = isNew ? region : "north-america";
+  const freight =
+    item.loading === "free-weight"
+      ? Math.max(120, Math.round(FREIGHT_PER_KG[origin] * (item.specs.weightKg ?? FREE_WEIGHT_USD_PER_KG[item.movement]?.defaultKg ?? 20)))
+      : FREIGHT[origin][size];
   const margin = isNew ? machine * DISTRIBUTOR_MARGIN : 0;
   const premium = isNew ? machine * (IMPORT_PREMIUM[item.brandSlug] ?? 0) : 0;
   const gst = (machine + freight + margin + premium) * GST;

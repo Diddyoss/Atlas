@@ -8,6 +8,7 @@ import atlantis from "./atlantis";
 import nautilus from "./nautilus";
 import { arsenal, gym80, matrix, technogym, hoist, rogue, eleiko } from "./others";
 import { flex, cybex, medx, icarian, bodymasters, nebula, universal } from "./vintage";
+import xmaster from "./xmaster";
 
 export const curated = [
   ...hammer,
@@ -25,6 +26,7 @@ export const curated = [
   ...hoist,
   ...rogue,
   ...eleiko,
+  ...xmaster,
   ...flex,
   ...cybex,
   ...medx,

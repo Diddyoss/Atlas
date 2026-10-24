@@ -4,7 +4,7 @@ import { gradeFor, scoreGym, suggestAdditions } from "@/lib/gym-score";
 import { GST, priceInSgd } from "@/lib/pricing";
 import type { CatalogueItem, ListPrice } from "@/lib/types";
 
-const machine = { movement: "row" as const, loading: "plate" as const, name: "Row", discontinued: false };
+const machine = { movement: "row" as const, loading: "plate" as const, name: "Row", discontinued: false, specs: {} };
 const usd = (amount: number, condition: ListPrice["condition"] = "new"): ListPrice => ({
   amount,
   currency: "USD",
@@ -56,7 +56,8 @@ describe("Singapore pricing", () => {
 
   it("gives every catalogue machine a plausible price", () => {
     for (const i of getCatalogue()) {
-      expect(i.price.sgd).toBeGreaterThan(500);
+      // Single bars can be cheap; machines and sets sit far above this
+      expect(i.price.sgd).toBeGreaterThan(150);
       expect(i.price.sgd).toBeLessThan(90_000);
     }
   });

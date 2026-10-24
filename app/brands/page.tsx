@@ -29,7 +29,8 @@ export default function BrandsPage() {
                   <div className="relative transition-colors duration-500 group-hover:text-ink">
                     <div className="flex items-baseline justify-between">
                       <p className="label opacity-60">
-                        {b.country} · est. {b.founded}
+                        {b.country}
+                        {b.founded ? ` · est. ${b.founded}` : ""}
                       </p>
                       <p className="label opacity-60">{getItemsByBrand(b.slug).length} machines</p>
                     </div>

@@ -34,7 +34,14 @@ export const MOVEMENTS = [
   "lower-back",
   "core",
   "multi",
+  "dumbbells",
+  "fixed-barbells",
+  "barbell",
+  "plates",
 ] as const;
+
+/** Free-weight categories: sold as sets, priced by the set and shipped by weight */
+export const FREE_WEIGHT_MOVEMENTS = ["dumbbells", "fixed-barbells", "barbell", "plates"] as const;
 
 export const MOVEMENT_LABELS: Record<(typeof MOVEMENTS)[number], string> = {
   "chest-press": "Chest press",
@@ -60,6 +67,10 @@ export const MOVEMENT_LABELS: Record<(typeof MOVEMENTS)[number], string> = {
   "lower-back": "Lower back",
   core: "Core",
   multi: "Multi-station",
+  dumbbells: "Dumbbells",
+  "fixed-barbells": "Fixed barbells",
+  barbell: "Olympic bar",
+  plates: "Weight plates",
 };
 
 export const PROFILE_SHAPES = ["ascending", "descending", "bell", "flat", "adjustable"] as const;
@@ -93,7 +104,8 @@ export const BrandSchema = z.object({
   slug: z.string().regex(/^[a-z0-9-]+$/),
   name: z.string(),
   country: z.string(),
-  founded: z.number().int(),
+  /** Unknown for some smaller brands; left out rather than guessed */
+  founded: z.number().int().optional(),
   status: z.enum(["active", "defunct"]),
   defunctYear: z.number().int().optional(),
   note: z.string().optional(),
@@ -110,7 +122,8 @@ export const EquipmentSchema = z.object({
   aliases: z.array(z.string()),
   loading: z.enum(LOADING_TYPES),
   movement: z.enum(MOVEMENTS),
-  primaryMuscles: z.array(muscle).min(1),
+  // Plates train nothing on their own, so free-weight entries may list no muscles
+  primaryMuscles: z.array(muscle),
   secondaryMuscles: z.array(muscle),
   isoLateral: z.boolean(),
   discontinued: z.boolean(),

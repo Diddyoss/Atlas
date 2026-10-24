@@ -19,10 +19,11 @@ type Query = { q: string; title: RegExp };
 const GENERIC: Query = { q: "weight machine gym", title: /machine|gym/i };
 
 /** The title must also name gym equipment… */
-const EQUIPMENT = /machine|rack|bench|gym|station|crossover|cable|press|leg ?curl|leg ?extension|pulldown|pull down/i;
-/** …and not be museum objects, clothing or free-weight exercise photos */
-const NOISE =
-  /\bMET\b|lekythos|vase|museum|\(AM |sweater|knit|dumbbell|kettlebell|burpee|barbell exercise|logo|svg|sewing|paring|apple|cider|singer|flymarket/i;
+const EQUIPMENT = /machine|rack|bench|gym|station|crossover|cable|press|leg ?curl|leg ?extension|pulldown|pull down|plate|dumbbell|barbell|bumper/i;
+/** …and not be museum objects or clothing… */
+const NOISE = /\bMET\b|lekythos|vase|museum|\(AM |sweater|knit|kettlebell|burpee|logo|svg|sewing|paring|apple|cider|singer|flymarket|license plate|dinner|food/i;
+/** …and, for machines, not a free-weight exercise photo */
+const FREE_WEIGHT_PHOTO = /dumbbell|barbell exercise/i;
 
 /** Racks and rack-like stations look nothing like their movement's machine, so pick by name first */
 const BY_NAME: [RegExp, Query][] = [[/rack|breaker|cage/i, { q: "power rack", title: /power ?rack|squat ?rack/i }]];
@@ -53,7 +54,13 @@ const QUERIES: Partial<Record<Movement, Query[]>> = {
   pullover: [{ q: "pullover machine", title: /pullover/i }, { q: "lat pulldown machine", title: /pull ?down/i }],
   "lower-back": [{ q: "back extension bench", title: /back ?extension|hyperextension|roman/i }],
   multi: [{ q: "cable crossover machine", title: /cable|crossover/i }, { q: "power rack", title: /power ?rack|squat ?rack/i }],
+  plates: [{ q: "olympic weight plates", title: /plate/i }, { q: "bumper plates", title: /bumper|plate/i }],
+  dumbbells: [{ q: "dumbbell rack gym", title: /dumbbell/i }],
+  "fixed-barbells": [{ q: "fixed barbell rack", title: /barbell/i }],
+  barbell: [{ q: "olympic barbell", title: /barbell|bar/i }],
 };
+
+const FREE_WEIGHTS = new Set<Movement>(["plates", "dumbbells", "fixed-barbells", "barbell"]);
 
 type Candidate = { url: string; page: string; artist: string; license: string };
 
@@ -71,8 +78,8 @@ type CommonsPage = {
 
 const cache = new Map<string, Candidate[]>();
 
-async function search(query: Query): Promise<Candidate[]> {
-  const key = `${query.q}|${query.title}`;
+async function search(query: Query, freeWeight: boolean): Promise<Candidate[]> {
+  const key = `${query.q}|${query.title}|${freeWeight}`;
   if (cache.has(key)) return cache.get(key)!;
   const api = new URL("https://commons.wikimedia.org/w/api.php");
   api.search = new URLSearchParams({
@@ -94,6 +101,7 @@ async function search(query: Query): Promise<Candidate[]> {
         query.title.test(p.title) &&
         EQUIPMENT.test(p.title) &&
         !NOISE.test(p.title) &&
+        (freeWeight || !FREE_WEIGHT_PHOTO.test(p.title)) &&
         /\.(jpe?g|png|webp)$/i.test(p.title),
     )
     .flatMap((p) => {
@@ -119,7 +127,7 @@ async function main() {
     let pick: Candidate | undefined;
     const byName = BY_NAME.filter(([re]) => re.test(item.name)).map(([, q]) => q);
     for (const q of [...byName, ...(QUERIES[item.movement] ?? []), GENERIC]) {
-      const candidates = await search(q);
+      const candidates = await search(q, FREE_WEIGHTS.has(item.movement));
       if (!candidates.length) continue;
       // Rotate through results so machines of one type don't all share a photo
       const n = used.get(q.q) ?? 0;

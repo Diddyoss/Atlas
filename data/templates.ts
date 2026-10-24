@@ -195,6 +195,38 @@ export const MOVEMENT_TEMPLATES: Record<Movement, Template> = {
     feel: [7, 7, 6, 7, 7, 7],
     access: [9, 8, 9],
   },
+  dumbbells: {
+    primary: ["chest", "front-delts", "side-delts", "biceps", "triceps"],
+    secondary: ["upper-back", "lats", "rear-delts", "quads", "glutes", "hamstrings", "forearms", "abs"],
+    curve: { default: CURVES.flat },
+    notes: "Gravity gives a constant load; the effective curve depends on the exercise and body angle.",
+    feel: [8, 6, 8, 10, 8, 8],
+    access: [9, 9, 8],
+  },
+  "fixed-barbells": {
+    primary: ["biceps", "triceps", "chest"],
+    secondary: ["front-delts", "upper-back", "forearms"],
+    curve: { default: CURVES.flat },
+    notes: "Gravity gives a constant load; the effective curve depends on the exercise.",
+    feel: [8, 7, 7, 9, 8, 8],
+    access: [9, 9, 8],
+  },
+  barbell: {
+    primary: ["quads", "glutes", "hamstrings", "chest", "upper-back"],
+    secondary: ["lower-back", "front-delts", "triceps", "traps", "lats"],
+    curve: { default: CURVES.flat },
+    notes: "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack.",
+    feel: [8, 6, 8, 10, 8, 8],
+    access: [7, 8, 5],
+  },
+  plates: {
+    primary: [],
+    secondary: [],
+    curve: { default: CURVES.flat },
+    notes: "Plates load barbells and plate-loaded machines; they don't train anything on their own.",
+    feel: [7, 8, 5, 5, 7, 8],
+    access: [8, 8, 8],
+  },
   multi: {
     primary: ["chest", "lats", "quads"],
     secondary: ["front-delts", "triceps", "biceps"],
@@ -235,6 +267,8 @@ export type DiscoveredMachine = {
   image?: { src: string; credit: string; sourceUrl: string };
   source: { label: string; url: string };
   listPrice?: Equipment["listPrice"];
+  /** Total mass of a free-weight set, used for freight */
+  weightKg?: number;
 };
 
 export function estimateEquipment(d: DiscoveredMachine): Equipment {
@@ -268,14 +302,16 @@ export function estimateEquipment(d: DiscoveredMachine): Equipment {
       entry: t.access[0],
       adjustment: t.access[1],
       beginner: t.access[2],
-      startingResistanceKg: d.loading === "plate" ? 15 : d.loading === "bench-rack" ? 20 : 5,
+      startingResistanceKg: d.loading === "plate" ? 15 : d.loading === "bench-rack" ? 20 : d.loading === "free-weight" ? 1 : 5,
       transferFriendly: false,
     },
-    specs: {},
+    specs: d.weightKg ? { weightKg: Math.round(d.weightKg) } : {},
     pros: [],
     cons: [],
     editorialNote:
-      "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
+      d.loading === "free-weight"
+        ? "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand."
+        : "Listed from the manufacturer's or a dealer's catalogue. Its profile and scores are estimated from the movement type and brand until reviewed.",
     editorialFavorite: false,
     images: d.image ? [d.image] : [],
     sources: [d.source],

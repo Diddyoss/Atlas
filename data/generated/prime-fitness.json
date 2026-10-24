@@ -4151,5 +4151,1024 @@
    "source": "Prime Fitness (official store)",
    "url": "https://www.primefitnessusa.com/products/bench"
   }
+ },
+ {
+  "slug": "prime-intek-7-olympic-needle-bearing-bar",
+  "brandSlug": "prime-fitness",
+  "name": "7\" Olympic Needle Bearing Bar",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 9,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-7-olympic-needle-bearing-bar.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-olympic-needle-bearing-bar"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-olympic-needle-bearing-bar"
+   }
+  ],
+  "listPrice": {
+   "amount": 699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-olympic-needle-bearing-bar"
+  }
+ },
+ {
+  "slug": "prime-intek-champion-series-rubber-olympic-plates-basic-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Champion Series · Rubber Olympic Plates · Basic Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 111
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-champion-series-rubber-olympic-plates-basic-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-champion-series-rubber-olympic-plates-complete-bundle-copy"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-champion-series-rubber-olympic-plates-complete-bundle-copy"
+   }
+  ],
+  "listPrice": {
+   "amount": 644,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-champion-series-rubber-olympic-plates-complete-bundle-copy"
+  }
+ },
+ {
+  "slug": "prime-intek-champion-series-rubber-olympic-plates-complete-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Champion Series · Rubber Olympic Plates · Complete Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 222
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-champion-series-rubber-olympic-plates-complete-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-champion-series-rubber-olympic-plates-complete-bundle"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-champion-series-rubber-olympic-plates-complete-bundle"
+   }
+  ],
+  "listPrice": {
+   "amount": 920,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-champion-series-rubber-olympic-plates-complete-bundle"
+  }
+ },
+ {
+  "slug": "prime-intek-armor-series-basic-bumper-bundle-black",
+  "brandSlug": "prime-fitness",
+  "name": "Armor Series · Basic Bumper Bundle · Black",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 111
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-armor-series-basic-bumper-bundle-black.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-armor-series-basic-bumper-bundle-black"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-armor-series-basic-bumper-bundle-black"
+   }
+  ],
+  "listPrice": {
+   "amount": 1314,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-armor-series-basic-bumper-bundle-black"
+  }
+ },
+ {
+  "slug": "prime-intek-armor-series-complete-bumper-bundle-black",
+  "brandSlug": "prime-fitness",
+  "name": "Armor Series · Complete Bumper Bundle · Black",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 222
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-armor-series-complete-bumper-bundle-black.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-armor-series-complete-bumper-bundle-black"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-bumper-bundle-black"
+   }
+  ],
+  "listPrice": {
+   "amount": 2590,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-bumper-bundle-black"
+  }
+ },
+ {
+  "slug": "prime-intek-armor-series-55-100-lb-dumbbell-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Armor Series · 55-100 lb Dumbbell Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 9,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 703
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-armor-series-55-100-lb-dumbbell-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-armor-series-complete-dumbbell-bundle-copy"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-dumbbell-bundle-copy"
+   }
+  ],
+  "listPrice": {
+   "amount": 8932,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-dumbbell-bundle-copy"
+  }
+ },
+ {
+  "slug": "prime-intek-armor-series-5-50-lb-dumbbell-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Armor Series · 5-50 lb Dumbbell Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 9,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 249
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-armor-series-5-50-lb-dumbbell-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-armor-series-5-50-lb-dumbbell-bundle"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-armor-series-5-50-lb-dumbbell-bundle"
+   }
+  ],
+  "listPrice": {
+   "amount": 5170,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-armor-series-5-50-lb-dumbbell-bundle"
+  }
+ },
+ {
+  "slug": "prime-intek-armor-series-complete-dumbbell-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Armor Series · Complete Dumbbell Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 9,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 953
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-armor-series-complete-dumbbell-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-armor-series-complete-dumbbell-bundle"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-dumbbell-bundle"
+   }
+  ],
+  "listPrice": {
+   "amount": 14102,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-dumbbell-bundle"
+  }
+ },
+ {
+  "slug": "prime-intek-armor-series-basic-bumper-bundle-color",
+  "brandSlug": "prime-fitness",
+  "name": "Armor Series · Basic Bumper Bundle · Color",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 111
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-armor-series-basic-bumper-bundle-color.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-armor-series-basic-bumper-bundle-color"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-armor-series-basic-bumper-bundle-color"
+   }
+  ],
+  "listPrice": {
+   "amount": 1314,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-armor-series-basic-bumper-bundle-color"
+  }
+ },
+ {
+  "slug": "prime-intek-armor-series-complete-bumper-bundle-color",
+  "brandSlug": "prime-fitness",
+  "name": "Armor Series · Complete Bumper Bundle · Color",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 222
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-armor-series-complete-bumper-bundle-color.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-armor-series-complete-bumper-bundle-color"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-bumper-bundle-color"
+   }
+  ],
+  "listPrice": {
+   "amount": 2590,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-armor-series-complete-bumper-bundle-color"
+  }
+ },
+ {
+  "slug": "prime-intek-bravo-series-rubber-bumper-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Bravo Series · Rubber Bumper Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 111
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-bravo-series-rubber-bumper-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-bravo-series-rubber-bumper-bundle"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-bravo-series-rubber-bumper-bundle"
+   }
+  ],
+  "listPrice": {
+   "amount": 1174,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-bravo-series-rubber-bumper-bundle"
+  }
+ },
+ {
+  "slug": "prime-intek-steel-olympic-plates-basic-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Steel Olympic Plates · Basic Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 111
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-steel-olympic-plates-basic-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-steel-olympic-plates-basic-bundle"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-steel-olympic-plates-basic-bundle"
+   }
+  ],
+  "listPrice": {
+   "amount": 604,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-steel-olympic-plates-basic-bundle"
+  }
+ },
+ {
+  "slug": "prime-intek-steel-olympic-plates-complete-bundle",
+  "brandSlug": "prime-fitness",
+  "name": "Steel Olympic Plates · Complete Bundle",
+  "series": "Intek",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 222
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/prime-fitness/prime-intek-steel-olympic-plates-complete-bundle.webp",
+    "credit": "Prime Fitness (Intek Strength)",
+    "sourceUrl": "https://www.primefitnessusa.com/products/intek-steel-olympic-plates-complete-bundle"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Prime Fitness (Intek Strength)",
+    "url": "https://www.primefitnessusa.com/products/intek-steel-olympic-plates-complete-bundle"
+   }
+  ],
+  "listPrice": {
+   "amount": 859,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (Intek Strength)",
+   "url": "https://www.primefitnessusa.com/products/intek-steel-olympic-plates-complete-bundle"
+  }
  }
 ]

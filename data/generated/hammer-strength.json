@@ -4682,5 +4682,3937 @@
     "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/hammer-strength-mts-kneeling-leg-curl"
    }
   ]
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-rubber-fixed-barbells-straight-20-110-lb-s",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Rubber Fixed Barbells · Straight / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-rubber-fixed-barbells-straight-20-110-lb-s.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 3518,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-rubber-fixed-barbells-ez-curl-20-110-lb-se",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Rubber Fixed Barbells · EZ Curl / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-rubber-fixed-barbells-ez-curl-20-110-lb-se.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 3526,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-rubber-dumbbells-5-50-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Rubber Dumbbells · 5–50 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 249
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-rubber-dumbbells-5-50-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells-hospitality"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells-hospitality"
+   }
+  ],
+  "listPrice": {
+   "amount": 3544,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells-hospitality"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-rubber-dumbbells-55-75-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Rubber Dumbbells · 55–75 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-rubber-dumbbells-55-75-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells-hospitality"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells-hospitality"
+   }
+  ],
+  "listPrice": {
+   "amount": 3213,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells-hospitality"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-rubber-dumbbells-80-100-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Rubber Dumbbells · 80–100 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 408
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-rubber-dumbbells-80-100-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 4272,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-rubber-dumbbells-7-5-27-5-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Rubber Dumbbells · 7.5–27.5 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 143
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-rubber-dumbbells-7-5-27-5-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 1386,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-rubber-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-dumbbells-5-50-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Dumbbells · 5–50 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 249
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-dumbbells-5-50-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells-hospitality"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells-hospitality"
+   }
+  ],
+  "listPrice": {
+   "amount": 5256,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells-hospitality"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-dumbbells-55-75-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Dumbbells · 55–75 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-dumbbells-55-75-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells-hospitality"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells-hospitality"
+   }
+  ],
+  "listPrice": {
+   "amount": 5144,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells-hospitality"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-urethane-black-bumpers-770-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Urethane Black Bumpers · 770 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 349
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-urethane-black-bumpers-770-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-black-bumpers"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-black-bumpers"
+   }
+  ],
+  "listPrice": {
+   "amount": 9902,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-black-bumpers"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-fixed-barbells-straight-20-110-lb",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Fixed Barbells · Straight / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-fixed-barbells-straight-20-110-lb.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 6084,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-fixed-barbells-ez-curl-20-110-lb",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Fixed Barbells · EZ Curl / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-fixed-barbells-ez-curl-20-110-lb.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 6084,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-dumbbells-80-100-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Dumbbells · 80–100 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 408
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-dumbbells-80-100-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 6262,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-dumbbells-105-125-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Dumbbells · 105–125 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 522
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-dumbbells-105-125-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 7716,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-dumbbells-130-150-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Dumbbells · 130–150 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 635
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-dumbbells-130-150-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 9282,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-4-sided-urethane-dumbbells-7-5-27-5-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "4-Sided Urethane Dumbbells · 7.5–27.5 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 143
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-4-sided-urethane-dumbbells-7-5-27-5-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 2237,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-4-sided-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-12-sided-urethane-dumbbells-5-50-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "12-Sided Urethane Dumbbells · 5–50 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 249
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-12-sided-urethane-dumbbells-5-50-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 7484,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-12-sided-urethane-dumbbells-55-75-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "12-Sided Urethane Dumbbells · 55–75 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-12-sided-urethane-dumbbells-55-75-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 6370,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-12-sided-urethane-dumbbells-80-100-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "12-Sided Urethane Dumbbells · 80–100 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 408
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-12-sided-urethane-dumbbells-80-100-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 7848,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-12-sided-urethane-dumbbells-105-125-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "12-Sided Urethane Dumbbells · 105–125 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 522
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-12-sided-urethane-dumbbells-105-125-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 9386,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-side-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-round-rubber-olympic-plates-1020-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Round Rubber Olympic Plates · 1020 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 463
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-round-rubber-olympic-plates-1020-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-olympic-plates"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-olympic-plates"
+   }
+  ],
+  "listPrice": {
+   "amount": 4008,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-olympic-plates"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-urethane-12-sided-olympic-plates-1020-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Urethane 12-Sided Olympic Plates · 1020 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 463
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-urethane-12-sided-olympic-plates-1020-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-12-side-olympic-plates"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-12-side-olympic-plates"
+   }
+  ],
+  "listPrice": {
+   "amount": 6492,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-12-side-olympic-plates"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-round-urethane-olympic-plates-1020-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Round Urethane Olympic Plates · 1020 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 463
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-round-urethane-olympic-plates-1020-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-round-urethane-olympic-plates"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-urethane-olympic-plates"
+   }
+  ],
+  "listPrice": {
+   "amount": 6184,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-urethane-olympic-plates"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-olympic-weightlifting-bar-cerakote-red",
+  "brandSlug": "hammer-strength",
+  "name": "Olympic Weightlifting Bar - Cerakote · Red",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-olympic-weightlifting-bar-cerakote-red.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bars-cerakote"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bars-cerakote"
+   }
+  ],
+  "listPrice": {
+   "amount": 718,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bars-cerakote"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-olympic-weightlifting-bar-cerakote-concrete-grey",
+  "brandSlug": "hammer-strength",
+  "name": "Olympic Weightlifting Bar - Cerakote · Concrete Grey",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-olympic-weightlifting-bar-cerakote-concrete-grey.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bars-cerakote"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bars-cerakote"
+   }
+  ],
+  "listPrice": {
+   "amount": 718,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bars-cerakote"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-premium-rubber-black-bumpers-650-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Premium Rubber Black Bumpers · 650 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-premium-rubber-black-bumpers-650-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-premium-rubber-black-bumpers"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-premium-rubber-black-bumpers"
+   }
+  ],
+  "listPrice": {
+   "amount": 4368,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-premium-rubber-black-bumpers"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-curl-bars-ez-curl",
+  "brandSlug": "hammer-strength",
+  "name": "Curl Bars · EZ Curl",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-curl-bars-ez-curl.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-curl-bars"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-curl-bars"
+   }
+  ],
+  "listPrice": {
+   "amount": 527,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-curl-bars"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-curl-bars-straight",
+  "brandSlug": "hammer-strength",
+  "name": "Curl Bars · Straight",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-curl-bars-straight.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-curl-bars"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-curl-bars"
+   }
+  ],
+  "listPrice": {
+   "amount": 482,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-curl-bars"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-urethane-color-bumpers-770-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Urethane Color Bumpers · 770 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 349
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-urethane-color-bumpers-770-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-color-bumpers"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-color-bumpers"
+   }
+  ],
+  "listPrice": {
+   "amount": 9716,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-urethane-color-bumpers"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-premium-rubber-color-bumpers-650-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Premium Rubber Color Bumpers · 650 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-premium-rubber-color-bumpers-650-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-premium-rubber-color-bumpers"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-premium-rubber-color-bumpers"
+   }
+  ],
+  "listPrice": {
+   "amount": 4912,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-premium-rubber-color-bumpers"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-training-bars-25-mm-chrome-bushing-10-kg",
+  "brandSlug": "hammer-strength",
+  "name": "Training Bars · 25 mm Chrome Bushing, 10 kg",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 10
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-training-bars-25-mm-chrome-bushing-10-kg.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-training-bars"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-training-bars"
+   }
+  ],
+  "listPrice": {
+   "amount": 613,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-training-bars"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-training-bars-25-mm-aluminum-bushing-5-kg",
+  "brandSlug": "hammer-strength",
+  "name": "Training Bars · 25 mm Aluminum Bushing, 5 kg",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 5
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-training-bars-25-mm-aluminum-bushing-5-kg.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-training-bars"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-training-bars"
+   }
+  ],
+  "listPrice": {
+   "amount": 539,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-training-bars"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-standard-rubber-bumper-770-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Standard Rubber Bumper · 770 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 349
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-standard-rubber-bumper-770-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-standard-rubber-bumpers"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-standard-rubber-bumpers"
+   }
+  ],
+  "listPrice": {
+   "amount": 2858,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-standard-rubber-bumpers"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-power-bar-cerakote-desert-sand",
+  "brandSlug": "hammer-strength",
+  "name": "Power Bar - Cerakote · Desert Sand",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-power-bar-cerakote-desert-sand.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bars-cerakote"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bars-cerakote"
+   }
+  ],
+  "listPrice": {
+   "amount": 853,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bars-cerakote"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-power-bar-cerakote-navy-blue",
+  "brandSlug": "hammer-strength",
+  "name": "Power Bar - Cerakote · Navy Blue",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-power-bar-cerakote-navy-blue.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bars-cerakote"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bars-cerakote"
+   }
+  ],
+  "listPrice": {
+   "amount": 853,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bars-cerakote"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-olympic-weightlifting-bar-hard-chrome-20-kg-28-mm",
+  "brandSlug": "hammer-strength",
+  "name": "Olympic Weightlifting Bar - Hard Chrome · 20 kg, 28 mm / Bushing",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-olympic-weightlifting-bar-hard-chrome-20-kg-28-mm.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-hard-chrome"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-hard-chrome"
+   }
+  ],
+  "listPrice": {
+   "amount": 684,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-hard-chrome"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-olympic-weightlifting-bar-hard-chrome-20-kg-28-mm-2",
+  "brandSlug": "hammer-strength",
+  "name": "Olympic Weightlifting Bar - Hard Chrome · 20 kg, 28 mm / Bearing",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-olympic-weightlifting-bar-hard-chrome-20-kg-28-mm-2.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-hard-chrome"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-hard-chrome"
+   }
+  ],
+  "listPrice": {
+   "amount": 1286,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-hard-chrome"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-power-bar-hard-chrome",
+  "brandSlug": "hammer-strength",
+  "name": "Power Bar - Hard Chrome",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-power-bar-hard-chrome.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bar-hard-chrome"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bar-hard-chrome"
+   }
+  ],
+  "listPrice": {
+   "amount": 854,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-power-bar-hard-chrome"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-olympic-weightlifting-bar-stainless-steel-20-kg-28",
+  "brandSlug": "hammer-strength",
+  "name": "Olympic Weightlifting Bar - Stainless Steel · 20 kg, 28 mm / Bushing",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-olympic-weightlifting-bar-stainless-steel-20-kg-28.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-stainless-steel"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-stainless-steel"
+   }
+  ],
+  "listPrice": {
+   "amount": 1021,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-stainless-steel"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-olympic-weightlifting-bar-stainless-steel-20-kg-28-2",
+  "brandSlug": "hammer-strength",
+  "name": "Olympic Weightlifting Bar - Stainless Steel · 20 kg, 28 mm / Bearing",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-olympic-weightlifting-bar-stainless-steel-20-kg-28-2.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-stainless-steel"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-stainless-steel"
+   }
+  ],
+  "listPrice": {
+   "amount": 1851,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-olympic-weightlifting-bar-stainless-steel"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-gym-bar-bushing",
+  "brandSlug": "hammer-strength",
+  "name": "Gym Bar · Bushing",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-gym-bar-bushing.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-gym-bar"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-gym-bar"
+   }
+  ],
+  "listPrice": {
+   "amount": 840,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-gym-bar"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-gym-bar-mix-bearing",
+  "brandSlug": "hammer-strength",
+  "name": "Gym Bar · Mix Bearing",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-gym-bar-mix-bearing.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-gym-bar"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-gym-bar"
+   }
+  ],
+  "listPrice": {
+   "amount": 952,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-gym-bar"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-12-sided-urethane-fixed-barbells-straight-20-110-l",
+  "brandSlug": "hammer-strength",
+  "name": "12-Sided Urethane Fixed Barbells · Straight / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-12-sided-urethane-fixed-barbells-straight-20-110-l.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-12-sided-urethane-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-sided-urethane-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 8150,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-sided-urethane-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-12-sided-urethane-fixed-barbells-ez-curl-20-110-lb",
+  "brandSlug": "hammer-strength",
+  "name": "12-Sided Urethane Fixed Barbells · EZ Curl / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-12-sided-urethane-fixed-barbells-ez-curl-20-110-lb.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-12-sided-urethane-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-sided-urethane-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 8128,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-12-sided-urethane-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-round-urethane-fixed-barbells-straight-20-110-lb-s",
+  "brandSlug": "hammer-strength",
+  "name": "Round Urethane Fixed Barbells · Straight / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-round-urethane-fixed-barbells-straight-20-110-lb-s.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-round-urethane-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-urethane-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 4819,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-urethane-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-round-rubber-fixed-barbells-straight-20-110-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "Round Rubber Fixed Barbells · Straight / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-round-rubber-fixed-barbells-straight-20-110-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 3146,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-round-rubber-fixed-barbells-ez-curl-20-110-lb-set",
+  "brandSlug": "hammer-strength",
+  "name": "Round Rubber Fixed Barbells · EZ Curl / 20–110 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-round-rubber-fixed-barbells-ez-curl-20-110-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-fixed-barbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-fixed-barbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 3153,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-round-rubber-fixed-barbells"
+  }
+ },
+ {
+  "slug": "hammer-free-weights-recycled-rubber-bumpers-770-lb-kit",
+  "brandSlug": "hammer-strength",
+  "name": "Recycled Rubber Bumpers · 770 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 10
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 349
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/hammer-strength/hammer-free-weights-recycled-rubber-bumpers-770-lb-kit.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/hammer-strength-recycled-rubber-bumper"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/hammer-strength-recycled-rubber-bumper"
+   }
+  ],
+  "listPrice": {
+   "amount": 3026,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/hammer-strength-recycled-rubber-bumper"
+  }
  }
 ]

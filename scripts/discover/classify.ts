@@ -115,6 +115,11 @@ export function tidyName(raw: string) {
   const words = s.split(" ").map((w) => {
     if (/^(iso-lateral)$/i.test(w)) return "ISO-Lateral";
     if (/^(roc-it|vr1|vr2|vr3|mts|hlp)$/i.test(w)) return w.toUpperCase();
+    // Units and abbreviations, allowing trailing punctuation ("Kg,")
+    const bare = w.replace(/[,.;:]$/, "");
+    const tail = w.slice(bare.length);
+    if (/^(lb|lbs|kg|mm|cm)$/i.test(bare)) return bare.toLowerCase() + tail;
+    if (/^(ez|pu)$/i.test(bare)) return bare.toUpperCase() + tail;
     if (/^[/&|–-]$/.test(w)) return w;
     // Model codes keep capitals segment by segment ("9NN-B7503-60ARS"); words stay words ("45-Degree")
     return w

@@ -1,5 +1,5 @@
 import * as cheerio from "cheerio";
-import type { ListPrice, Loading } from "../../lib/types";
+import type { ListPrice, Loading, Movement } from "../../lib/types";
 import { extractProduct } from "../scrape/extract";
 import { DisallowedError, fetchJson, fetchText } from "../scrape/http";
 import { tidyName } from "./classify";
@@ -17,6 +17,10 @@ export type Raw = {
   /** Extra text (description/category) that helps classify the loading type */
   context?: string;
   price?: Omit<ListPrice, "source" | "url">;
+  /** Set by sources that already know the category (free weights skip the name classifier) */
+  movement?: Movement;
+  /** Total mass of a free-weight set */
+  weightKg?: number;
 };
 
 /** Prices this low are accessories or placeholders, not machines */
@@ -40,7 +44,7 @@ async function safe<T>(id: string, what: string, fn: () => Promise<T>): Promise<
 
 // ---------- Shopify stores ----------
 
-type ShopifyProduct = {
+export type ShopifyProduct = {
   title: string;
   handle: string;
   vendor: string;
@@ -48,7 +52,7 @@ type ShopifyProduct = {
   tags: string[];
   body_html?: string;
   images: { src: string }[];
-  variants?: { price: string }[];
+  variants?: { title: string; price: string }[];
 };
 
 function shopifyPrice(
@@ -61,7 +65,7 @@ function shopifyPrice(
   return amount >= MIN_MACHINE_PRICE && amount <= MAX_LISTING[currency] ? { amount, currency, taxIncluded, condition } : undefined;
 }
 
-async function shopifyAll(store: string, collection?: string): Promise<ShopifyProduct[]> {
+export async function shopifyAll(store: string, collection?: string): Promise<ShopifyProduct[]> {
   const base = collection ? `${store}/collections/${collection}` : store;
   const out: ShopifyProduct[] = [];
   for (let page = 1; page <= 40; page++) {

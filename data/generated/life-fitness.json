@@ -2883,5 +2883,625 @@
     "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/axiom-series-seated-leg-curl-extension"
    }
   ]
+ },
+ {
+  "slug": "lf-free-weights-pvolve-studio-dumbbells-rack-studio-urethane-dumbbell",
+  "brandSlug": "life-fitness",
+  "name": "Pvolve Studio Dumbbells & Rack · Studio Urethane Dumbbell Set 2.5–20 lb (black / Grey)",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 82
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-free-weights-pvolve-studio-dumbbells-rack-studio-urethane-dumbbell.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/pvolve-studio-dumbbell-set"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/pvolve-studio-dumbbell-set"
+   }
+  ],
+  "listPrice": {
+   "amount": 1094,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/pvolve-studio-dumbbell-set"
+  }
+ },
+ {
+  "slug": "lf-free-weights-studio-urethane-dumbbells-2-5-15-lb-set",
+  "brandSlug": "life-fitness",
+  "name": "Studio Urethane Dumbbells · 2.5–15 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 48
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-free-weights-studio-urethane-dumbbells-2-5-15-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/studio-urethane-dumbbells-hospitality"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/studio-urethane-dumbbells-hospitality"
+   }
+  ],
+  "listPrice": {
+   "amount": 332,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/studio-urethane-dumbbells-hospitality"
+  }
+ },
+ {
+  "slug": "lf-free-weights-rubber-hex-dumbbells-5-50-lb-set",
+  "brandSlug": "life-fitness",
+  "name": "Rubber Hex Dumbbells · 5–50 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 249
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-free-weights-rubber-hex-dumbbells-5-50-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells-hospitality"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells-hospitality"
+   }
+  ],
+  "listPrice": {
+   "amount": 1694,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells-hospitality"
+  }
+ },
+ {
+  "slug": "lf-free-weights-rubber-hex-dumbbells-55-75-lb-set",
+  "brandSlug": "life-fitness",
+  "name": "Rubber Hex Dumbbells · 55–75 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 295
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-free-weights-rubber-hex-dumbbells-55-75-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells-hospitality"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells-hospitality"
+   }
+  ],
+  "listPrice": {
+   "amount": 1721,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells-hospitality"
+  }
+ },
+ {
+  "slug": "lf-free-weights-rubber-hex-dumbbells-80-100-lb-set",
+  "brandSlug": "life-fitness",
+  "name": "Rubber Hex Dumbbells · 80–100 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 408
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-free-weights-rubber-hex-dumbbells-80-100-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 2700,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/rubber-hex-dumbbells"
+  }
+ },
+ {
+  "slug": "lf-free-weights-studio-urethane-dumbbells-2-5-20-lb-set",
+  "brandSlug": "life-fitness",
+  "name": "Studio Urethane Dumbbells · 2.5–20 lb Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 82
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-free-weights-studio-urethane-dumbbells-2-5-20-lb-set.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/studio-urethane-dumbbells"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/studio-urethane-dumbbells"
+   }
+  ],
+  "listPrice": {
+   "amount": 1094,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/studio-urethane-dumbbells"
+  }
+ },
+ {
+  "slug": "lf-free-weights-studio-barbell",
+  "brandSlug": "life-fitness",
+  "name": "Studio Barbell",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 8
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/life-fitness/lf-free-weights-studio-barbell.webp",
+    "credit": "Life Fitness facility store",
+    "sourceUrl": "https://facilityshop.lifefitness.com/products/studio-barbell"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Life Fitness facility store",
+    "url": "https://facilityshop.lifefitness.com/products/studio-barbell"
+   }
+  ],
+  "listPrice": {
+   "amount": 56,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Life Fitness facility store",
+   "url": "https://facilityshop.lifefitness.com/products/studio-barbell"
+  }
  }
 ]

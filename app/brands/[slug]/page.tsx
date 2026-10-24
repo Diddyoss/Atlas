@@ -33,7 +33,7 @@ async function BrandDetail({ params }: Pick<PageProps<"/brands/[slug]">, "params
     <div className={defunct ? "grain relative" : ""}>
       <div className="mx-auto max-w-7xl px-4 py-10 sm:px-8">
         <PageHeader
-          kicker={`${brand.country} · est. ${brand.founded}${defunct ? ` · ${brand.defunctYear ? `closed ${brand.defunctYear}` : "defunct"}` : ""}`}
+          kicker={`${brand.country}${brand.founded ? ` · est. ${brand.founded}` : ""}${defunct ? ` · ${brand.defunctYear ? `closed ${brand.defunctYear}` : "defunct"}` : ""}`}
           title={brand.name}
         >
           {brand.blurb}

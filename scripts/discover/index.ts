@@ -17,7 +17,10 @@ import { EquipmentSchema, type Brand, type Equipment, type Scraped } from "../..
 import { fetchBuffer } from "../scrape/http";
 import { classify, inferLoading, isIsoLateral, shortenName, slugify, tidyName } from "./classify";
 import { pruneImages } from "./prune";
-import { SOURCES, type Raw } from "./sources";
+import { facilityShop, gymlecoFreeWeights, intek } from "./freeweights";
+import { SOURCES as MACHINE_SOURCES, type Raw } from "./sources";
+
+const SOURCES = [...MACHINE_SOURCES, facilityShop, intek, gymlecoFreeWeights];
 
 const ROOT = path.resolve(import.meta.dirname, "../..");
 const GEN_DIR = path.join(ROOT, "data", "generated");
@@ -120,7 +123,7 @@ async function main() {
     raw.name = shortenName(tidyName(raw.name), brandNames, raw.series);
     if (raw.series) raw.series = shortenName(raw.series, brandNames) || raw.series;
     if (!raw.name) continue;
-    const movement = classify(raw.name) ?? (raw.series ? classify(`${raw.series} ${raw.name}`) : null);
+    const movement = raw.movement ?? classify(raw.name) ?? (raw.series ? classify(`${raw.series} ${raw.name}`) : null);
     if (!movement) {
       skipped++;
       continue;
@@ -157,6 +160,7 @@ async function main() {
       image: raw.image ? { src: raw.image, credit: raw.credit, sourceUrl: raw.url } : undefined,
       source: { label: raw.credit, url: raw.url },
       listPrice: listPriceOf(raw),
+      weightKg: raw.weightKg,
     });
   }
   // Second pass from the curated side: catalogue names often add words ("Plate Loaded Linear Leg Press"),

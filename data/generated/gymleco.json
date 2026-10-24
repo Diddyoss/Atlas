@@ -6803,7 +6803,7 @@
  {
   "slug": "gymleco-combi-cable-cross-adjustable-2-75-kg",
   "brandSlug": "gymleco",
-  "name": "Cable Cross, Adjustable 2×75 Kg",
+  "name": "Cable Cross, Adjustable 2×75 kg",
   "series": "Combi",
   "aliases": [],
   "loading": "cable",
@@ -9587,7 +9587,7 @@
  {
   "slug": "gymleco-combi-dual-adjustable-pulley-2-75-kg-home-gym",
   "brandSlug": "gymleco",
-  "name": "Dual Adjustable Pulley 2×75 Kg, Home Gym",
+  "name": "Dual Adjustable Pulley 2×75 kg, Home Gym",
   "series": "Combi",
   "aliases": [],
   "loading": "cable",
@@ -11587,6 +11587,1326 @@
    "condition": "new",
    "source": "Gymleco (official store)",
    "url": "https://gymleco.com/products/281-smith-machine-with-counterweight"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-heavy-set-rubber-dumbbells-2-5-50-kg-set",
+  "brandSlug": "gymleco",
+  "name": "Heavy Set - Rubber Dumbbells 2.5–50 kg (set)",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 1050
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-heavy-set-rubber-dumbbells-2-5-50-kg-set.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/heavy-set-rubber-dumbbells-2-5-50-kg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/heavy-set-rubber-dumbbells-2-5-50-kg"
+   }
+  ],
+  "listPrice": {
+   "amount": 34295,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/heavy-set-rubber-dumbbells-2-5-50-kg"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-light-set-rubber-dumbbells-2-5-25-kg-set",
+  "brandSlug": "gymleco",
+  "name": "Light Set - Rubber Dumbbells 2.5–25 kg (set)",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 275
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-light-set-rubber-dumbbells-2-5-25-kg-set.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/rubber-dumbbells-2-5-50-kg-copy"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/rubber-dumbbells-2-5-50-kg-copy"
+   }
+  ],
+  "listPrice": {
+   "amount": 19897,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/rubber-dumbbells-2-5-50-kg-copy"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-chrome-dumbbells-1-10-kg-set",
+  "brandSlug": "gymleco",
+  "name": "Chrome Dumbbells 1–10 kg (set)",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 110
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-chrome-dumbbells-1-10-kg-set.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/set-chrome-dumbbells-1-10-kg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/set-chrome-dumbbells-1-10-kg"
+   }
+  ],
+  "listPrice": {
+   "amount": 15695,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/set-chrome-dumbbells-1-10-kg"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-set-hex-dumbbells-1-10-kg-set",
+  "brandSlug": "gymleco",
+  "name": "Set Hex Dumbbells 1–10 kg (set)",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "dumbbells",
+  "primaryMuscles": [
+   "chest",
+   "front-delts",
+   "side-delts",
+   "biceps",
+   "triceps"
+  ],
+  "secondaryMuscles": [
+   "upper-back",
+   "lats",
+   "rear-delts",
+   "quads",
+   "glutes",
+   "hamstrings",
+   "forearms",
+   "abs"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise and body angle. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 110
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-set-hex-dumbbells-1-10-kg-set.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/set-hex-dumbbells-1-10-kg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/set-hex-dumbbells-1-10-kg"
+   }
+  ],
+  "listPrice": {
+   "amount": 6873,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/set-hex-dumbbells-1-10-kg"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-bumper-plates-set",
+  "brandSlug": "gymleco",
+  "name": "Bumper Plates (set)",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 150
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-bumper-plates-set.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/set-bumper-plates"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/set-bumper-plates"
+   }
+  ],
+  "listPrice": {
+   "amount": 7252,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/set-bumper-plates"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-410-olympic-barbell",
+  "brandSlug": "gymleco",
+  "name": "410 Olympic Barbell",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-410-olympic-barbell.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/410-olympic-barbell-only"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/410-olympic-barbell-only"
+   }
+  ],
+  "listPrice": {
+   "amount": 3173.75,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/410-olympic-barbell-only"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-fixed-chromed-curlbar-5-50-kg-set",
+  "brandSlug": "gymleco",
+  "name": "Fixed Chromed Curlbar · 5–50 kg Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 180
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-fixed-chromed-curlbar-5-50-kg-set.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/gymleco-fixed-chromed-curlbar"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/gymleco-fixed-chromed-curlbar"
+   }
+  ],
+  "listPrice": {
+   "amount": 10941,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/gymleco-fixed-chromed-curlbar"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-fixed-barbell-chromed-straight-5-50-kg-set",
+  "brandSlug": "gymleco",
+  "name": "Fixed Barbell Chromed, Straight · 5–50 kg Set",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 200
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-fixed-barbell-chromed-straight-5-50-kg-set.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/828-gymleco-fixed-barbell-chromed-straight"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/828-gymleco-fixed-barbell-chromed-straight"
+   }
+  ],
+  "listPrice": {
+   "amount": 12156,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/828-gymleco-fixed-barbell-chromed-straight"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-410-olympic-only-barbell",
+  "brandSlug": "gymleco",
+  "name": "410 Olympic Only Barbell",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-410-olympic-only-barbell.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/410-olympic-only-barbell"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/410-olympic-only-barbell"
+   }
+  ],
+  "listPrice": {
+   "amount": 3173.75,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/410-olympic-only-barbell"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-bumper-plates-683-lb-kit",
+  "brandSlug": "gymleco",
+  "name": "Bumper Plates · 683 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 310
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-bumper-plates-683-lb-kit.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/bumper-plates"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/bumper-plates"
+   }
+  ],
+  "listPrice": {
+   "amount": 23592,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/bumper-plates"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-colored-weight-plates-in-rubber-926-lb-kit",
+  "brandSlug": "gymleco",
+  "name": "Colored Weight Plates In Rubber · 926 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 420
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-colored-weight-plates-in-rubber-926-lb-kit.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/colored-weight-plates-in-rubber"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/colored-weight-plates-in-rubber"
+   }
+  ],
+  "listPrice": {
+   "amount": 67500,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/colored-weight-plates-in-rubber"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-black-weight-plates-in-rubber-926-lb-kit",
+  "brandSlug": "gymleco",
+  "name": "Black Weight Plates In Rubber · 926 lb Kit",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "plates",
+  "primaryMuscles": [],
+  "secondaryMuscles": [],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Plates load barbells and plate-loaded machines; they don't train anything on their own. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 7,
+   "stability": 8,
+   "stretch": 5,
+   "rom": 5,
+   "ergonomics": 7,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 8,
+   "adjustment": 8,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 420
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-black-weight-plates-in-rubber-926-lb-kit.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/black-weight-plates-in-rubber"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/black-weight-plates-in-rubber"
+   }
+  ],
+  "listPrice": {
+   "amount": 53384,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/black-weight-plates-in-rubber"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-814-bend-barbell-20-kg",
+  "brandSlug": "gymleco",
+  "name": "814 Bend Barbell 20 kg",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "barbell",
+  "primaryMuscles": [
+   "quads",
+   "glutes",
+   "hamstrings",
+   "chest",
+   "upper-back"
+  ],
+  "secondaryMuscles": [
+   "lower-back",
+   "front-delts",
+   "triceps",
+   "traps",
+   "lats"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Free barbell: constant load, with the curve set by leverage in each lift. Needs plates and a rack. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 10,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 7,
+   "adjustment": 8,
+   "beginner": 5,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 20
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-814-bend-barbell-20-kg.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/bend-barbell-20-kg"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/bend-barbell-20-kg"
+   }
+  ],
+  "listPrice": {
+   "amount": 5789,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/bend-barbell-20-kg"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-415s-s-shaped-super-curl-bar",
+  "brandSlug": "gymleco",
+  "name": "415S S-Shaped Super Curl Bar",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 10
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-415s-s-shaped-super-curl-bar.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/s-shaped-curl-bar"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/s-shaped-curl-bar"
+   }
+  ],
+  "listPrice": {
+   "amount": 1779,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/s-shaped-curl-bar"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-415q-supra-curl-bar",
+  "brandSlug": "gymleco",
+  "name": "415Q Supra Curl Bar",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 10
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-415q-supra-curl-bar.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/supra-curl-bar"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/supra-curl-bar"
+   }
+  ],
+  "listPrice": {
+   "amount": 2709,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/supra-curl-bar"
+  }
+ },
+ {
+  "slug": "gymleco-free-weights-415-curl-bar",
+  "brandSlug": "gymleco",
+  "name": "415 Curl Bar",
+  "series": "Free weights",
+  "aliases": [],
+  "loading": "free-weight",
+  "movement": "fixed-barbells",
+  "primaryMuscles": [
+   "biceps",
+   "triceps",
+   "chest"
+  ],
+  "secondaryMuscles": [
+   "front-delts",
+   "upper-back",
+   "forearms"
+  ],
+  "isoLateral": false,
+  "discontinued": false,
+  "estimated": true,
+  "resistanceProfile": {
+   "shape": "flat",
+   "curve": [
+    88,
+    90,
+    92,
+    93,
+    94,
+    95,
+    94,
+    93,
+    92,
+    90,
+    88
+   ],
+   "notes": "Gravity gives a constant load; the effective curve depends on the exercise. Estimated from the movement type."
+  },
+  "feel": {
+   "smoothness": 8,
+   "stability": 7,
+   "stretch": 7,
+   "rom": 9,
+   "ergonomics": 8,
+   "build": 9
+  },
+  "accessibility": {
+   "entry": 9,
+   "adjustment": 9,
+   "beginner": 8,
+   "startingResistanceKg": 1,
+   "transferFriendly": false
+  },
+  "specs": {
+   "weightKg": 10
+  },
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Free-weight set listed from the manufacturer's or a dealer's catalogue. Scores are estimated from the category and brand.",
+  "editorialFavorite": false,
+  "images": [
+   {
+    "src": "/equipment/gymleco/gymleco-free-weights-415-curl-bar.webp",
+    "credit": "Gymleco (official store)",
+    "sourceUrl": "https://gymleco.com/products/curl-bar"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Gymleco (official store)",
+    "url": "https://gymleco.com/products/curl-bar"
+   }
+  ],
+  "listPrice": {
+   "amount": 1779,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/curl-bar"
   }
  }
 ]

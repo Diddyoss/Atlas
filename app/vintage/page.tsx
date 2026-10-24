@@ -32,7 +32,7 @@ export default function VintagePage() {
               className="group min-w-[220px] flex-1 border border-rivet bg-steel p-4 transition-colors hover:border-chalk"
             >
               <p className="label text-weld">
-                {b.founded}–{b.defunctYear ?? "?"} · {b.country}
+                {b.founded ?? "?"}–{b.defunctYear ?? "?"} · {b.country}
               </p>
               <p className="stencil mt-1 text-2xl group-hover:underline">{b.name}</p>
               <p className="mt-2 line-clamp-2 text-xs text-ash">{b.note}</p>
