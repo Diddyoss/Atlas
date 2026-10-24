@@ -46,6 +46,8 @@ const PREFIX: Record<string, string> = {
 /** Brands whose series we infer from page text rather than read from the source, so it can't veto a match */
 const SERIES_GUESSED = new Set(["newtech"]);
 const norm = (s?: string) => (s ?? "").toLowerCase().replace(/[^a-z0-9]/g, "");
+const listPriceOf = (raw: Raw): Equipment["listPrice"] =>
+  raw.price && { ...raw.price, source: raw.credit, url: raw.url };
 
 const readJson =<T>(file: string, fallback: T): T => (existsSync(file) ? (JSON.parse(readFileSync(file, "utf8")) as T) : fallback);
 
@@ -154,6 +156,7 @@ async function main() {
       discontinued: raw.discontinued ?? false,
       image: raw.image ? { src: raw.image, credit: raw.credit, sourceUrl: raw.url } : undefined,
       source: { label: raw.credit, url: raw.url },
+      listPrice: listPriceOf(raw),
     });
   }
   // Second pass from the curated side: catalogue names often add words ("Plate Loaded Linear Leg Press"),
@@ -176,7 +179,14 @@ async function main() {
     const g = hit.item;
     curatedHits.set(c.slug, {
       item: c,
-      raw: { brandSlug: g.brandSlug, name: g.name, url: g.source.url, image: g.image!.src, credit: g.image!.credit },
+      raw: {
+        brandSlug: g.brandSlug,
+        name: g.name,
+        url: g.source.url,
+        image: g.image!.src,
+        credit: g.image!.credit,
+        price: g.listPrice && { amount: g.listPrice.amount, currency: g.listPrice.currency, taxIncluded: g.listPrice.taxIncluded, condition: g.listPrice.condition },
+      },
       score: hit.score ?? 0,
     });
     generated.delete(g.slug);
@@ -225,6 +235,7 @@ async function main() {
         slug: h.item.slug,
         images: src ? [{ src, credit: h.raw.credit, sourceUrl: h.raw.url }] : (entries.get(h.item.slug)?.images ?? []),
         sources: [{ label: h.raw.credit, url: h.raw.url }],
+        listPrice: listPriceOf(h.raw),
       });
     }
     writeFileSync(file, JSON.stringify([...entries.values()], null, 1) + "\n");

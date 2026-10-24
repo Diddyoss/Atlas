@@ -13,7 +13,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-pendulum-squat/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-pendulum-squat/"
+  }
  },
  {
   "slug": "arsenal-reloaded-hack-squat",
@@ -29,6 +37,14 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-hack-squat/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-hack-squat/"
+  }
  }
 ]

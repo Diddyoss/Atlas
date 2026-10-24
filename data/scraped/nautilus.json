@@ -13,7 +13,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-incline-press-9np-l2003-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-incline-press-9np-l2003-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-impact-leg-extension",

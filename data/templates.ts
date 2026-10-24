@@ -234,6 +234,7 @@ export type DiscoveredMachine = {
   discontinued: boolean;
   image?: { src: string; credit: string; sourceUrl: string };
   source: { label: string; url: string };
+  listPrice?: Equipment["listPrice"];
 };
 
 export function estimateEquipment(d: DiscoveredMachine): Equipment {
@@ -278,5 +279,6 @@ export function estimateEquipment(d: DiscoveredMachine): Equipment {
     editorialFavorite: false,
     images: d.image ? [d.image] : [],
     sources: [d.source],
+    listPrice: d.listPrice,
   };
 }

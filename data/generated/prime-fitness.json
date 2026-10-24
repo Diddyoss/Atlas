@@ -66,7 +66,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-i-pendulum-squat"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6250,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-i-pendulum-squat"
+  }
  },
  {
   "slug": "prime-plate-loaded-hack-squat",
@@ -135,7 +143,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-hack-squat"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6650,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-hack-squat"
+  }
  },
  {
   "slug": "prime-plate-loaded-pulldown",
@@ -205,7 +221,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5650,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-pulldown"
+  }
  },
  {
   "slug": "prime-benches-shorty-adjustable-bench",
@@ -277,7 +301,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/prime-shorty-adjustable-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 775,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/prime-shorty-adjustable-bench"
+  }
  },
  {
   "slug": "prime-hybrid-leg-extension-leg-curl-combo",
@@ -343,7 +375,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-leg-extension-leg-curl-combo"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6500,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-leg-extension-leg-curl-combo"
+  }
  },
  {
   "slug": "prime-hybrid-outer-thigh",
@@ -412,7 +452,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-outer-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-outer-thigh"
+  }
  },
  {
   "slug": "prime-hybrid-inner-thigh",
@@ -481,7 +529,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-inner-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-inner-thigh"
+  }
  },
  {
   "slug": "prime-benches-xl-bench",
@@ -553,7 +609,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/xl-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/xl-bench"
+  }
  },
  {
   "slug": "prime-specialty-dip-assist",
@@ -622,7 +686,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/chin-dip-assist"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4800,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/chin-dip-assist"
+  }
  },
  {
   "slug": "prime-specialty-double-sided-preacher",
@@ -690,7 +762,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/double-sided-preacher"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1350,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/double-sided-preacher"
+  }
  },
  {
   "slug": "prime-specialty-functional-trainer",
@@ -762,7 +842,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/functional-trainer"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6250,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/functional-trainer"
+  }
  },
  {
   "slug": "prime-hybrid-abdominal-crunch",
@@ -830,7 +918,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-abdominal-crunch"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5600,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-abdominal-crunch"
+  }
  },
  {
   "slug": "prime-hybrid-arm-curl",
@@ -898,7 +994,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-arm-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5150,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-arm-curl"
+  }
  },
  {
   "slug": "prime-hybrid-chest-press",
@@ -967,7 +1071,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6250,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-chest-press"
+  }
  },
  {
   "slug": "prime-hybrid-incline-press",
@@ -1036,7 +1148,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-incline-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6400,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-incline-press"
+  }
  },
  {
   "slug": "prime-hybrid-inner-outer-thigh",
@@ -1105,7 +1225,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-inner-outer-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-inner-outer-thigh"
+  }
  },
  {
   "slug": "prime-hybrid-lat-pulldown",
@@ -1175,7 +1303,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-lat-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6850,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-lat-pulldown"
+  }
  },
  {
   "slug": "prime-hybrid-lateral-raise",
@@ -1243,7 +1379,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-lateral-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6100,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-lateral-raise"
+  }
  },
  {
   "slug": "prime-hybrid-leg-extension",
@@ -1309,7 +1453,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-leg-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5750,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-leg-extension"
+  }
  },
  {
   "slug": "prime-hybrid-leg-press",
@@ -1379,7 +1531,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-leg-press"
+  }
  },
  {
   "slug": "prime-hybrid-low-back-extension",
@@ -1448,7 +1608,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-low-back-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5600,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-low-back-extension"
+  }
  },
  {
   "slug": "prime-hybrid-multi-hip",
@@ -1516,7 +1684,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-multi-hip"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5900,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-multi-hip"
+  }
  },
  {
   "slug": "prime-hybrid-prone-leg-curl",
@@ -1584,7 +1760,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-prone-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5400,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-prone-leg-curl"
+  }
  },
  {
   "slug": "prime-hybrid-pullover",
@@ -1653,7 +1837,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-pullover"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6150,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-pullover"
+  }
  },
  {
   "slug": "prime-hybrid-rotary-torso",
@@ -1721,7 +1913,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-rotary-torso"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6100,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-rotary-torso"
+  }
  },
  {
   "slug": "prime-hybrid-seated-pushdown",
@@ -1790,7 +1990,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-seated-pushdown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-seated-pushdown"
+  }
  },
  {
   "slug": "prime-hybrid-seated-calf-press",
@@ -1856,7 +2064,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-seated-calf-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5900,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-seated-calf-press"
+  }
  },
  {
   "slug": "prime-hybrid-seated-row",
@@ -1927,7 +2143,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-seated-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5950,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-seated-row"
+  }
  },
  {
   "slug": "prime-hybrid-shoulder-press",
@@ -1997,7 +2221,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6150,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-shoulder-press"
+  }
  },
  {
   "slug": "prime-hybrid-tricep-extension",
@@ -2066,7 +2298,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-tricep-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5600,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-tricep-extension"
+  }
  },
  {
   "slug": "prime-evolution-arm-curl",
@@ -2134,7 +2374,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-arm-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5350,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-arm-curl"
+  }
  },
  {
   "slug": "prime-evolution-prone-leg-curl",
@@ -2202,7 +2450,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-prone-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5450,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-prone-leg-curl"
+  }
  },
  {
   "slug": "prime-evolution-leg-extension",
@@ -2268,7 +2524,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-leg-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5450,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-leg-extension"
+  }
  },
  {
   "slug": "prime-evolution-leg-press",
@@ -2338,7 +2602,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8500,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-leg-press"
+  }
  },
  {
   "slug": "prime-evolution-seated-leg-curl",
@@ -2406,7 +2678,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-seated-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5850,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-seated-leg-curl"
+  }
  },
  {
   "slug": "prime-evolution-shoulder-press",
@@ -2476,7 +2756,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6050,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-shoulder-press"
+  }
  },
  {
   "slug": "prime-evolution-tricep-extension",
@@ -2545,7 +2833,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-tricep-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5750,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-tricep-extension"
+  }
  },
  {
   "slug": "prime-evolution-abdominal-crunch",
@@ -2613,7 +2909,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-abdominal-crunch"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6150,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-abdominal-crunch"
+  }
  },
  {
   "slug": "prime-evolution-low-back-extension",
@@ -2682,7 +2986,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-low-back-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5800,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-low-back-extension"
+  }
  },
  {
   "slug": "prime-plate-loaded-shoulder-press",
@@ -2752,7 +3064,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3800,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-shoulder-press"
+  }
  },
  {
   "slug": "prime-plate-loaded-leg-press",
@@ -2822,7 +3142,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4500,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-leg-press"
+  }
  },
  {
   "slug": "prime-plate-loaded-arm-curl",
@@ -2890,7 +3218,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-arm-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3350,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-arm-curl"
+  }
  },
  {
   "slug": "prime-plate-loaded-low-back-extension",
@@ -2959,7 +3295,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-low-back-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-low-back-extension"
+  }
  },
  {
   "slug": "prime-plate-loaded-chest-press",
@@ -3028,7 +3372,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-chest-press"
+  }
  },
  {
   "slug": "prime-plate-loaded-extreme-row",
@@ -3099,7 +3451,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-extreme-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4150,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-extreme-row"
+  }
  },
  {
   "slug": "prime-plate-loaded-incline-press",
@@ -3168,7 +3528,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-incline-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4250,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-incline-press"
+  }
  },
  {
   "slug": "prime-plate-loaded-lat-pulldown",
@@ -3238,7 +3606,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-lat-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3800,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-lat-pulldown"
+  }
  },
  {
   "slug": "prime-plate-loaded-prone-leg-curl",
@@ -3306,7 +3682,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-prone-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3250,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-prone-leg-curl"
+  }
  },
  {
   "slug": "prime-plate-loaded-leg-extension",
@@ -3372,7 +3756,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-leg-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3600,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-leg-extension"
+  }
  },
  {
   "slug": "prime-plate-loaded-tricep-extension",
@@ -3441,7 +3833,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-tricep-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3650,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-tricep-extension"
+  }
  },
  {
   "slug": "prime-plate-loaded-seated-row",
@@ -3512,7 +3912,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-seated-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3700,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-seated-row"
+  }
  },
  {
   "slug": "prime-plate-loaded-abdominal-crunch",
@@ -3580,7 +3988,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/plate-loaded-ab-crunch"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/plate-loaded-ab-crunch"
+  }
  },
  {
   "slug": "prime-plate-loaded-leg-ext-leg-curl-combo",
@@ -3646,7 +4062,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/leg-ext-leg-curl-combo-1"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4600,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/leg-ext-leg-curl-combo-1"
+  }
  },
  {
   "slug": "prime-benches-adjustable-bench",
@@ -3718,6 +4142,14 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 725,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/bench"
+  }
  }
 ]

@@ -2,6 +2,7 @@ import brandsJson from "@/data/brands.json";
 import scrapedJson from "@/data/scraped/index.json";
 import generatedJson from "@/data/generated/index.json";
 import { curated } from "@/data/equipment";
+import { priceInSgd } from "./pricing";
 import type { Brand, CatalogueItem, Equipment, Scraped } from "./types";
 
 /** Curated fields always win; scraped data only fills gaps. */
@@ -21,6 +22,7 @@ export function mergeScraped(item: Equipment, scraped: Scraped | undefined): Equ
     specs,
     sources,
     images: item.images.length > 0 ? item.images : scraped.images,
+    listPrice: item.listPrice ?? scraped.listPrice,
   };
 }
 
@@ -30,15 +32,34 @@ export function isVintage(item: Pick<Equipment, "discontinued">, brand: Pick<Bra
 
 export function buildCatalogue(brands: Brand[], items: Equipment[], scraped: Scraped[]): CatalogueItem[] {
   const brandMap = new Map(brands.map((b) => [b.slug, b]));
-  const scrapedMap = new Map(scraped.map((s) => [s.slug, s]));
+  // A slug can appear in several scraped files (e.g. a dealer's source link plus a stock photo); combine them
+  const scrapedMap = new Map<string, Scraped>();
+  for (const s of scraped) {
+    const prev = scrapedMap.get(s.slug);
+    scrapedMap.set(
+      s.slug,
+      prev
+        ? {
+            slug: s.slug,
+            images: prev.images.length ? prev.images : s.images,
+            sources: [...(prev.sources ?? []), ...(s.sources ?? [])],
+            specs: { ...s.specs, ...prev.specs },
+            listPrice: prev.listPrice ?? s.listPrice,
+          }
+        : s,
+    );
+  }
   return items.map((raw) => {
     const brand = brandMap.get(raw.brandSlug);
     if (!brand) throw new Error(`Unknown brand "${raw.brandSlug}" on ${raw.slug}`);
     const item = mergeScraped(raw, scrapedMap.get(raw.slug));
+    const vintage = isVintage(item, brand);
+    const { sgd, basis } = priceInSgd(item, vintage);
     return {
       ...item,
       brand: { slug: brand.slug, name: brand.name, status: brand.status, country: brand.country },
-      vintage: isVintage(item, brand),
+      vintage,
+      price: { sgd, basis },
     };
   });
 }

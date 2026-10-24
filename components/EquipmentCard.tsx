@@ -6,6 +6,7 @@ import type { CatalogueItem } from "@/lib/types";
 import { LOADING_LABELS, MOVEMENT_LABELS } from "@/lib/types";
 import { MUSCLES } from "@/lib/muscles";
 import { toCompareEntry } from "@/lib/compare";
+import { formatSgd, PRICE_BASIS } from "@/lib/pricing";
 import { useCompare } from "@/lib/compare-store";
 import { EquipmentVisual } from "./EquipmentVisual";
 import { MiniCurve } from "./ResistanceCurve";
@@ -33,6 +34,9 @@ export function EquipmentCard({ item, index = 0 }: { item: CatalogueItem; index?
           {item.editorialFavorite && (
             <span className="label absolute right-3 top-3 z-10 bg-chalk px-2 py-0.5 text-ink">★ Pick</span>
           )}
+          {item.images[0]?.representative && (
+            <span className="label absolute left-3 top-3 z-10 bg-ink/85 px-2 py-0.5 text-[0.58rem] text-ash">Similar machine</span>
+          )}
         </div>
         <div className="flex flex-1 flex-col gap-3 p-4">
           <div>
@@ -51,7 +55,15 @@ export function EquipmentCard({ item, index = 0 }: { item: CatalogueItem; index?
             {item.estimated && <Tag>Estimated</Tag>}
           </div>
           <div className="mt-auto flex items-end justify-between gap-3">
-            <p className="text-xs text-ash">{item.primaryMuscles.map((m) => MUSCLES[m].label).join(" · ")}</p>
+            <div className="min-w-0">
+              <p className="text-xs text-ash">{item.primaryMuscles.map((m) => MUSCLES[m].label).join(" · ")}</p>
+              <p className="mt-1 font-mono text-sm text-chalk" title={PRICE_BASIS[item.price.basis]}>
+                {formatSgd(item.price.sgd)}
+                <span className="ml-1.5 text-[0.6rem] uppercase tracking-wider text-weld">
+                  {item.price.basis === "estimate" ? "est." : item.price.basis === "resale" ? "used" : ""}
+                </span>
+              </p>
+            </div>
             <MiniCurve curve={item.resistanceProfile.curve} />
           </div>
         </div>

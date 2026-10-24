@@ -69,7 +69,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-6-stack-multi-station-gym-cw2222-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-6-stack-multi-station-gym-cw2222-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-vertical-pec-deck-405",
@@ -137,7 +145,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-vertical-pec-deck-405-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-vertical-pec-deck-405-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-plate-loaded-t-bar-incline-lever-row",
@@ -208,7 +224,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-plate-loaded-t-bar-incline-lever-row-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2149,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-plate-loaded-t-bar-incline-lever-row-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-multi-purpose-utility-bench",
@@ -280,7 +304,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-multi-purpose-utility-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2249,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-multi-purpose-utility-bench-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-angled-45-degree-plate-loaded-leg-press",
@@ -350,7 +382,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-angled-45-degree-plate-loaded-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-angled-45-degree-plate-loaded-leg-press-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-seated-preacher-curl",
@@ -418,7 +458,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-seated-preacher-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2049,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-seated-preacher-curl-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-seated-calf-raise",
@@ -484,7 +532,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-seated-calf-raise-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2249,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-seated-calf-raise-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-lateral-raise",
@@ -552,7 +608,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-lateral-raise-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-lateral-raise-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-45-degree-back-extension",
@@ -621,7 +685,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-45-degree-back-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-45-degree-back-extension-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-adjustable-cable-crossover",
@@ -693,7 +765,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-adjustable-cable-crossover-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-adjustable-cable-crossover-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-5-stack-cw2200-multi-station-gym",
@@ -765,7 +845,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-5-stack-cw2200-multi-station-gym-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-5-stack-cw2200-multi-station-gym-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-cw-702-vkr-vertical-knee-raise",
@@ -833,7 +921,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-cw-702-vkr-vertical-knee-raise-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2249,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-cw-702-vkr-vertical-knee-raise-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-cw-408-flat-olympic-bench",
@@ -905,7 +1001,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-cw-408-flat-olympic-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2349,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-cw-408-flat-olympic-bench-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-super-squat-624",
@@ -975,7 +1079,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-super-squat-624-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-super-squat-624-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-chin-dip-assist",
@@ -1045,7 +1157,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-chin-dip-assist-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-chin-dip-assist-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-smith-machine",
@@ -1117,7 +1237,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-icarian-smith-machine-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-icarian-smith-machine-remanufactured"
+  }
  },
  {
   "slug": "icarian-icarian-abench-abdominal-crunch-bench",
@@ -1185,7 +1313,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-abench-abdominal-crunch-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 674,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-abench-abdominal-crunch-bench"
+  }
  },
  {
   "slug": "icarian-icarian-dip-chin-assist",
@@ -1255,7 +1391,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-dip-chin-assist"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1475,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-dip-chin-assist"
+  }
  },
  {
   "slug": "icarian-icarian-flat-bench",
@@ -1396,7 +1540,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-hyperextension-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 310,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-hyperextension-bench"
+  }
  },
  {
   "slug": "icarian-icarian-olympic-flat-bench",
@@ -1468,7 +1620,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-flat-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 595,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-flat-bench"
+  }
  },
  {
   "slug": "icarian-icarian-olympic-decline-bench",
@@ -1537,7 +1697,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-decline-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 365,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-decline-bench"
+  }
  },
  {
   "slug": "icarian-icarian-olympic-incline-bench",
@@ -1606,7 +1774,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-incline-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 575,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-olympic-incline-bench"
+  }
  },
  {
   "slug": "icarian-icarian-plate-loaded-smith-machine",
@@ -1678,7 +1854,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-plate-loaded-smith-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1997,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-plate-loaded-smith-machine"
+  }
  },
  {
   "slug": "icarian-icarian-power-cage",
@@ -1750,7 +1934,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-power-cage"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1020,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-power-cage"
+  }
  },
  {
   "slug": "icarian-icarian-pulldown",
@@ -1820,7 +2012,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 995,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-pulldown"
+  }
  },
  {
   "slug": "icarian-icarian-seated-dip",
@@ -1889,7 +2089,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-seated-dip"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1125,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-seated-dip"
+  }
  },
  {
   "slug": "icarian-icarian-rear-delt-and-pec-fly",
@@ -1958,7 +2166,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-rear-delt-and-pec-fly"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 800,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-rear-delt-and-pec-fly"
+  }
  },
  {
   "slug": "icarian-icarian-squat-rack",
@@ -2028,7 +2244,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-squat-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 645,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-squat-rack"
+  }
  },
  {
   "slug": "icarian-icarian-shoulder-press",
@@ -2098,7 +2322,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 995,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-shoulder-press"
+  }
  },
  {
   "slug": "icarian-icarian-super-bench-multi-adjustable-bench",
@@ -2170,7 +2402,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-icarian-super-bench-multi-adjustable-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 495,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-icarian-super-bench-multi-adjustable-bench"
+  }
  },
  {
   "slug": "icarian-icarian-vertical-chest-press",
@@ -2239,7 +2479,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/refurbished-precor-icarian-vertical-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1581,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/refurbished-precor-icarian-vertical-chest-press"
+  }
  },
  {
   "slug": "icarian-icarian-incline-press",
@@ -2308,6 +2556,14 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/refurbished-precor-icarian-incline-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1592,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/refurbished-precor-icarian-incline-press"
+  }
  }
 ]

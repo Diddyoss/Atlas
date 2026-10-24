@@ -72,6 +72,21 @@ export const ImageSchema = z.object({
   src: z.string(),
   credit: z.string(),
   sourceUrl: z.string().url(),
+  /** A licensed photo of a similar machine, used when no photo of the exact model exists */
+  representative: z.boolean().optional(),
+});
+
+export const CURRENCIES = ["USD", "AUD", "SEK", "EUR", "GBP"] as const;
+
+/** A price as published by a store or dealer, before conversion to Singapore dollars. */
+export const ListPriceSchema = z.object({
+  amount: z.number().positive(),
+  currency: z.enum(CURRENCIES),
+  /** Sales tax already inside `amount` (0.25 = 25% VAT), removed before landing costs are added */
+  taxIncluded: z.number().min(0).max(0.3),
+  condition: z.enum(["new", "used"]),
+  source: z.string(),
+  url: z.string().url(),
 });
 
 export const BrandSchema = z.object({
@@ -136,16 +151,19 @@ export const EquipmentSchema = z.object({
   editorialFavorite: z.boolean(),
   images: z.array(ImageSchema),
   sources: z.array(z.object({ label: z.string(), url: z.string().url() })),
+  listPrice: ListPriceSchema.optional(),
 });
 
 export const ScrapedSchema = z.object({
   slug: z.string(),
   images: z.array(ImageSchema),
+  listPrice: ListPriceSchema.optional(),
   specs: EquipmentSchema.shape.specs.partial().optional(),
   sources: EquipmentSchema.shape.sources.optional(),
   description: z.string().optional(),
 });
 
+export type ListPrice = z.infer<typeof ListPriceSchema>;
 export type Brand = z.infer<typeof BrandSchema>;
 export type Equipment = z.infer<typeof EquipmentSchema>;
 export type Scraped = z.infer<typeof ScrapedSchema>;
@@ -166,4 +184,6 @@ export const FEEL_LABELS: Record<FeelKey, string> = {
 export type CatalogueItem = Equipment & {
   brand: Pick<Brand, "slug" | "name" | "status" | "country">;
   vintage: boolean;
+  /** Estimated cost to buy and land this machine in Singapore */
+  price: { sgd: number; basis: "listed" | "resale" | "estimate" };
 };

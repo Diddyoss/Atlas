@@ -1,5 +1,5 @@
 import * as cheerio from "cheerio";
-import type { Loading } from "../../lib/types";
+import type { ListPrice, Loading } from "../../lib/types";
 import { extractProduct } from "../scrape/extract";
 import { DisallowedError, fetchJson, fetchText } from "../scrape/http";
 import { tidyName } from "./classify";
@@ -16,7 +16,13 @@ export type Raw = {
   discontinued?: boolean;
   /** Extra text (description/category) that helps classify the loading type */
   context?: string;
+  price?: Omit<ListPrice, "source" | "url">;
 };
+
+/** Prices this low are accessories or placeholders, not machines */
+const MIN_MACHINE_PRICE = 300;
+/** Prices above this (in the listing currency) are "call for price" placeholders */
+const MAX_LISTING: Record<string, number> = { USD: 80_000, AUD: 120_000, SEK: 800_000, EUR: 70_000, GBP: 60_000 };
 
 export type Source = { id: string; brands: string[]; run: () => Promise<Raw[]> };
 
@@ -42,7 +48,18 @@ type ShopifyProduct = {
   tags: string[];
   body_html?: string;
   images: { src: string }[];
+  variants?: { price: string }[];
 };
+
+function shopifyPrice(
+  p: ShopifyProduct,
+  currency: ListPrice["currency"],
+  condition: ListPrice["condition"],
+  taxIncluded = 0,
+): Raw["price"] {
+  const amount = Number(p.variants?.[0]?.price);
+  return amount >= MIN_MACHINE_PRICE && amount <= MAX_LISTING[currency] ? { amount, currency, taxIncluded, condition } : undefined;
+}
 
 async function shopifyAll(store: string, collection?: string): Promise<ShopifyProduct[]> {
   const base = collection ? `${store}/collections/${collection}` : store;
@@ -81,6 +98,7 @@ const prime: Source = {
           url: `${store}/products/${p.handle}`,
           image: p.images[0].src,
           credit: "Prime Fitness (official store)",
+          price: shopifyPrice(p, "USD", "new"),
         };
       });
   },
@@ -110,6 +128,7 @@ const hoist: Source = {
           url: `${store}/products/${p.handle}`,
           image: p.images[0].src,
           credit: "Hoist Fitness (official store)",
+          price: shopifyPrice(p, "USD", "new"),
         };
       });
   },
@@ -174,6 +193,7 @@ const fitnessSuperstore: Source = {
         credit: "Fitness Superstore (remanufactured listing)",
         discontinued,
         context: `${p.product_type} ${p.tags.join(" ")}`,
+        price: shopifyPrice(p, "USD", /\(new\)/i.test(p.title) ? "new" : "used"),
       });
     }
     return out;
@@ -201,6 +221,7 @@ const globalFitness: Source = {
           image: p.images[0].src,
           credit: "Global Fitness (dealer listing)",
           context: p.tags.join(" "),
+          price: shopifyPrice(p, "USD", /\bnew\b/i.test(p.title) && !/used|refurb/i.test(p.title) ? "new" : "used"),
         };
       });
   },
@@ -229,13 +250,29 @@ const gymleco: Source = {
         image: p.images[0].src,
         credit: "Gymleco (official store)",
         context: p.tags.join(" "),
+        // Swedish retail prices include 25% VAT
+        price: shopifyPrice(p, "SEK", "new", 0.25),
       }));
   },
 };
 
 // ---------- WooCommerce Store API (public, read-only) ----------
 
-type WooProduct = { name: string; permalink: string; images: { src: string }[]; categories: { name: string }[] };
+type WooProduct = {
+  name: string;
+  permalink: string;
+  images: { src: string }[];
+  categories: { name: string }[];
+  prices?: { price: string; currency_code: string; currency_minor_unit: number };
+};
+
+function wooPrice(p: WooProduct, taxIncluded: number): Raw["price"] {
+  if (!p.prices) return undefined;
+  const amount = Number(p.prices.price) / 10 ** p.prices.currency_minor_unit;
+  const currency = p.prices.currency_code as ListPrice["currency"];
+  if (!(amount >= MIN_MACHINE_PRICE) || !(amount <= MAX_LISTING[currency])) return undefined;
+  return { amount, currency, taxIncluded, condition: "new" };
+}
 
 async function wooAll(store: string, search?: string): Promise<WooProduct[]> {
   const out: WooProduct[] = [];
@@ -283,6 +320,7 @@ const panatta: Source = {
           url: p.permalink,
           image: p.images[0].src,
           credit: "Primo Fitness (Panatta dealer)",
+          price: wooPrice(p, 0),
         };
       });
   },
@@ -308,6 +346,8 @@ const arsenal: Source = {
           image: p.images[0].src,
           credit: "Performaxx (Arsenal Strength distributor)",
           context: cats,
+          // Australian prices include 10% GST
+          price: wooPrice(p, 0.1),
         };
       }),
 };

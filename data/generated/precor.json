@@ -65,7 +65,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-c404ec-experience-strength-c-line-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-c404ec-experience-strength-c-line-chest-press-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-s-line-dual-pulldown-seated-row",
@@ -135,7 +143,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-s-line-dual-pulldown-seated-row-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-s-line-dual-pulldown-seated-row-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-plate-loaded-lat-pulldown",
@@ -205,7 +221,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-dpl0305-discovery-series-plate-loaded-lat-pulldown-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-dpl0305-discovery-series-plate-loaded-lat-pulldown-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-half-rack",
@@ -277,7 +301,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-dbr0611-discovery-series-half-rack-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-dbr0611-discovery-series-half-rack-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-pec-fly-rear-delt",
@@ -345,7 +377,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-pec-fly-rear-delt-dsl0505-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-pec-fly-rear-delt-dsl0505-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-plate-loaded-leg-extension",
@@ -411,7 +451,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-dpl0560-discovery-plate-loaded-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-dpl0560-discovery-plate-loaded-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-plate-loaded-chest-press",
@@ -480,7 +528,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-dpl0540-discovery-plate-loaded-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-dpl0540-discovery-plate-loaded-chest-press-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-incline-lever-t-bar-row-dpl0311-plate-loaded",
@@ -551,7 +607,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-incline-lever-t-bar-row-dpl0311-plate-loaded-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2049,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-incline-lever-t-bar-row-dpl0311-plate-loaded-remanufactured"
+  }
  },
  {
   "slug": "precor-s3-55-multi-gym-strength-system",
@@ -622,7 +686,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-s3-55-multi-gym-strength-system-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-s3-55-multi-gym-strength-system-remanufactured"
+  }
  },
  {
   "slug": "precor-s3-45-multi-station-strength-system",
@@ -693,7 +765,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-s3-45-multi-station-strength-system-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-s3-45-multi-station-strength-system-remanufactured"
+  }
  },
  {
   "slug": "precor-s3-23-functional-trainer",
@@ -764,7 +844,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-s3-23-functional-trainer-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-s3-23-functional-trainer-remanufactured"
+  }
  },
  {
   "slug": "precor-experience-c-line-leg-press",
@@ -833,7 +921,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-experience-c-line-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-experience-c-line-leg-press-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-squat-machine-dpl0624-plate-loaded",
@@ -903,7 +999,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-squat-machine-dpl0624-plate-loaded-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-squat-machine-dpl0624-plate-loaded-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-c027es-leg-extension-leg-curl",
@@ -969,7 +1073,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-vitality-c027es-leg-extension-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-vitality-c027es-leg-extension-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-shoulder-press",
@@ -1039,7 +1151,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-vitality-series-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-vitality-series-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "precor-c010es-vitality-leg-press-calf-extension",
@@ -1104,7 +1224,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-c010es-vitality-leg-press-calf-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-c010es-vitality-leg-press-calf-extension-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-seated-leg-curl",
@@ -1172,7 +1300,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-vitality-series-seated-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-vitality-series-seated-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-leg-extension",
@@ -1238,7 +1374,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-vitality-series-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-vitality-series-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-lat-pulldown",
@@ -1308,7 +1452,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-vitality-series-lat-pulldown-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-vitality-series-lat-pulldown-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-chest-press",
@@ -1377,7 +1529,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-vitality-series-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-vitality-series-chest-press-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-adjustable-decline-ab-bench",
@@ -1446,7 +1606,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-adjustable-decline-ab-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-adjustable-decline-ab-bench-remanufactured"
+  }
  },
  {
   "slug": "precor-ab-bench",
@@ -1513,7 +1681,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-ab102-ab-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2349,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-ab102-ab-bench-remanufactured"
+  }
  },
  {
   "slug": "precor-abench-pro",
@@ -1584,7 +1760,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-ab100p-abench-pro-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1949,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-ab100p-abench-pro-remanufactured"
+  }
  },
  {
   "slug": "precor-820-multi-gym-8-stack-10-station",
@@ -1655,7 +1839,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-820-multi-gym-8-stack-10-station-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 10799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-820-multi-gym-8-stack-10-station-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-seated-leg-curl",
@@ -1723,7 +1915,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-seated-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-seated-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-glute-extension",
@@ -1791,7 +1991,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-glute-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-glute-extension-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-prone-leg-curl",
@@ -1859,7 +2067,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-prone-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-prone-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-converging-shoulder-press",
@@ -1929,7 +2145,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-converging-chest-press",
@@ -1998,7 +2222,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-chest-press-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-diverging-lat-pulldown",
@@ -2068,7 +2300,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-diverging-lat-pulldown-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-diverging-lat-pulldown-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-back-extension",
@@ -2137,7 +2377,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-back-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-back-extension-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-triceps-extension",
@@ -2206,7 +2454,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-triceps-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-triceps-extension-remanufactured"
+  }
  },
  {
   "slug": "precor-discovery-selectorized-biceps-curl",
@@ -2274,7 +2530,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-biceps-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/precor-discovery-series-selectorized-biceps-curl-remanufactured"
+  }
  },
  {
   "slug": "precor-vitality-s-line-leg-press-calf-extension-combo",
@@ -2340,7 +2604,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-vitality-series-s-line-leg-press-calf-extension-combo"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-vitality-series-s-line-leg-press-calf-extension-combo"
+  }
  },
  {
   "slug": "precor-discovery-abdominal",
@@ -2408,7 +2680,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-abdominal"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-abdominal"
+  }
  },
  {
   "slug": "precor-discovery-bicep-curl",
@@ -2476,7 +2756,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-bicep-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-bicep-curl"
+  }
  },
  {
   "slug": "precor-discovery-back-extension",
@@ -2545,7 +2833,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-back-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-back-extension"
+  }
  },
  {
   "slug": "precor-discovery-chest-press",
@@ -2614,7 +2910,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1375,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-chest-press"
+  }
  },
  {
   "slug": "precor-discovery-inner-thigh",
@@ -2683,7 +2987,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-inner-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-inner-thigh"
+  }
  },
  {
   "slug": "precor-discovery-glute-extension",
@@ -2751,7 +3063,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-glute-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-glute-extension"
+  }
  },
  {
   "slug": "precor-discovery-outer-thigh",
@@ -2820,7 +3140,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-outer-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-outer-thigh"
+  }
  },
  {
   "slug": "precor-discovery-leg-extension",
@@ -2886,7 +3214,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-leg-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1610,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-leg-extension"
+  }
  },
  {
   "slug": "precor-discovery-lat-pulldown",
@@ -2956,7 +3292,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-lat-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-lat-pulldown"
+  }
  },
  {
   "slug": "precor-discovery-rotary-torso",
@@ -3024,7 +3368,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-rotary-torso"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-rotary-torso"
+  }
  },
  {
   "slug": "precor-discovery-rear-delt-and-pec-fly",
@@ -3093,7 +3445,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-rear-delt-and-pec-fly"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-rear-delt-and-pec-fly"
+  }
  },
  {
   "slug": "precor-discovery-seated-calf-extension",
@@ -3159,7 +3519,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-calf-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-calf-extension"
+  }
  },
  {
   "slug": "precor-discovery-seated-row",
@@ -3230,7 +3598,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1375,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-row"
+  }
  },
  {
   "slug": "precor-discovery-seated-leg-press",
@@ -3300,7 +3676,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-press"
+  }
  },
  {
   "slug": "precor-discovery-seated-leg-curl",
@@ -3368,7 +3752,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1610,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-seated-leg-curl"
+  }
  },
  {
   "slug": "precor-discovery-tricep-extension",
@@ -3437,7 +3829,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-tricep-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1175,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-tricep-extension"
+  }
  },
  {
   "slug": "precor-discovery-shoulder-press",
@@ -3507,6 +3907,14 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-precor-discovery-series-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1375,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-precor-discovery-series-shoulder-press"
+  }
  }
 ]

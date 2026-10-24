@@ -63,7 +63,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/commercial-flat-incline-bench-copy"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2665,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/commercial-flat-incline-bench-copy"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-shoulder-press",
@@ -133,7 +141,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/shoulder-press"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-rotary-calf",
@@ -199,7 +215,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rotary-calf"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rotary-calf"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-glute-master",
@@ -267,7 +291,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/glute-master"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/glute-master"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-outer-thigh",
@@ -336,7 +368,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/outer-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/outer-thigh"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-inner-thigh",
@@ -405,7 +445,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/inner-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/inner-thigh"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-pec-fly",
@@ -473,7 +521,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/pec-fly"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/pec-fly"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-low-back",
@@ -542,7 +598,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/low-back"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/low-back"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-seated-mid-row",
@@ -613,7 +677,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/seated-mid-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/seated-mid-row"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-biceps-curl",
@@ -681,7 +753,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/biceps-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/biceps-curl"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-seated-dip",
@@ -750,7 +830,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/seated-dip"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/seated-dip"
+  }
  },
  {
   "slug": "hoist-selectorized-chin-dip-assist",
@@ -820,7 +908,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2700-chin-dip-assist"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7700,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2700-chin-dip-assist"
+  }
  },
  {
   "slug": "hoist-selectorized-rotary-torso",
@@ -888,7 +984,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2602-rotary-torso"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2602-rotary-torso"
+  }
  },
  {
   "slug": "hoist-selectorized-abdominals",
@@ -956,7 +1060,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2601-abdominals"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2601-abdominals"
+  }
  },
  {
   "slug": "hoist-selectorized-prone-leg-curl",
@@ -1024,7 +1136,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2408-prone-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2408-prone-leg-curl"
+  }
  },
  {
   "slug": "hoist-selectorized-leg-press",
@@ -1094,7 +1214,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2403-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8310,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2403-leg-press"
+  }
  },
  {
   "slug": "hoist-selectorized-leg-curl",
@@ -1162,7 +1290,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2402-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2402-leg-curl"
+  }
  },
  {
   "slug": "hoist-selectorized-leg-extension",
@@ -1228,7 +1364,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2401-leg-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2401-leg-extension"
+  }
  },
  {
   "slug": "hoist-selectorized-chest-press",
@@ -1297,7 +1441,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2301-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2301-chest-press"
+  }
  },
  {
   "slug": "hoist-selectorized-lat-pulldown",
@@ -1367,7 +1519,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-2201-lat-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-2201-lat-pulldown"
+  }
  },
  {
   "slug": "hoist-cf-full-body-dual-angle-smith",
@@ -1439,7 +1599,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3755-dual-angle-smith"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6050,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3755-dual-angle-smith"
+  }
  },
  {
   "slug": "hoist-cf-full-body-commercial-half-rack",
@@ -1511,7 +1679,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3365-half-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5380,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3365-half-rack"
+  }
  },
  {
   "slug": "hoist-cf-bench-commercial-3-way-olympic-bench",
@@ -1583,7 +1759,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-2179b-3-way-olympic-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3360,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-2179b-3-way-olympic-bench"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-hack-squat",
@@ -1652,7 +1836,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3356-hack-squat"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6185,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3356-hack-squat"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-power-squat",
@@ -1722,7 +1914,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3359-power-squat"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3765,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3359-power-squat"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-glute-thrust",
@@ -1790,7 +1990,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3416-glute-thrust"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4400,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3416-glute-thrust"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-kneeling-leg-curl",
@@ -1858,7 +2066,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3411-kneeling-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2555,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3411-kneeling-leg-press"
+  }
  },
  {
   "slug": "hoist-club-line-inner-outer-thigh",
@@ -1927,7 +2143,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3800-inner-outer-thigh"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5320,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3800-inner-outer-thigh"
+  }
  },
  {
   "slug": "hoist-club-line-abdominals",
@@ -1995,7 +2219,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3601-abdominals"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3601-abdominals"
+  }
  },
  {
   "slug": "hoist-club-line-lateral-raise",
@@ -2063,7 +2295,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3502-lateral-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3502-lateral-raise"
+  }
  },
  {
   "slug": "hoist-club-line-standing-prone-leg-curl",
@@ -2131,7 +2371,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3408-standing-prone-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5320,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3408-standing-prone-leg-curl"
+  }
  },
  {
   "slug": "hoist-club-line-commercial-pec-fly-rear-delt",
@@ -2199,7 +2447,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3309-pec-fly-rear-delt"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5380,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3309-pec-fly-rear-delt"
+  }
  },
  {
   "slug": "hoist-club-line-mid-row",
@@ -2270,7 +2526,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3203-mid-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3203-mid-row"
+  }
  },
  {
   "slug": "hoist-cf-bench-utility-bench",
@@ -2342,7 +2606,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3960-utility-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 670,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3960-utility-bench"
+  }
  },
  {
   "slug": "hoist-club-line-leg-press",
@@ -2412,7 +2684,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3403-cl-3403-hs-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6720,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3403-cl-3403-hs-leg-press"
+  }
  },
  {
   "slug": "hoist-club-line-leg-curl",
@@ -2480,7 +2760,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3402-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3402-leg-curl"
+  }
  },
  {
   "slug": "hoist-club-line-leg-extension",
@@ -2546,7 +2834,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3401-leg-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3401-leg-extension"
+  }
  },
  {
   "slug": "hoist-club-line-chest-press",
@@ -2615,7 +2911,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3301-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3301-chest-press"
+  }
  },
  {
   "slug": "hoist-club-line-shoulder-press",
@@ -2685,7 +2989,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3501-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3501-shoulder-press"
+  }
  },
  {
   "slug": "hoist-club-line-lat-pulldown",
@@ -2755,7 +3067,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3201-lat-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3201-lat-pulldown"
+  }
  },
  {
   "slug": "hoist-club-line-triceps-extension",
@@ -2824,7 +3144,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3103-triceps-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3103-triceps-extension"
+  }
  },
  {
   "slug": "hoist-club-line-biceps-curl",
@@ -2892,7 +3220,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cl-3102-biceps-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4890,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cl-3102-biceps-curl"
+  }
  },
  {
   "slug": "hoist-cf-full-body-dual-action-smith",
@@ -2964,7 +3300,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3754-dual-action-smith"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7395,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3754-dual-action-smith"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-squat-rack",
@@ -3034,7 +3378,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3367-squat-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2960,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3367-squat-rack"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-angled-linear-leg-press",
@@ -3104,7 +3456,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3355-angled-linear-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7395,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3355-angled-linear-leg-press"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-adjustable-decline-ab-bench",
@@ -3173,7 +3533,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3264-adjustable-decline-ab-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1345,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3264-adjustable-decline-ab-bench"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-back-hyper",
@@ -3242,7 +3610,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3663-back-hyper"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1480,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3663-back-hyper"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-incline-leverage-row",
@@ -3313,7 +3689,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3661-incline-leverage-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2220,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3661-incline-leverage-row"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-military-press",
@@ -3383,7 +3767,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3860-military-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2690,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3860-military-press"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-standing-preacher-curl",
@@ -3451,7 +3843,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3555-standing-preacher-cur"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1345,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3555-standing-preacher-cur"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-preacher-curl",
@@ -3519,7 +3919,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3550-preacher-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1345,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3550-preacher-curl"
+  }
  },
  {
   "slug": "hoist-cf-rack-power-cage",
@@ -3591,7 +3999,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3364-power-cage-gsa"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3090,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3364-power-cage-gsa"
+  }
  },
  {
   "slug": "hoist-cf-series-commercial-vertical-knee-raise-dip",
@@ -3660,7 +4076,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3252-vertical-knee-raise-dip"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1075,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3252-vertical-knee-raise-dip"
+  }
  },
  {
   "slug": "hoist-cf-bench-commercial-super-flat-incline-decline-bench",
@@ -3729,7 +4153,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3165-super-flat-incline-decline-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1480,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3165-super-flat-incline-decline-bench"
+  }
  },
  {
   "slug": "hoist-cf-bench-flat-bench",
@@ -3801,7 +4233,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3163-flat-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3163-flat-bench"
+  }
  },
  {
   "slug": "hoist-cf-bench-super-flat-decline-bench",
@@ -3870,7 +4310,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3162-adjustable-flat-decline-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1210,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3162-adjustable-flat-decline-bench"
+  }
  },
  {
   "slug": "hoist-cf-bench-commercial-flat-incline-bench",
@@ -3939,7 +4387,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/cf-3160-super-flat-incline-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1280,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/cf-3160-super-flat-incline-bench"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-abdominals",
@@ -4007,7 +4463,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5601-abdominals"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2935,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5601-abdominals"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-shoulder-press",
@@ -4077,7 +4541,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5501-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5501-shoulder-press"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-standing-calf-raise",
@@ -4143,7 +4615,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5405-standing-calf-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5405-standing-calf-raise"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-dual-action-leg-press",
@@ -4213,7 +4693,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5403-dual-action-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5720,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5403-dual-action-leg-press"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-seated-calf-raise",
@@ -4279,7 +4767,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5363-seated-calf-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1615,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5363-seated-calf-raise"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-hack-squat-dead-lift-shrug",
@@ -4348,7 +4844,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5356-hack-squat-dead-lift-shrug"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4985,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5356-hack-squat-dead-lift-shrug"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-decline-chest-press",
@@ -4417,7 +4921,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5305-decline-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5305-decline-chest-press"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-incline-chest-press",
@@ -4486,7 +4998,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5303-incline-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5303-incline-chest-press"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-chest-press",
@@ -4555,7 +5075,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5301-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5301-chest-press"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-mid-row",
@@ -4626,7 +5154,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5203-mid-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5203-mid-row"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-lat-pulldown",
@@ -4696,7 +5232,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5201-lat-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5201-lat-pulldown"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-biceps-curl",
@@ -4764,7 +5308,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5102-biceps-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5102-biceps-curl"
+  }
  },
  {
   "slug": "hoist-roc-it-plate-loaded-seated-dip",
@@ -4833,7 +5385,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rpl-5101-seated-dip"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3815,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rpl-5101-seated-dip"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-lateral-raise",
@@ -4901,7 +5461,15 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-1502-lateral-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-1502-lateral-raise"
+  }
  },
  {
   "slug": "hoist-roc-it-selectorized-triceps-extension",
@@ -4970,6 +5538,14 @@
     "label": "Hoist Fitness (official store)",
     "url": "https://www.hoistfitness.com/products/rs-1103-triceps-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5805,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Hoist Fitness (official store)",
+   "url": "https://www.hoistfitness.com/products/rs-1103-triceps-extension"
+  }
  }
 ]

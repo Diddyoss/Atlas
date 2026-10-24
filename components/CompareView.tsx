@@ -226,7 +226,10 @@ function CompareRow({ row, cols }: { row: Row; cols: number }) {
                 <motion.span
                   className={`block h-full ${win ? "bg-chalk" : "bg-weld"}`}
                   initial={{ width: 0 }}
-                  animate={{ width: `${Math.min(100, (v / (row.key.startsWith("community-fav") ? Math.max(1, ...row.values.map(Number)) : 10)) * 100)}%` }}
+                  animate={{
+                    // 1–10 scores fill against 10; counts and prices fill against the row's largest value
+                    width: `${Math.min(100, (v / (/^(community-fav|price)/.test(row.key) ? Math.max(1, ...row.values.map(Number)) : 10)) * 100)}%`,
+                  }}
                   transition={{ duration: 0.6 }}
                 />
               </span>
@@ -256,7 +259,14 @@ function buildSections(items: CatalogueItem[], community: ReturnType<typeof useC
         { key: "loading", label: "Loading", values: v((i) => LOADING_LABELS[i.loading]) },
         { key: "iso", label: "Iso-lateral", values: v((i) => i.isoLateral) },
         { key: "era", label: "Era", values: v((i) => (i.vintage ? `Vintage${i.years ? ` · ${i.years}` : ""}` : "Current")) },
-        { key: "price", label: "Price band", values: v((i) => i.specs.priceBand) },
+        {
+          key: "price-sgd",
+          label: "Price in Singapore",
+          values: v((i) => i.price.sgd),
+          better: "low",
+          format: (x) => (typeof x === "number" ? `S$${x.toLocaleString("en-US")}` : "—"),
+        },
+        { key: "price-basis", label: "Price basis", values: v((i) => i.price.basis) },
         { key: "pick", label: "Editorial pick", values: v((i) => i.editorialFavorite), better: "high" },
       ],
     },

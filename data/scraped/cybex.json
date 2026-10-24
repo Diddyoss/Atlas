@@ -13,7 +13,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-chest-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-leg-extension",
@@ -29,6 +37,14 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-leg-extension-11050-w-rom-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-leg-extension-11050-w-rom-remanufactured"
+  }
  }
 ]

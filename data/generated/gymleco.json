@@ -208,7 +208,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/bench-press-squat-rack-home-gym"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5478.75,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/bench-press-squat-rack-home-gym"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-adjustable-gym-bench-home-gym",
@@ -280,7 +288,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/adjustable-gym-bench-home-gym"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6337.5,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/adjustable-gym-bench-home-gym"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-incline-press-chest-flyes",
@@ -348,7 +364,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/029-incline-press-chest-flyes"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 39000,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/029-incline-press-chest-flyes"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-glute-bridge",
@@ -416,7 +440,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/167-glute-bridge"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 21900,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/167-glute-bridge"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-squat-rack-hemmagym",
@@ -486,7 +518,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/squat-rack-hemmagym"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5200,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/squat-rack-hemmagym"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-complete-crossbox-station-rig",
@@ -558,7 +598,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/complete-crossbox-station-rig"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/complete-crossbox-station-rig"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-torso-rotation",
@@ -626,7 +674,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/375-torso-rotation"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 60851,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/375-torso-rotation"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-artificial-gym-grass-track-green",
@@ -698,7 +754,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/artificial-gym-grass-track-green"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 39298,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/artificial-gym-grass-track-green"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-artificial-gym-grass-track-black",
@@ -770,7 +834,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/artificial-gym-grass-track-black"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 39298,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/artificial-gym-grass-track-black"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-artificial-gym-grass-track-green-10-2-meters",
@@ -842,7 +914,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/artificial-gym-grass-track-green-10-2-meters"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 12439,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/artificial-gym-grass-track-green-10-2-meters"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-glute-ham-developer-ghd",
@@ -910,7 +990,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/glute-ham-developer-ghd"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 14705,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/glute-ham-developer-ghd"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-roman-rings-abs-material",
@@ -978,7 +1066,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/roman-rings-abs-material"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 524,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/roman-rings-abs-material"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-ab-sling-pro",
@@ -1046,7 +1142,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/ab-sling-pro"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 730,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/ab-sling-pro"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-chins-rack",
@@ -1118,7 +1222,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/standing-chins-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 14325,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/standing-chins-rack"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-belt-squat-belt-s-m-l",
@@ -1188,7 +1300,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/belt-squat-belt-s-m-l"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1889,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/belt-squat-belt-s-m-l"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-ab-roller",
@@ -1256,7 +1376,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/ab-roller"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 380,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/ab-roller"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-core-trainer-adapter-joystick",
@@ -1324,7 +1452,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/core-trainer-adapter-joystick"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1990,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/core-trainer-adapter-joystick"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-half-rack-double-sided",
@@ -1396,7 +1532,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/half-rack-double-sided"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 54259,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/half-rack-double-sided"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-half-rack",
@@ -1468,7 +1612,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/half-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 32479,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/half-rack"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-power-rack",
@@ -1540,7 +1692,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/power-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 17186,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/power-rack"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-squat-rack",
@@ -1610,7 +1770,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/squat-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 14232,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/squat-rack"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-adjustable-bench-press-squat-rack",
@@ -1679,7 +1847,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/bench-press-squat-rack-adjustable"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9073,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/bench-press-squat-rack-adjustable"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-power-rack-cage",
@@ -1751,7 +1927,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/power-rack-cage"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 27749,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/power-rack-cage"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-knee-standing-back-raise",
@@ -1820,7 +2004,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/knee-standing-back-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 14249,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/knee-standing-back-raise"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-back-raise-90-degrees",
@@ -1889,7 +2081,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/back-raise-90-degrees"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 14249,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/back-raise-90-degrees"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-back-raise-45-degrees",
@@ -1958,7 +2158,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/back-raise-45"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 14249,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/back-raise-45"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-back-raise-adjustable-45-90-degrees",
@@ -2027,7 +2235,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/back-raise-adjustable-45-90-degrees"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 16619,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/back-raise-adjustable-45-90-degrees"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-dip-press-stand",
@@ -2096,7 +2312,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/dip-press-stand"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/dip-press-stand"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-calf-raise-block",
@@ -2162,7 +2386,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/calf-raise-block"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2238,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/calf-raise-block"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-sissy-squat",
@@ -2232,7 +2464,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/sissy-squat"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 10314,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/sissy-squat"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-glute-ham-raise",
@@ -2300,7 +2540,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/glute-ham-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 16667,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/glute-ham-raise"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-wall-mounted-pull-up-rack",
@@ -2370,7 +2618,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/110v-wall-mounted-pull-up-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3194,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/110v-wall-mounted-pull-up-rack"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-weight-rack-with-2-barbell-holders",
@@ -2442,7 +2698,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/weight-rack-with-2-barbell-holders"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5194,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/weight-rack-with-2-barbell-holders"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-wall-mounted-weight-rack",
@@ -2514,7 +2778,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/wall-mounted-weight-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4864,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/wall-mounted-weight-rack"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-weight-rack-8-placements",
@@ -2586,7 +2858,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/weight-rack-8-placements"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5901,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/weight-rack-8-placements"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-weight-rack-6-placements",
@@ -2658,7 +2938,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/weight-rack-6-placements"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5383,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/weight-rack-6-placements"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-squat-rack-home-gym",
@@ -2728,7 +3016,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/squat-rack-home-gym"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9245,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/squat-rack-home-gym"
+  }
  },
  {
   "slug": "gymleco-combi-squat-wedges",
@@ -2869,7 +3165,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/010-seated-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 27344,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/010-seated-row"
+  }
  },
  {
   "slug": "gymleco-combi-safety-squat-bar",
@@ -2939,7 +3243,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/safety-squat-bar"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7785,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/safety-squat-bar"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-knee-standing-abdominal",
@@ -3007,7 +3319,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/376-knee-standing-abdominal"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 59727,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/376-knee-standing-abdominal"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-abs-machine",
@@ -3075,7 +3395,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/370-seated-abs-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 48681,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/370-seated-abs-machine"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-scott-curl-bench",
@@ -3143,7 +3471,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/standing-scott-curl-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9931,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/standing-scott-curl-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-scott-curl-bench",
@@ -3211,7 +3547,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/seated-scott-curl-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 10315,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/seated-scott-curl-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-brutal-bench",
@@ -3283,7 +3627,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/brutal-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 12225,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/brutal-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-abdominal-bench-plus",
@@ -3351,7 +3703,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/abdominal-bench-plus"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11984,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/abdominal-bench-plus"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-abdominal-bench",
@@ -3419,7 +3779,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/roman-chair"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9461,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/roman-chair"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-hip-thrust-bench",
@@ -3487,7 +3855,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/hip-thrust-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 14325,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/hip-thrust-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-incline-bench-press",
@@ -3556,7 +3932,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/incline-bench-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 15084,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/incline-bench-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seal-row-bench",
@@ -3627,7 +4011,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/seal-row-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11667,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/seal-row-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-adjustable-decline-bench",
@@ -3696,7 +4088,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/decline-adjustable-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 16429,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/decline-adjustable-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-fixed-decline-bench",
@@ -3765,7 +4165,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/fixed-decline-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11080,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/fixed-decline-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-adjustable-decline-bench-curved",
@@ -3834,7 +4242,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/adjustable-decline-bench-curved"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 15129,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/adjustable-decline-bench-curved"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-adjustable-flat-bench",
@@ -3906,7 +4322,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/adjustable-flat-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7261,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/adjustable-flat-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-fixed-flat-bench",
@@ -3978,7 +4402,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/fixed-flat-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7446,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/fixed-flat-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-fixed-bench-70",
@@ -4050,7 +4482,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/fixed-bench-70"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8021,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/fixed-bench-70"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-adjustable-gym-bench",
@@ -4122,7 +4562,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/adjustable-gym-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11398,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/adjustable-gym-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-abductor",
@@ -4191,7 +4639,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/362-standing-abductor"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58841,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/362-standing-abductor"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seal-row-bench-open-model",
@@ -4262,7 +4718,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/seal-row-bench-open-model"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11667,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/seal-row-bench-open-model"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-gluteus-one-leg-kick",
@@ -4330,7 +4794,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/360-gluteus-one-leg-kick"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 52293,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/360-gluteus-one-leg-kick"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-forearm-curl",
@@ -4398,7 +4870,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/357-forearm-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 31400,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/357-forearm-curl"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-triceps-extension",
@@ -4467,7 +4947,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/351-triceps-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 51955,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/351-triceps-extension"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-biceps-curl-machine",
@@ -4535,7 +5023,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/350-biceps-curl-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 53530,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/350-biceps-curl-machine"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-calf-press-45",
@@ -4601,7 +5097,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/348-seated-calf-press-45"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 51944,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/348-seated-calf-press-45"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-calf-press",
@@ -4667,7 +5171,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/347-standing-calf-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 51045,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/347-standing-calf-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-calf-press",
@@ -4733,7 +5245,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/345-seated-calf-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 55159,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/345-seated-calf-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-competition-combo-rack",
@@ -4805,7 +5325,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/competition-combo-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 46895,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/competition-combo-rack"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-leg-press",
@@ -4875,7 +5403,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/343-seated-leg-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 75106,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/343-seated-leg-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-lying-leg-curl-adjustable",
@@ -4943,7 +5479,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/342r-lying-leg-curl-adjustable"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58118,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/342r-lying-leg-curl-adjustable"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-hip-thrust-soft-bench",
@@ -5011,7 +5555,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/hip-thrust-soft-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1113,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/hip-thrust-soft-bench"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-lying-leg-curl",
@@ -5079,7 +5631,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/342-lying-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 50156,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/342-lying-leg-curl"
+  }
  },
  {
   "slug": "gymleco-combi-abs-lower-back",
@@ -5148,7 +5708,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/965-abs-lower-back"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/965-abs-lower-back"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-split-squat-stand-adjustable-bench",
@@ -5218,7 +5786,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/893-split-squat-stand-adjustable-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5625,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/893-split-squat-stand-adjustable-bench"
+  }
  },
  {
   "slug": "gymleco-combi-abductor-adductor",
@@ -5287,7 +5863,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/964-abductor-adductor"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/964-abductor-adductor"
+  }
  },
  {
   "slug": "gymleco-combi-biceps-triceps",
@@ -5356,7 +5940,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/955-biceps-triceps"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/955-biceps-triceps"
+  }
  },
  {
   "slug": "gymleco-combi-shoulder-lift-dips",
@@ -5426,7 +6018,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/954-shoulder-lift-dips"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/954-shoulder-lift-dips"
+  }
  },
  {
   "slug": "gymleco-combi-leg-extension-leg-curl",
@@ -5492,7 +6092,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/949-leg-extension-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/949-leg-extension-leg-curl"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-leg-curl",
@@ -5560,7 +6168,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/341-seated-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 47782,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/341-seated-leg-curl"
+  }
  },
  {
   "slug": "gymleco-combi-squats-hacklift",
@@ -5629,7 +6245,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/944-squats-hacklift"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/944-squats-hacklift"
+  }
  },
  {
   "slug": "gymleco-combi-pec-deck-rear-deltoid-shoulder",
@@ -5698,7 +6322,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/935-pec-deck-rear-deltoid-shoulder"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/935-pec-deck-rear-deltoid-shoulder"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-hacklift",
@@ -5767,7 +6399,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/244-hacklift"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 47944,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/244-hacklift"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-leg-press-45",
@@ -5837,7 +6477,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/243-leg-press-45"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 50650,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/243-leg-press-45"
+  }
  },
  {
   "slug": "gymleco-combi-chest-press-back",
@@ -5906,7 +6554,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/921-chest-press-back"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/921-chest-press-back"
+  }
  },
  {
   "slug": "gymleco-combi-pulldown-shoulder-press",
@@ -5976,7 +6632,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/911-pulldown-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 999999999,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/911-pulldown-shoulder-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-incline-t-bar-row",
@@ -6047,7 +6711,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/116-incline-t-bar-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 15627,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/116-incline-t-bar-row"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-t-bar-row",
@@ -6118,7 +6790,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/115-t-bar-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11460,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/115-t-bar-row"
+  }
  },
  {
   "slug": "gymleco-combi-cable-cross-adjustable-2-75-kg",
@@ -6190,7 +6870,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/725-cable-cross-adjustable-2x75-kg"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 37945,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/725-cable-cross-adjustable-2x75-kg"
+  }
  },
  {
   "slug": "gymleco-combi-triceps-pushdown",
@@ -6259,7 +6947,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/251-gymleco-triceps-pushdown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 39353,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/251-gymleco-triceps-pushdown"
+  }
  },
  {
   "slug": "gymleco-combi-dual-adjustable-pulley",
@@ -6331,7 +7027,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/226-dual-adjustable-pulley"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 63586,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/226-dual-adjustable-pulley"
+  }
  },
  {
   "slug": "gymleco-combi-half-of-a-cable-cross",
@@ -6403,7 +7107,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/225b-half-of-a-cable-cross"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30190,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/225b-half-of-a-cable-cross"
+  }
  },
  {
   "slug": "gymleco-combi-cable-crossover-multigym",
@@ -6475,7 +7187,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/225-cable-crossover-multi-gym"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 77813,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/225-cable-crossover-multi-gym"
+  }
  },
  {
   "slug": "gymleco-combi-multigym-four-station-with-cable-cross",
@@ -6547,7 +7267,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/215k-multi-gym-four-station-with-cable-cross"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 104258,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/215k-multi-gym-four-station-with-cable-cross"
+  }
  },
  {
   "slug": "gymleco-combi-215dk-multigym-8-station-with-cable-cross",
@@ -6619,7 +7347,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/215dk-multi-gym-8-station-with-cable-cross"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 210383,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/215dk-multi-gym-8-station-with-cable-cross"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-leg-extension-adjustable",
@@ -6685,7 +7421,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/340r-leg-extension-rehab"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58118,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/340r-leg-extension-rehab"
+  }
  },
  {
   "slug": "gymleco-combi-four-station-multi-gym",
@@ -6757,7 +7501,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/215-four-station-multi-gym"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 104258,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/215-four-station-multi-gym"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-leg-extension",
@@ -6823,7 +7575,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/340-leg-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 52405,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/340-leg-extension"
+  }
  },
  {
   "slug": "gymleco-combi-lateral-pulldown-adjustable",
@@ -6891,7 +7651,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/211r-lateral-pulldown-rehab"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 51164,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/211r-lateral-pulldown-rehab"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-deadlift-squat-machine",
@@ -6961,7 +7729,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/083-deadlift-squat-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 34982,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/083-deadlift-squat-machine"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-shoulder-front-press",
@@ -7031,7 +7807,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/336-shoulder-front-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 60929,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/336-shoulder-front-press"
+  }
  },
  {
   "slug": "gymleco-combi-lateral-pulldown",
@@ -7099,7 +7883,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/211-lateral-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 45705,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/211-lateral-pulldown"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-belt-squat-machine",
@@ -7169,7 +7961,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/082-belt-squat-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30704,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/082-belt-squat-machine"
+  }
  },
  {
   "slug": "gymleco-combi-seated-row",
@@ -7240,7 +8040,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/210-seated-row-cable-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 46417,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/210-seated-row-cable-machine"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-ab-roll-up",
@@ -7308,7 +8116,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/072-ab-roll-up"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 18179,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/072-ab-roll-up"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-side-lateral",
@@ -7376,7 +8192,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/334-standing-side-lateral"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 48566,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/334-standing-side-lateral"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-hip-thrust",
@@ -7444,7 +8268,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/066-hip-thrust"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 34982,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/066-hip-thrust"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-reverse-hyper-pendulum",
@@ -7513,7 +8345,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/063-reverse-hyper-pendulum"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 34982,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/063-reverse-hyper-pendulum"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-abductor-plate-loaded",
@@ -7582,7 +8422,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/062-standing-abductor-plate-loaded"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 27344,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/062-standing-abductor-plate-loaded"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-rear-deltoid-shoulder",
@@ -7651,7 +8499,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/333-rear-deltoid-shoulder"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 53946,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/333-rear-deltoid-shoulder"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-shoulder-rotation",
@@ -7721,7 +8577,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/331-shoulder-rotation"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 46767,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/331-shoulder-rotation"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-shoulder-press",
@@ -7791,7 +8655,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/330-shoulder-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 55677,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/330-shoulder-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-reverse-hyper",
@@ -7859,7 +8731,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/061-reverse-hyper"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30400,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/061-reverse-hyper"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-pec-fly",
@@ -7927,7 +8807,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/326-standing-pec-fly"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 52293,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/326-standing-pec-fly"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-pullover",
@@ -7996,7 +8884,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/324-pullover"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 55677,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/324-pullover"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-glute-kickback",
@@ -8064,7 +8960,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/060-glute-kickback"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30400,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/060-glute-kickback"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-pec-deck",
@@ -8132,7 +9036,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/323-seated-pec-deck"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 52405,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/323-seated-pec-deck"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-dip-press",
@@ -8201,7 +9113,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/055-dip-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30400,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/055-dip-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-iso-lateral-triceps",
@@ -8269,7 +9189,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/051-iso-lateral-triceps"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30400,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/051-iso-lateral-triceps"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-wide-chest-press",
@@ -8338,7 +9266,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/321-seated-wide-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 55677,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/321-seated-wide-chest-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-incline-chest-press",
@@ -8407,7 +9343,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/320-incline-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 59057,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/320-incline-chest-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-pendulum-squat",
@@ -8476,7 +9420,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/045-pendulum-squat"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 33000,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/045-pendulum-squat"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-v-squat-plate-loaded",
@@ -8546,7 +9498,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/044-v-squat-plate-loaded"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 33000,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/044-v-squat-plate-loaded"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-hip-press",
@@ -8614,7 +9574,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/043-hip-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 35640,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/043-hip-press"
+  }
  },
  {
   "slug": "gymleco-combi-dual-adjustable-pulley-2-75-kg-home-gym",
@@ -8686,7 +9654,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/726-dual-adjustable-pulley-2x75-kg-home-gym"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30362,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/726-dual-adjustable-pulley-2x75-kg-home-gym"
+  }
  },
  {
   "slug": "gymleco-combi-multihip",
@@ -8754,7 +9730,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/369-multihip-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 59579,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/369-multihip-machine"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-leg-curl-seated",
@@ -8822,7 +9806,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/041-leg-curl-seated"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 30400,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/041-leg-curl-seated"
+  }
  },
  {
   "slug": "gymleco-combi-lumbar-abdominal-with-armrest",
@@ -8891,7 +9883,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/365b-lumbar-abdominal-with-armrest"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58117,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/365b-lumbar-abdominal-with-armrest"
+  }
  },
  {
   "slug": "gymleco-combi-lumbar-abdominal",
@@ -8960,7 +9960,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/365a-lumbar-abdominal"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58117,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/365a-lumbar-abdominal"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-iso-lateral-low-row",
@@ -9028,7 +10036,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/312-iso-lateral-low-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 51787,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/312-iso-lateral-low-row"
+  }
  },
  {
   "slug": "gymleco-combi-adductor-abductor",
@@ -9097,7 +10113,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/364-adductor-abductor"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58117,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/364-adductor-abductor"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-viking-press",
@@ -9167,7 +10191,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/038-viking-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 34068,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/038-viking-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-leg-curl",
@@ -9235,7 +10267,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/042-standing-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 27344,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/042-standing-leg-curl"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-upright-row",
@@ -9306,7 +10346,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/032-upright-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 22608,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/032-upright-row"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-iso-lateral-pulldown",
@@ -9374,7 +10422,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/311-iso-lateral-pulldown"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 55115,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/311-iso-lateral-pulldown"
+  }
  },
  {
   "slug": "gymleco-combi-dips-press-shoulder-pull",
@@ -9444,7 +10500,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/354-dips-press-shoulder-pull"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58117,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/354-dips-press-shoulder-pull"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-standing-chest-press",
@@ -9513,7 +10577,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/028-standing-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 33000,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/028-standing-chest-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-decline-chest-press",
@@ -9582,7 +10654,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/027-decline-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 33000,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/027-decline-chest-press"
+  }
  },
  {
   "slug": "gymleco-combi-rear-deltoid-pec-deck",
@@ -9651,7 +10731,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/335-rear-deltoid-pec-deck"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 60929,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/335-rear-deltoid-pec-deck"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-incline-pec-fly",
@@ -9719,7 +10807,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/023-incline-pec-fly"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 33990,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/023-incline-pec-fly"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-iso-lateral-bench-press-horizontal",
@@ -9787,7 +10883,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/022-iso-lateral-bench-press-horizontal"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 27344,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/022-iso-lateral-bench-press-horizontal"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-seated-chest-press",
@@ -9856,7 +10960,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/021-seated-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 36032,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/021-seated-chest-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-lateral-incline-bench-press",
@@ -9924,7 +11036,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/020-lateral-incline-bench-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 33000,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/020-lateral-incline-bench-press"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-d-y-row",
@@ -9995,7 +11115,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/017-d-y-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 34000,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/017-d-y-row"
+  }
  },
  {
   "slug": "gymleco-combi-biceps-curl-triceps-extension",
@@ -10064,7 +11192,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/255-biceps-curl-triceps-extension"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 46513,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/255-biceps-curl-triceps-extension"
+  }
  },
  {
   "slug": "gymleco-plate-loaded-iso-lateral-high-row",
@@ -10132,7 +11268,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/013-iso-lateral-high-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 34982,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/013-iso-lateral-high-row"
+  }
  },
  {
   "slug": "gymleco-combi-leg-press-hacklift",
@@ -10201,7 +11345,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/245-leg-press-hacklift"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 57250,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/245-leg-press-hacklift"
+  }
  },
  {
   "slug": "gymleco-combi-lateral-pulldown-seated-row",
@@ -10269,7 +11421,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/214-lateral-pulldown-seated-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 58726,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/214-lateral-pulldown-seated-row"
+  }
  },
  {
   "slug": "gymleco-multi-smith-machine",
@@ -10340,7 +11500,15 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/285-multi-smith-machine"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 65144,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/285-multi-smith-machine"
+  }
  },
  {
   "slug": "gymleco-smith-machine-with-counterweight",
@@ -10411,6 +11579,14 @@
     "label": "Gymleco (official store)",
     "url": "https://gymleco.com/products/281-smith-machine-with-counterweight"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 53231,
+   "currency": "SEK",
+   "taxIncluded": 0.25,
+   "condition": "new",
+   "source": "Gymleco (official store)",
+   "url": "https://gymleco.com/products/281-smith-machine-with-counterweight"
+  }
  }
 ]

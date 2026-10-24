@@ -13,7 +13,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-seated-leg-curl"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6000,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-seated-leg-curl"
+  }
  },
  {
   "slug": "prime-evolution-chest-press",
@@ -29,7 +37,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-chest-press"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6600,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-chest-press"
+  }
  },
  {
   "slug": "prime-evolution-lat-pulldown",
@@ -45,7 +61,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-lat-pulldown-diverging"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7200,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-lat-pulldown-diverging"
+  }
  },
  {
   "slug": "prime-evolution-seated-row",
@@ -61,7 +85,15 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/evolution-seated-row"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6950,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/evolution-seated-row"
+  }
  },
  {
   "slug": "prime-pec-fly-rear-delt",
@@ -77,6 +109,14 @@
     "label": "Prime Fitness (official store)",
     "url": "https://www.primefitnessusa.com/products/hybrid-pec-rear-delt"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5900,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Prime Fitness (official store)",
+   "url": "https://www.primefitnessusa.com/products/hybrid-pec-rear-delt"
+  }
  }
 ]

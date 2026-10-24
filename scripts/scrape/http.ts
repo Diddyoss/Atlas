@@ -1,6 +1,7 @@
 import robotsParser from "robots-parser";
 
-export const USER_AGENT = "IronAtlasCatalogueBot/0.1 (+personal, non-commercial equipment comparison; respects robots.txt)";
+export const USER_AGENT =
+  "IronAtlasCatalogueBot/0.1 (+https://github.com/Diddyoss/Atlas; personal, non-commercial equipment comparison; respects robots.txt)";
 const DELAY_MS = 1500;
 /** Static image CDNs serve files, not pages; a lighter delay is plenty */
 const CDN_DELAY_MS = 250;
@@ -66,13 +67,21 @@ export async function politeFetch(raw: string, init: { accept?: string; asset?: 
   const crawlDelay = init.asset ? 0 : ((await robotsFor(url))?.getCrawlDelay(USER_AGENT) ?? 0) * 1000;
   const delay = Math.max(cdn || init.asset ? CDN_DELAY_MS : DELAY_MS, crawlDelay);
 
-  const res = await throttled(url, delay, () =>
-    fetch(url, {
-      headers: { "User-Agent": USER_AGENT, Accept: init.accept ?? "text/html,application/json;q=0.9,*/*;q=0.5" },
-      redirect: "follow",
-      signal: AbortSignal.timeout(30_000),
-    }),
-  );
+  const request = () =>
+    throttled(url, delay, () =>
+      fetch(url, {
+        headers: { "User-Agent": USER_AGENT, Accept: init.accept ?? "text/html,application/json;q=0.9,*/*;q=0.5" },
+        redirect: "follow",
+        signal: AbortSignal.timeout(30_000),
+      }),
+    );
+  let res = await request();
+  // Rate limited: back off as asked (Retry-After) or exponentially, a few times
+  for (let attempt = 1; res.status === 429 && attempt <= 4; attempt++) {
+    const retryAfter = Number(res.headers.get("retry-after"));
+    await sleep((Number.isFinite(retryAfter) && retryAfter > 0 ? retryAfter : 5 * 2 ** attempt) * 1000);
+    res = await request();
+  }
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url.href}`);
   return res;
 }

@@ -68,7 +68,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-5-stack-17001-multi-jungle-gym-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 10799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-5-stack-17001-multi-jungle-gym-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-tricep-press-seated-dip",
@@ -137,7 +145,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-tricep-press-seated-dip-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-tricep-press-seated-dip-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-torso-rotation",
@@ -205,7 +221,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-torso-rotation-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-torso-rotation-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-seated-leg-curl",
@@ -273,7 +297,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-seated-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-seated-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-row",
@@ -344,7 +376,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-row-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-row-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-pulldown",
@@ -414,7 +454,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-pulldown-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-pulldown-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-prone-leg-curl",
@@ -482,7 +530,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-prone-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-prone-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-overhead-shoulder-press",
@@ -552,7 +608,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-overhead-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-overhead-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-leg-press",
@@ -622,7 +686,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-leg-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-lateral-raise",
@@ -690,7 +762,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-lateral-raise-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-lateral-raise-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-lat-pull",
@@ -760,7 +840,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-lat-pull-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-lat-pull-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-glute",
@@ -828,7 +916,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-glute-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-glute-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-pec-fly-rear-delt",
@@ -896,7 +992,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-pec-fly-rear-delt-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-pec-fly-rear-delt-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-leg-extension",
@@ -962,7 +1066,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-dip-chin-assist",
@@ -1032,7 +1144,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-dip-chin-assist-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-dip-chin-assist-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-chest-press",
@@ -1101,7 +1221,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-chest-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-cable-column",
@@ -1173,7 +1301,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-cable-column-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-cable-column-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-standing-calf",
@@ -1239,7 +1375,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-standing-calf-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-standing-calf-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-back-extension",
@@ -1308,7 +1452,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-back-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-back-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-arm-tricep-extension-12080",
@@ -1377,7 +1529,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-arm-tricep-extension-12080-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-arm-tricep-extension-12080-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-hip-adduction-inner-thigh",
@@ -1446,7 +1606,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-hip-adduction-inner-thigh-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-hip-adduction-inner-thigh-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-hip-abduction-outer-thigh",
@@ -1515,7 +1683,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-hip-abduction-outer-thigh-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-hip-abduction-outer-thigh-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-abdominal",
@@ -1583,7 +1759,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-abdominal-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-abdominal-remanufactured"
+  }
  },
  {
   "slug": "cybex-modular-5345-91-assisted-chin-up-dip-assist",
@@ -1652,7 +1836,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-modular-5345-91-assisted-chin-up-dip-assist-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-modular-5345-91-assisted-chin-up-dip-assist-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-strength-vrs-leg-press",
@@ -1722,7 +1914,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-leg-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-strength-vrs-back-extension",
@@ -1791,7 +1991,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-back-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-back-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr-standing-calf",
@@ -1856,7 +2064,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr-standing-calf-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr-standing-calf-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-torso-rotation",
@@ -1924,7 +2140,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-torso-rotation-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-torso-rotation-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-shoulder-press",
@@ -1994,7 +2218,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-rotary-calf",
@@ -2060,7 +2292,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-rotary-calf-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-rotary-calf-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-lateral-raise-4530",
@@ -2128,7 +2368,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-lateral-raise-4530-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-lateral-raise-4530-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-prone-leg-curl",
@@ -2196,7 +2444,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-prone-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-prone-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr-vr2-multi-hip",
@@ -2263,7 +2519,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr-vr2-multi-hip-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr-vr2-multi-hip-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-low-row-rear-delt",
@@ -2332,7 +2596,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-low-row-rear-delt-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-low-row-rear-delt-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-leg-press",
@@ -2402,7 +2674,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-leg-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-leg-extension",
@@ -2468,7 +2748,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-seated-leg-curl",
@@ -2536,7 +2824,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-seated-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-seated-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-lat-pulldown",
@@ -2606,7 +2902,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-lat-pulldown-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-lat-pulldown-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-hip-adduction-inner-thigh-4640",
@@ -2675,7 +2979,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-hip-adduction-inner-thigh-4640-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-hip-adduction-inner-thigh-4640-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-hip-abduction-outer-thigh",
@@ -2744,7 +3056,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-hip-abduction-outer-thigh-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-hip-abduction-outer-thigh-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-glute-machine",
@@ -2812,7 +3132,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-glute-machine-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-glute-machine-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-pec-fly-machine-4545",
@@ -2880,7 +3208,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-pec-fly-machine-4545-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-pec-fly-machine-4545-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-back-extension",
@@ -2949,7 +3285,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-back-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-back-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-tricep-arm-extension",
@@ -3018,7 +3362,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-tricep-arm-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-tricep-arm-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-bicep-arm-curl",
@@ -3086,7 +3438,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-bicep-arm-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-bicep-arm-curl-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr2-ab-crunch",
@@ -3154,7 +3514,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr2-ab-crunch-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr2-ab-crunch-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr1-seated-leg-press",
@@ -3224,7 +3592,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr1-seated-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr1-seated-leg-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr1-dual-purpose-multi-press-13240",
@@ -3293,7 +3669,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-multi-press-13240-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-multi-press-13240-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr1-dual-purpose-leg-ext-seated-leg-curl-13260",
@@ -3359,7 +3743,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-leg-ext-seated-leg-curl-13260-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-leg-ext-seated-leg-curl-13260-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr1-dual-purpose-lat-row-13250",
@@ -3429,7 +3821,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-lat-row-13250-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-purpose-lat-row-13250-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr1-dual-abdominal-back-extension",
@@ -3498,7 +3898,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-abdominal-back-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr1-dual-abdominal-back-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-torso-rotation-11190",
@@ -3566,7 +3974,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-torso-rotation-11190-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-torso-rotation-11190-remanufactured"
+  }
  },
  {
   "slug": "cybex-free-weight-scott-arm-curl-bench",
@@ -3633,7 +4049,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-free-weight-scott-arm-curl-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-free-weight-scott-arm-curl-bench-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-nx-row-20030",
@@ -3704,7 +4128,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-row-20030-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-row-20030-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-row-11030",
@@ -3775,7 +4207,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-row-11030-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-row-11030-remanufactured"
+  }
  },
  {
   "slug": "cybex-leverage-squat-press-plate-loaded-newer-style",
@@ -3844,7 +4284,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-leverage-squat-press-plate-loaded-newer-style-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-leverage-squat-press-plate-loaded-newer-style-remanufactured"
+  }
  },
  {
   "slug": "cybex-plate-loaded-squat-press",
@@ -3914,7 +4362,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-squat-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-squat-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-plate-loaded-smith-press",
@@ -3986,7 +4442,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-plate-loaded-45-degree-leg-press-newer-style",
@@ -4056,7 +4520,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-newer-style-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-newer-style-remanufactured"
+  }
  },
  {
   "slug": "cybex-plate-loaded-45-degree-leg-press",
@@ -4126,7 +4598,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-45-degree-leg-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-overhead-press-11010",
@@ -4196,7 +4676,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-overhead-press-11010-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-overhead-press-11010-remanufactured"
+  }
  },
  {
   "slug": "cybex-mg-500-3-stack-multi-station-gym",
@@ -4267,7 +4755,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-mg-500-3-stack-multi-station-gym-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-mg-500-3-stack-multi-station-gym-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-seated-leg-curl-11061",
@@ -4335,7 +4831,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-seated-leg-curl-11061-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-seated-leg-curl-11061-remanufactured"
+  }
  },
  {
   "slug": "cybex-vkr-leg-raise-chair-dip",
@@ -4403,7 +4907,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vkr-leg-raise-chair-dip-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2049,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vkr-leg-raise-chair-dip-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-prone-leg-curl-11141-w-rld",
@@ -4471,7 +4983,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-prone-leg-curl-11141-w-rld-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-prone-leg-curl-11141-w-rld-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-nx-leg-press-20040",
@@ -4541,7 +5061,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-press-20040-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-press-20040-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-leg-press-11040",
@@ -4611,7 +5139,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-leg-press-11040-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-leg-press-11040-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-lat-pulldown-11130",
@@ -4681,7 +5217,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-lat-pulldown-11130-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-lat-pulldown-11130-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-hip-abduction-adduction-11181",
@@ -4750,7 +5294,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-hip-abduction-adduction-11181-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-hip-abduction-adduction-11181-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-glute-11170",
@@ -4818,7 +5370,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-glute-11170-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-glute-11170-remanufactured"
+  }
  },
  {
   "slug": "cybex-galileo-hip-abduction-adduction",
@@ -4886,7 +5446,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-galileo-hip-abduction-adduction-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-galileo-hip-abduction-adduction-remanufactured"
+  }
  },
  {
   "slug": "cybex-ft-450-bravo-advanced-tall-8810-90-functional-trainer",
@@ -4957,7 +5525,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-ft-450-bravo-advanced-tall-8810-90-functional-trainer-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-ft-450-bravo-advanced-tall-8810-90-functional-trainer-remanufactured"
+  }
  },
  {
   "slug": "cybex-ft-360-functional-trainer",
@@ -5028,7 +5604,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-ft-360-functional-trainer-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-ft-360-functional-trainer-remanufactured"
+  }
  },
  {
   "slug": "cybex-free-standing-dip-chin-assist",
@@ -5097,7 +5681,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-free-standing-dip-chin-assist-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-free-standing-dip-chin-assist-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-pec-fly-rear-delt",
@@ -5165,7 +5757,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-pec-fly-rear-delt-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-pec-fly-rear-delt-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-multi-hip",
@@ -5233,7 +5833,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-multi-hip-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-multi-hip-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-leg-press",
@@ -5303,7 +5911,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-leg-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-back-extension",
@@ -5372,7 +5988,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-back-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-back-extension-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-abdominal-machine",
@@ -5440,7 +6064,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-abdominal-machine-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-abdominal-machine-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-calf-raise-11120",
@@ -5506,7 +6138,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-calf-raise-11120-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-calf-raise-11120-remanufactured"
+  }
  },
  {
   "slug": "cybex-bravo-pro-functional-trainer",
@@ -5577,7 +6217,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-bravo-pro-functional-trainer-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-bravo-pro-functional-trainer-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-back-extension-11101",
@@ -5646,7 +6294,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-back-extension-11101-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-back-extension-11101-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-arm-bicep-curl-11070",
@@ -5714,7 +6370,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-arm-bicep-curl-11070-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-arm-bicep-curl-11070-remanufactured"
+  }
  },
  {
   "slug": "cybex-standing-chin-dip-assist-modular-on-extended-frame",
@@ -5783,7 +6447,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-standing-chin-dip-assist-modular-on-extended-frame-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-standing-chin-dip-assist-modular-on-extended-frame-remanufactured"
+  }
  },
  {
   "slug": "cybex-8-stack-jungle-gym",
@@ -5854,7 +6526,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-8-stack-jungle-gym-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 12099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-8-stack-jungle-gym-remanufactured"
+  }
  },
  {
   "slug": "cybex-7-stack-multi-jungle-gym",
@@ -5925,7 +6605,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-7-stack-multi-jungle-gym-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 10099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-7-stack-multi-jungle-gym-remanufactured"
+  }
  },
  {
   "slug": "cybex-plate-loaded-smith-press-machine-5341",
@@ -5994,7 +6682,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-machine-5341-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-plate-loaded-smith-press-machine-5341-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-45-degree-back-hyperextension",
@@ -6063,7 +6759,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-45-degree-back-hyperextension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2049,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-45-degree-back-hyperextension-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-4100-horizontal-leg-press",
@@ -6133,7 +6837,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-4100-horizontal-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-4100-horizontal-leg-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-total-access-seated-leg-curl-21461",
@@ -6201,7 +6913,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-total-access-seated-leg-curl-21461-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-total-access-seated-leg-curl-21461-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-strength-vrs-standing-calf-raise-21110",
@@ -6267,7 +6987,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-standing-calf-raise-21110-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-standing-calf-raise-21110-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-nx-abdominal-20090",
@@ -6335,7 +7063,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-abdominal-20090-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-abdominal-20090-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-nx-leg-extension-20050-51",
@@ -6401,7 +7137,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-extension-20050-51-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-leg-extension-20050-51-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-leg-raise-chair-16180",
@@ -6469,7 +7213,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-series-leg-raise-chair-16180-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-series-leg-raise-chair-16180-remanufactured"
+  }
  },
  {
   "slug": "cybex-bent-leg-abdominal-board-16171",
@@ -6536,7 +7288,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-16171-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-16171-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr3-bicep-arm-curl-12070",
@@ -6604,7 +7364,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr3-bicep-arm-curl-12070-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr3-bicep-arm-curl-12070-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-lateral-raise-11160",
@@ -6672,7 +7440,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-lateral-raise-11160-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-lateral-raise-11160-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-ab-abdominal-crunch-11090",
@@ -6740,7 +7516,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-ab-abdominal-crunch-11090-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-ab-abdominal-crunch-11090-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-arm-tricep-extension-11080",
@@ -6809,7 +7593,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-arm-tricep-extension-11080-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-arm-tricep-extension-11080-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-incline-pull-11020",
@@ -6878,7 +7670,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-incline-pull-11020-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-incline-pull-11020-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-chest-press-11000",
@@ -6947,7 +7747,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-chest-press-11000-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-chest-press-11000-remanufactured"
+  }
  },
  {
   "slug": "cybex-vr-lat-pulldown",
@@ -7016,7 +7824,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-vr-lat-pulldown-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-vr-lat-pulldown-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-strength-vrs-overhead-press",
@@ -7086,7 +7902,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-overhead-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-overhead-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-prestige-strength-vrs-chest-press",
@@ -7155,7 +7979,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-prestige-strength-vrs-chest-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-eagle-nx-arm-extension-20080",
@@ -7224,7 +8056,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-arm-extension-20080-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-eagle-nx-arm-extension-20080-remanufactured"
+  }
  },
  {
   "slug": "cybex-bent-leg-abdominal-board",
@@ -7291,7 +8131,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-bent-leg-abdominal-board-remanufactured"
+  }
  },
  {
   "slug": "cybex-adjustable-bench-w-0-80-degree-incline",
@@ -7359,7 +8207,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-adjustable-bench-w-0-80-degree-incline-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-adjustable-bench-w-0-80-degree-incline-remanufactured"
+  }
  },
  {
   "slug": "cybex-utility-bench",
@@ -7430,7 +8286,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-utility-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2249,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-utility-bench-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-shoulder-press",
@@ -7500,7 +8364,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-fly-press",
@@ -7568,7 +8440,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-fly-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-fly-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-chest-press",
@@ -7637,7 +8517,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-chest-press-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-bicep-curl",
@@ -7705,7 +8593,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-bicep-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-bicep-curl-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-hip-adduction-inner-thigh",
@@ -7774,7 +8670,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-hip-adduction-inner-thigh-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-hip-adduction-inner-thigh-remanufactured"
+  }
  },
  {
   "slug": "cybex-classic-hip-abduction-outer-thigh",
@@ -7843,6 +8747,14 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/cybex-classic-hip-abduction-outer-thigh-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/cybex-classic-hip-abduction-outer-thigh-remanufactured"
+  }
  }
 ]

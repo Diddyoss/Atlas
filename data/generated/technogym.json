@@ -68,7 +68,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-kinesis-press-station-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-kinesis-press-station-remanufactured"
+  }
  },
  {
   "slug": "technogym-plurima-multistation-twin",
@@ -139,7 +147,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-twin-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-twin-remanufactured"
+  }
  },
  {
   "slug": "technogym-plurima-core-leg-curl-leg-extension",
@@ -204,7 +220,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-plurima-core-leg-curl-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-plurima-core-leg-curl-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "technogym-plurima-multistation-wall",
@@ -275,7 +299,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-wall-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-wall-remanufactured"
+  }
  },
  {
   "slug": "technogym-plurima-multistation-tower",
@@ -346,7 +378,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-tower-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-tower-remanufactured"
+  }
  },
  {
   "slug": "technogym-plurima-multistation-solo-leg-press-calf",
@@ -411,7 +451,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-solo-leg-press-calf-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-plurima-multistation-solo-leg-press-calf-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-upper-back",
@@ -480,7 +528,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-upper-back-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-upper-back-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-total-abdominal",
@@ -548,7 +604,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-total-abdominal-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-total-abdominal-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-leg-press",
@@ -618,7 +682,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-leg-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-shoulder-press",
@@ -688,7 +760,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-rotary-torso-rotation",
@@ -756,7 +836,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-rotary-torso-rotation-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-rotary-torso-rotation-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-rotary-calf",
@@ -822,7 +910,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-rotary-calf-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-rotary-calf-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-pectoral-pec-fly-machine",
@@ -890,7 +986,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-pectoral-pec-fly-machine-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-pectoral-pec-fly-machine-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-lower-back",
@@ -959,7 +1063,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-lower-back-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-lower-back-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-leg-extension",
@@ -1025,7 +1137,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-seated-leg-curl",
@@ -1093,7 +1213,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-seated-leg-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-seated-leg-curl-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-lat-pulldown",
@@ -1163,7 +1291,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-lat-pulldown-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-lat-pulldown-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-glute",
@@ -1231,7 +1367,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-glute-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-glute-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-chin-dip-assist",
@@ -1301,7 +1445,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-chin-dip-assist-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-chin-dip-assist-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-arm-tricep-extension",
@@ -1370,7 +1522,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-arm-tricep-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-arm-tricep-extension-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-arm-curl",
@@ -1438,7 +1598,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-arm-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-arm-curl-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-pulley",
@@ -1510,7 +1678,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-pulley-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-pulley-remanufactured"
+  }
  },
  {
   "slug": "technogym-pure-strength-plate-loaded-shoulder-press",
@@ -1580,7 +1756,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-pure-strength-plate-loaded-row",
@@ -1651,7 +1835,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-row-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-row-remanufactured"
+  }
  },
  {
   "slug": "technogym-pure-strength-plate-loaded-chest-press",
@@ -1720,7 +1912,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-chest-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-pure-strength-plate-loaded-calf-press",
@@ -1786,7 +1986,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-calf-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-plate-loaded-calf-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-med-45-degree-back-hyperextension",
@@ -1855,7 +2063,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-med-45-degree-back-hyperextension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-med-45-degree-back-hyperextension-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-low-row",
@@ -1926,7 +2142,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-low-row-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-low-row-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-leg-press",
@@ -1996,7 +2220,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-leg-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-leg-extension",
@@ -2062,7 +2294,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-shoulder-press",
@@ -2132,7 +2372,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-shoulder-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-shoulder-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-low-row",
@@ -2203,7 +2451,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-low-row-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-low-row-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-lower-back",
@@ -2272,7 +2528,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-lower-back-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-lower-back-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-chest-incline",
@@ -2341,7 +2605,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-chest-incline-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-chest-incline-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-chest-press",
@@ -2410,7 +2682,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-chest-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-chest-press",
@@ -2479,7 +2759,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-chest-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-chest-press-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-arm-curl",
@@ -2547,7 +2835,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-arm-curl-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-arm-curl-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-hip-adduction-inner-thigh",
@@ -2616,7 +2912,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-hip-adduction-inner-thigh-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-hip-adduction-inner-thigh-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-hip-abduction-outer-thigh",
@@ -2685,7 +2989,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-hip-abduction-outer-thigh-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-hip-abduction-outer-thigh-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-abdominal-crunch",
@@ -2753,7 +3065,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-crunch-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-crunch-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-multi-adjustable-bench",
@@ -2825,7 +3145,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-multi-adjustable-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2449,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-multi-adjustable-bench-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-abdominal-decline-bench",
@@ -2894,7 +3222,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-decline-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2449,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-abdominal-decline-bench-remanufactured"
+  }
  },
  {
   "slug": "technogym-selection-radiant-functional-trainer",
@@ -2966,7 +3302,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-selection-radiant-functional-trainer-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-selection-radiant-functional-trainer-remanufactured"
+  }
  },
  {
   "slug": "technogym-kinesis-personal-vision",
@@ -3037,7 +3381,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-kinesis-personal-vision-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-kinesis-personal-vision-remanufactured"
+  }
  },
  {
   "slug": "technogym-k1-kinesis-one",
@@ -3108,7 +3460,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-k1-kinesis-one-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-k1-kinesis-one-remanufactured"
+  }
  },
  {
   "slug": "technogym-kinesis-class-functional-trainer-wall",
@@ -3179,7 +3539,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-kinesis-class-functional-trainer-wall-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 12299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-kinesis-class-functional-trainer-wall-remanufactured"
+  }
  },
  {
   "slug": "technogym-pure-strength-linear-leg-press-plate-loaded",
@@ -3249,7 +3617,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-linear-leg-press-plate-loaded-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-linear-leg-press-plate-loaded-remanufactured"
+  }
  },
  {
   "slug": "technogym-artis-leg-extension",
@@ -3314,7 +3690,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-artis-leg-extension-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-artis-leg-extension-remanufactured"
+  }
  },
  {
   "slug": "technogym-artis-total-abdominal",
@@ -3381,7 +3765,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-artis-total-abdominal-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-artis-total-abdominal-remanufactured"
+  }
  },
  {
   "slug": "technogym-element-abdominal-crunch",
@@ -3449,7 +3841,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-element-abdominal-crunch-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-element-abdominal-crunch-remanufactured"
+  }
  },
  {
   "slug": "technogym-pure-strength-45-degree-back-hyperextension-bench",
@@ -3518,7 +3918,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-45-degree-back-hyperextension-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2799,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-pure-strength-45-degree-back-hyperextension-bench-remanufactured"
+  }
  },
  {
   "slug": "technogym-4-stack-cable-jungle-gym",
@@ -3589,6 +3997,14 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/technogym-4-stack-cable-jungle-gym-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/technogym-4-stack-cable-jungle-gym-remanufactured"
+  }
  }
 ]

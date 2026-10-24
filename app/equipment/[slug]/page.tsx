@@ -13,7 +13,8 @@ import { VoteWidget } from "@/components/VoteWidget";
 import { getCatalogue, getItem } from "@/lib/catalogue";
 import { accessAverage, feelAverage, toCompareEntry } from "@/lib/compare";
 import { MUSCLES } from "@/lib/muscles";
-import { FEEL_LABELS, LOADING_LABELS, MOVEMENT_LABELS, type FeelKey } from "@/lib/types";
+import { formatSgd, PRICE_BASIS, priceInSgd } from "@/lib/pricing";
+import { FEEL_LABELS, LOADING_LABELS, MOVEMENT_LABELS, type CatalogueItem, type FeelKey } from "@/lib/types";
 
 export function generateStaticParams() {
   return getCatalogue().map((i) => ({ slug: i.slug }));
@@ -164,6 +165,10 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
           </dl>
         </Panel>
 
+        <Panel title="Singapore price">
+          <PricePanel item={item} />
+        </Panel>
+
         <Panel title="Community">
           <VoteWidget item={item} />
         </Panel>
@@ -220,6 +225,44 @@ async function Detail({ params }: Pick<PageProps<"/equipment/[slug]">, "params">
         </section>
       )}
     </article>
+  );
+}
+
+function PricePanel({ item }: { item: CatalogueItem }) {
+  const p = priceInSgd(item, item.vintage);
+  const rows: [string, number][] = [
+    [p.basis === "resale" ? "Used machine" : p.basis === "estimate" ? "Machine (estimated)" : "Machine", p.machine],
+    ["Freight, delivery & install", p.freight],
+    ["Distributor margin", p.margin],
+    ["Specialist import premium", p.premium],
+    ["GST 9%", p.gst],
+  ];
+  return (
+    <div>
+      <p className="stencil text-5xl">{formatSgd(p.sgd)}</p>
+      <p className="label mt-1 text-weld">{PRICE_BASIS[p.basis]}</p>
+      <dl className="mt-5 space-y-2 text-sm">
+        {rows
+          .filter(([, v]) => v > 0)
+          .map(([k, v]) => (
+            <div key={k} className="flex justify-between gap-4 border-b border-rivet/60 pb-1">
+              <dt className="text-ash">{k}</dt>
+              <dd className="font-mono">{formatSgd(v)}</dd>
+            </div>
+          ))}
+      </dl>
+      <p className="mt-4 text-xs text-weld">
+        {p.note}.{" "}
+        {item.listPrice && (
+          <a href={item.listPrice.url} target="_blank" rel="noreferrer" className="underline hover:text-chalk">
+            Listing ↗
+          </a>
+        )}
+      </p>
+      <Link href={`/build?add=${item.slug}`} className="label mt-5 inline-block border border-chalk px-4 py-2 hover:bg-chalk hover:text-ink">
+        + Add to my gym build
+      </Link>
+    </div>
   );
 }
 

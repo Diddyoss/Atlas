@@ -3,4 +3,5 @@ export const LINKS = [
   { href: "/brands", label: "Brands" },
   { href: "/vintage", label: "Vintage" },
   { href: "/compare", label: "Compare" },
+  { href: "/build", label: "Build" },
 ];

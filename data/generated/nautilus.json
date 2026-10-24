@@ -8502,7 +8502,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l3140-incline-row-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1519,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l3140-incline-row-new"
+  }
  },
  {
   "slug": "nautilus-plate-loaded-standing-calf",
@@ -8568,7 +8576,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1112-standing-calf-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1112-standing-calf-new"
+  }
  },
  {
   "slug": "nautilus-leverage-chest-press-2",
@@ -8636,7 +8652,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-chest-press-9np3-l2002-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-chest-press-9np3-l2002-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-plate-loaded-tilt-seat-calf",
@@ -8702,7 +8726,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1110-tilt-seat-calf-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1519,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1110-tilt-seat-calf-new"
+  }
  },
  {
   "slug": "nautilus-plate-loaded-belt-squat",
@@ -8772,7 +8804,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1132-belt-squat-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1132-belt-squat-new"
+  }
  },
  {
   "slug": "nautilus-plate-loaded-angled-leg-press",
@@ -8842,7 +8882,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1141-angled-leg-press-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4469,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-9np-l1141-angled-leg-press-new"
+  }
  },
  {
   "slug": "nautilus-multi-stations-cable-cross-over",
@@ -8913,7 +8961,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-multi-stations-9np-m9201-cable-cross-over-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8389,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-multi-stations-9np-m9201-cable-cross-over-new"
+  }
  },
  {
   "slug": "nautilus-impact-prone-leg-curl",
@@ -8981,7 +9037,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-impact-prone-leg-curl-9na-s1301-60ags-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-impact-prone-leg-curl-9na-s1301-60ags-new"
+  }
  },
  {
   "slug": "nautilus-inspiration-shoulder-press-machine",
@@ -9051,7 +9115,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-shoulder-press-machine-9-ipsp5-60bz-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-shoulder-press-machine-9-ipsp5-60bz-new"
+  }
  },
  {
   "slug": "nautilus-inspiration-pull-over-pullover",
@@ -9120,7 +9192,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-pull-over-9-ippo5-60bz-pullover-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-pull-over-9-ippo5-60bz-pullover-new"
+  }
  },
  {
   "slug": "nautilus-humansport-total-legs-2",
@@ -9191,7 +9271,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-humansport-total-legs-9-hstl3-60aae-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-humansport-total-legs-9-hstl3-60aae-new"
+  }
  },
  {
   "slug": "nautilus-humansport-total-delts-2",
@@ -9262,7 +9350,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-humansport-total-delts-9-hstd3-60bze-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-humansport-total-delts-9-hstd3-60bze-new"
+  }
  },
  {
   "slug": "nautilus-humansport-shoulder-chest-2",
@@ -9331,7 +9427,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-humansport-shoulder-chest-9-hssc3-60bze-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-humansport-shoulder-chest-9-hssc3-60bze-new"
+  }
  },
  {
   "slug": "nautilus-humansport-pull-lift-2",
@@ -9402,7 +9506,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-humansport-pull-lift-9-hspl3-60aae-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-humansport-pull-lift-9-hspl3-60aae-new"
+  }
  },
  {
   "slug": "nautilus-humansport-lat-pulley-2",
@@ -9471,7 +9583,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-humansport-lat-pulley-9-hslp3-60bze-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-humansport-lat-pulley-9-hslp3-60bze-new"
+  }
  },
  {
   "slug": "nautilus-humansport-freedom-trainer-2",
@@ -9542,7 +9662,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-humansport-freedom-trainer-9-hsft3-60aae-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-humansport-freedom-trainer-9-hsft3-60aae-new"
+  }
  },
  {
   "slug": "nautilus-humansport-arm-crunch-2",
@@ -9609,7 +9737,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-humansport-arm-crunch-9-hsac3-60bze-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-humansport-arm-crunch-9-hsac3-60bze-new"
+  }
  },
  {
   "slug": "nautilus-nitro-gravitron-weight-assisted-chin-dip",
@@ -9679,7 +9815,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-nitro-gravitron-weight-assisted-chin-dip-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-nitro-gravitron-weight-assisted-chin-dip-remanufactured"
+  }
  },
  {
   "slug": "nautilus-nitro-f2ft-freedom-trainer",
@@ -9751,7 +9895,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-nitro-f2ft-freedom-trainer-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-nitro-f2ft-freedom-trainer-remanufactured"
+  }
  },
  {
   "slug": "nautilus-one-tricep-press-s6tp250-1",
@@ -9820,7 +9972,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-one-tricep-press-s6tp250-1-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-one-tricep-press-s6tp250-1-new"
+  }
  },
  {
   "slug": "nautilus-one-rotary-torso-s6rt250-1",
@@ -9888,7 +10048,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-one-rotary-torso-s6rt250-1-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-one-rotary-torso-s6rt250-1-new"
+  }
  },
  {
   "slug": "nautilus-one-leg-extension-s6le250-1",
@@ -9954,7 +10122,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-one-leg-extension-s6le250-1-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-one-leg-extension-s6le250-1-new"
+  }
  },
  {
   "slug": "nautilus-one-lat-pulldown-s6latp250-1",
@@ -10024,7 +10200,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-one-lat-pulldown-s6latp250-1-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-one-lat-pulldown-s6latp250-1-new"
+  }
  },
  {
   "slug": "nautilus-one-bicep-curl-s6bc250-1",
@@ -10092,7 +10276,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-one-bicep-curl-s6bc250-1-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-one-bicep-curl-s6bc250-1-new"
+  }
  },
  {
   "slug": "nautilus-one-hip-abduction-adduction-s6aa250-1",
@@ -10161,7 +10353,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-one-hip-abduction-adduction-s6aa250-1-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-one-hip-abduction-adduction-s6aa250-1-new"
+  }
  },
  {
   "slug": "nautilus-freedom-rack-np-l8507",
@@ -10232,7 +10432,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-freedom-rack-np-l8507-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-freedom-rack-np-l8507-new"
+  }
  },
  {
   "slug": "nautilus-inspiration-dual-adjustable-pulley-np-d9302",
@@ -10304,7 +10512,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-dual-adjustable-pulley-np-d9302-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7889,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-dual-adjustable-pulley-np-d9302-new"
+  }
  },
  {
   "slug": "nautilus-inspiration-deltoid-raise-ipdr3-60bz",
@@ -10372,7 +10588,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-deltoid-raise-ipdr3-60bz-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-deltoid-raise-ipdr3-60bz-new"
+  }
  },
  {
   "slug": "nautilus-leverage-abdominal-crunch-2",
@@ -10439,7 +10663,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-abdominal-crunch-9np-l5003-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-abdominal-crunch-9np-l5003-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-leverage-biceps-curl-2",
@@ -10506,7 +10738,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-biceps-curl-9np-l5002-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-biceps-curl-9np-l5002-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-leverage-shoulder-press-2",
@@ -10575,7 +10815,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-shoulder-press-9np-l4002-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-shoulder-press-9np-l4002-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-leverage-deadlift-shrug-2",
@@ -10645,7 +10893,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-deadlift-shrug-9np-l3006-60aas-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4118,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-deadlift-shrug-9np-l3006-60aas-new"
+  }
  },
  {
   "slug": "nautilus-leverage-high-row-2",
@@ -10715,7 +10971,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-high-row-9np-l3005-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-high-row-9np-l3005-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-leverage-low-row-2",
@@ -10785,7 +11049,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-low-row-9np-l3004-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-low-row-9np-l3004-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-leverage-lat-pull-down-2",
@@ -10854,7 +11126,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-lat-pull-down-9np-l3003-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-lat-pull-down-9np-l3003-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-leverage-decline-press-2",
@@ -10922,7 +11202,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-leverage-decline-press-9np-l2004-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-leverage-decline-press-9np-l2004-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-plate-loaded-glute-drive",
@@ -10990,7 +11278,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-glute-drive-9np-l1131-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4319,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-glute-drive-9np-l1131-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-plate-loaded-hack-squat",
@@ -11059,7 +11355,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-hack-squat-9np-l1130-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4319,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-plate-loaded-hack-squat-9np-l1130-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-inspiration-multi-adjustable-bench",
@@ -11131,7 +11435,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-multi-adjustable-bench-9np-b7506-60bzs-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1699,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-inspiration-multi-adjustable-bench-9np-b7506-60bzs-new"
+  }
  },
  {
   "slug": "nautilus-instinct-multi-adjustable-bench-100",
@@ -11203,7 +11515,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-instinct-multi-adjustable-bench-100-9nn-b7506-60ars-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-instinct-multi-adjustable-bench-100-9nn-b7506-60ars-new"
+  }
  },
  {
   "slug": "nautilus-instinct-45-degree-back-extension",
@@ -11272,7 +11592,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-instinct-45-degree-back-extension-9nn-b7502-60ars-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1249,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-instinct-45-degree-back-extension-9nn-b7502-60ars-new"
+  }
  },
  {
   "slug": "nautilus-instinct-triceps-extension",
@@ -11341,7 +11669,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-instinct-triceps-extension-9nl-s5110-60ars-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-instinct-triceps-extension-9nl-s5110-60ars-new"
+  }
  },
  {
   "slug": "nautilus-impact-lat-pull-down",
@@ -11411,6 +11747,14 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/nautilus-impact-lat-pull-down-9na-s3305-60ags-new"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "new",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/nautilus-impact-lat-pull-down-9na-s3305-60ags-new"
+  }
  }
 ]

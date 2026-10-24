@@ -68,7 +68,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-11-power-rack"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3750,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-11-power-rack"
+  }
  },
  {
   "slug": "arsenal-alpha-flat-bench",
@@ -139,7 +147,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-flat-bench"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 500,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-arsenal-strength-alpha-flat-bench"
+  }
  },
  {
   "slug": "arsenal-m1-standing-calf-raise",
@@ -204,7 +220,15 @@
     "label": "Global Fitness (dealer listing)",
     "url": "https://www.globalfitness.com/products/used-arsenal-strength-m1-standing-calf-raise"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4775,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Global Fitness (dealer listing)",
+   "url": "https://www.globalfitness.com/products/used-arsenal-strength-m1-standing-calf-raise"
+  }
  },
  {
   "slug": "arsenal-alpha-flat-bench-2",
@@ -276,7 +300,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-flat-bench/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 899,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-flat-bench/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-standing-lateral-raise",
@@ -344,7 +376,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-lateral-raise/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-lateral-raise/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-standing-leg-curl",
@@ -412,7 +452,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-leg-curl/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-leg-curl/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-standing-calf-raise",
@@ -478,7 +526,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-calf-raise/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-standing-calf-raise/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-overhead-tricep-extension",
@@ -547,7 +603,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-overhead-tricep-extension/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-overhead-tricep-extension/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-lying-leg-curl",
@@ -615,7 +679,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-lying-leg-curl/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-lying-leg-curl/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-leg-extension",
@@ -681,7 +753,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-leg-extension/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-leg-extension/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-inner-outer-thigh",
@@ -750,7 +830,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-inner-outer-thigh/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-inner-outer-thigh/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-glute-isolator",
@@ -818,7 +906,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-glute-isolator/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-glute-isolator/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-functional-trainer",
@@ -890,7 +986,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-functional-trainer/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 10499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-functional-trainer/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-pec-fly-rear-delt",
@@ -958,7 +1062,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-pec-fly-rear-delt/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-pec-fly-rear-delt/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-donkey-calf-raise",
@@ -1024,7 +1136,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-donkey-calf-raise/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-donkey-calf-raise/"
+  }
  },
  {
   "slug": "arsenal-m1-selectorized-bicep-curl",
@@ -1092,7 +1212,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-bicep-curl/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-m1-selectorized-bicep-curl/"
+  }
  },
  {
   "slug": "arsenal-reloaded-vertical-row",
@@ -1163,7 +1291,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-row/"
+  }
  },
  {
   "slug": "arsenal-reloaded-viking-press",
@@ -1233,7 +1369,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-viking-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-viking-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-vertical-leg-press",
@@ -1303,7 +1447,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-leg-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-leg-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-vertical-chest-press",
@@ -1372,7 +1524,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-chest-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-vertical-chest-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-tricep-kickback-dip",
@@ -1440,7 +1600,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-tricep-kickback-dip/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-tricep-kickback-dip/"
+  }
  },
  {
   "slug": "arsenal-reloaded-t-bar-row",
@@ -1511,7 +1679,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-t-bar-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-t-bar-row/"
+  }
  },
  {
   "slug": "arsenal-reloaded-iso-conv-shoulder-press",
@@ -1581,7 +1757,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-conv-shoulder-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-conv-shoulder-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-standing-chest-press",
@@ -1650,7 +1834,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-standing-chest-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-standing-chest-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-seated-calf-raise",
@@ -1716,7 +1908,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-seated-calf-raise/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-seated-calf-raise/"
+  }
  },
  {
   "slug": "arsenal-reloaded-power-squat",
@@ -1786,7 +1986,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-power-squat/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-power-squat/"
+  }
  },
  {
   "slug": "arsenal-reloaded-iso-multi-row",
@@ -1857,7 +2065,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-multi-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-multi-row/"
+  }
  },
  {
   "slug": "arsenal-reloaded-lever-row",
@@ -1928,7 +2144,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-lever-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-lever-row/"
+  }
  },
  {
   "slug": "arsenal-reloaded-linear-leg-press",
@@ -1998,7 +2222,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-leg-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-leg-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-leg-extension-seated-leg-curl",
@@ -2064,7 +2296,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-leg-extension-seated-leg-curl/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-leg-extension-seated-leg-curl/"
+  }
  },
  {
   "slug": "arsenal-reloaded-iso-lat-pulldown",
@@ -2134,7 +2374,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-lat-pulldown/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-lat-pulldown/"
+  }
  },
  {
   "slug": "arsenal-reloaded-iso-incline-press",
@@ -2203,7 +2451,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-incline-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4699,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-incline-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-glute-bridge",
@@ -2271,7 +2527,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-glute-bridge/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-glute-bridge/"
+  }
  },
  {
   "slug": "arsenal-reloaded-incline-fly",
@@ -2339,7 +2603,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-incline-fly/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-incline-fly/"
+  }
  },
  {
   "slug": "arsenal-reloaded-multi-flex",
@@ -2411,7 +2683,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-flex/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-flex/"
+  }
  },
  {
   "slug": "arsenal-reloaded-iso-flat-press",
@@ -2480,7 +2760,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-flat-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-iso-flat-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-bilateral-leg-press",
@@ -2550,7 +2838,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-bilateral-leg-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 12999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-bilateral-leg-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-belt-squat",
@@ -2620,7 +2916,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-reloaded-belt-squat/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-reloaded-belt-squat/"
+  }
  },
  {
   "slug": "arsenal-reloaded-posterior-chain-developer",
@@ -2689,7 +2993,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-reloaded-posterior-chain-developer/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-reloaded-posterior-chain-developer/"
+  }
  },
  {
   "slug": "arsenal-alpha-7-power-rack",
@@ -2761,7 +3073,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-power-rack/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-power-rack/"
+  }
  },
  {
   "slug": "arsenal-alpha-7-half-rack",
@@ -2833,7 +3153,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-half-rack/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-7-half-rack/"
+  }
  },
  {
   "slug": "arsenal-alpha-11-power-rack-2",
@@ -2905,7 +3233,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-power-rack/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-power-rack/"
+  }
  },
  {
   "slug": "arsenal-alpha-11-half-rack",
@@ -2977,7 +3313,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-half-rack/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 6999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-11-half-rack/"
+  }
  },
  {
   "slug": "arsenal-alpha-vertical-knee-raise-dip-station",
@@ -3046,7 +3390,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-vertical-knee-raise-dip-station/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-vertical-knee-raise-dip-station/"
+  }
  },
  {
   "slug": "arsenal-alpha-upright-utility-bench",
@@ -3118,7 +3470,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-upright-utility-bench/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1599,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-upright-utility-bench/"
+  }
  },
  {
   "slug": "arsenal-alpha-standing-preacher-curl-bench",
@@ -3186,7 +3546,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-standing-preacher-curl-bench/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-standing-preacher-curl-bench/"
+  }
  },
  {
   "slug": "arsenal-alpha-smith-machine-0-or-7-degree",
@@ -3258,7 +3626,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-smith-machine-0-or-7-degree/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 8299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-smith-machine-0-or-7-degree/"
+  }
  },
  {
   "slug": "arsenal-alpha-sissy-squat-stand",
@@ -3328,7 +3704,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-sissy-squat-stand/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1199,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-sissy-squat-stand/"
+  }
  },
  {
   "slug": "arsenal-alpha-olympic-military-bench-w-breaker-arms",
@@ -3398,7 +3782,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-military-bench-w-breaker-arms/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-military-bench-w-breaker-arms/"
+  }
  },
  {
   "slug": "arsenal-alpha-olympic-flat-bench",
@@ -3470,7 +3862,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-flat-bench/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3099,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-flat-bench/"
+  }
  },
  {
   "slug": "arsenal-alpha-olympic-decline-bench",
@@ -3539,7 +3939,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-decline-bench/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3699,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-olympic-decline-bench/"
+  }
  },
  {
   "slug": "arsenal-alpha-multi-adjustable-bench-ladder-style",
@@ -3611,7 +4019,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-multi-adjustable-bench-ladder-style/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-multi-adjustable-bench-ladder-style/"
+  }
  },
  {
   "slug": "arsenal-alpha-glute-ham-developer",
@@ -3679,7 +4095,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-glute-ham-developer/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-glute-ham-developer/"
+  }
  },
  {
   "slug": "arsenal-alpha-competition-flat-bench-w-face-savers",
@@ -3751,7 +4175,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-competition-flat-bench-w-face-savers/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-competition-flat-bench-w-face-savers/"
+  }
  },
  {
   "slug": "arsenal-alpha-combo-rack",
@@ -3823,7 +4255,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-combo-rack/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 10199,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-combo-rack/"
+  }
  },
  {
   "slug": "arsenal-alpha-adjustable-lumbar-incline-bench",
@@ -3892,7 +4332,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-lumbar-incline-bench/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-lumbar-incline-bench/"
+  }
  },
  {
   "slug": "arsenal-alpha-adjustable-decline-bench",
@@ -3961,7 +4409,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-decline-bench/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-adjustable-decline-bench/"
+  }
  },
  {
   "slug": "arsenal-alpha-45-degree-back-extension",
@@ -4030,7 +4486,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-45-degree-back-extension/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 2499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-alpha-series-alpha-45-degree-back-extension/"
+  }
  },
  {
   "slug": "arsenal-reloaded-linear-smith-shoulder-press-arsenal-strength-reloaded",
@@ -4100,7 +4564,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-shoulder-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-shoulder-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-multi-grip-pulldown-high-row-arsenal-strength-reloade",
@@ -4170,7 +4642,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-grip-pulldown-high-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-multi-grip-pulldown-high-row/"
+  }
  },
  {
   "slug": "arsenal-reloaded-linear-smith-row-arsenal-strength-reloaded-linear-smi",
@@ -4241,7 +4721,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-linear-smith-row/"
+  }
  },
  {
   "slug": "arsenal-reloaded-horizontal-leg-press-arsenal-strength-reloaded-horizo",
@@ -4311,7 +4799,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-horizontal-leg-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-horizontal-leg-press/"
+  }
  },
  {
   "slug": "arsenal-reloaded-hip-hack-press-arsenal-strength-reloaded-hip-hack-pre",
@@ -4380,7 +4876,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-hip-hack-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 11499,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-reloaded-hip-hack-press/"
+  }
  },
  {
   "slug": "arsenal-forgex-pivot-leg-press-arsenal-strength-forgex-pivot-leg-press",
@@ -4450,7 +4954,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-forgex-pivot-leg-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9999,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-forgex-pivot-leg-press/"
+  }
  },
  {
   "slug": "arsenal-forgex-lying-leg-curl-arsenal-strength-forgex-lying-leg-curl",
@@ -4518,7 +5030,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-forgex-lying-leg-curl/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7099,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-forgex-lying-leg-curl/"
+  }
  },
  {
   "slug": "arsenal-forgex-leg-extension-arsenal-strength-forgex-leg-extension",
@@ -4584,7 +5104,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-strength-forgex-leg-extension/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7099,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-strength-forgex-leg-extension/"
+  }
  },
  {
   "slug": "arsenal-forgex-shoulder-press",
@@ -4653,7 +5181,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-shoulder-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-shoulder-press/"
+  }
  },
  {
   "slug": "arsenal-forgex-seated-iso-bicep-curl",
@@ -4720,7 +5256,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-seated-iso-bicep-curl/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-seated-iso-bicep-curl/"
+  }
  },
  {
   "slug": "arsenal-forgex-seated-tricep-extension",
@@ -4788,7 +5332,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-seated-tricep-extension/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-seated-tricep-extension/"
+  }
  },
  {
   "slug": "arsenal-forgex-scorpion-high-row",
@@ -4858,7 +5410,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-scorpion-high-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-scorpion-high-row/"
+  }
  },
  {
   "slug": "arsenal-forgex-seated-row",
@@ -4928,7 +5488,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-seated-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-seated-row/"
+  }
  },
  {
   "slug": "arsenal-forgex-diverging-row",
@@ -4998,7 +5566,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-diverging-row/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-diverging-row/"
+  }
  },
  {
   "slug": "arsenal-forex-wide-chest-press",
@@ -5066,7 +5642,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forex-wide-chest-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forex-wide-chest-press/"
+  }
  },
  {
   "slug": "arsenal-forgex-upright-decline-fly",
@@ -5133,7 +5717,15 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-upright-decline-fly/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 7299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-upright-decline-fly/"
+  }
  },
  {
   "slug": "arsenal-forgex-converging-chest-press",
@@ -5201,6 +5793,14 @@
     "label": "Performaxx (Arsenal Strength distributor)",
     "url": "https://performaxx.com.au/product/arsenal-forgex-converging-chest-press/"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 9299,
+   "currency": "AUD",
+   "taxIncluded": 0.1,
+   "condition": "new",
+   "source": "Performaxx (Arsenal Strength distributor)",
+   "url": "https://performaxx.com.au/product/arsenal-forgex-converging-chest-press/"
+  }
  }
 ]

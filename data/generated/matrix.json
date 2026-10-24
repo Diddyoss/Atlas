@@ -63,7 +63,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-versa-vs-s70-leg-press-calf-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-versa-vs-s70-leg-press-calf-press-remanufactured"
+  }
  },
  {
   "slug": "matrix-ultra-g7-s70-leg-press",
@@ -133,7 +141,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-ultra-g7-s70-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-ultra-g7-s70-leg-press-remanufactured"
+  }
  },
  {
   "slug": "matrix-g7-s55b-ultra-base-rotary-torso",
@@ -200,7 +216,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-g7-s55b-ultra-base-rotary-torso-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3899,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-g7-s55b-ultra-base-rotary-torso-remanufactured"
+  }
  },
  {
   "slug": "matrix-g3-s70-aura-leg-press",
@@ -269,7 +293,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-g3-s70-aura-leg-press-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4399,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-g3-s70-aura-leg-press-remanufactured"
+  }
  },
  {
   "slug": "matrix-g3-aura-g3-s60-dip-chin-assist",
@@ -338,7 +370,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s60-dip-chin-assist-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4199,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s60-dip-chin-assist-remanufactured"
+  }
  },
  {
   "slug": "matrix-g3-aura-g3-s22-rear-delt-pec-fly",
@@ -405,7 +445,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s22-rear-delt-pec-fly-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3999,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-g3-aura-g3-s22-rear-delt-pec-fly-remanufactured"
+  }
  },
  {
   "slug": "matrix-functional-trainer-g3-msft300-400",
@@ -476,7 +524,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-functional-trainer-g3-msft300-400-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 5499,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-functional-trainer-g3-msft300-400-remanufactured"
+  }
  },
  {
   "slug": "matrix-magnum-mg-a85-multi-adjustable-bench",
@@ -548,7 +604,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-magnum-mg-a85-multi-adjustable-bench-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 1949,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-magnum-mg-a85-multi-adjustable-bench-remanufactured"
+  }
  },
  {
   "slug": "matrix-g7-s51-abdominal-crunch",
@@ -615,7 +679,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-g7-s51-abdominal-crunch-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-g7-s51-abdominal-crunch-remanufactured"
+  }
  },
  {
   "slug": "matrix-g3-s76-aura-rotary-hip",
@@ -682,7 +754,15 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-g3-s76-aura-rotary-hip-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 4099,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-g3-s76-aura-rotary-hip-remanufactured"
+  }
  },
  {
   "slug": "matrix-abdominal-crunch",
@@ -749,6 +829,14 @@
     "label": "Fitness Superstore (remanufactured listing)",
     "url": "https://fitnesssuperstore.com/products/matrix-abdominal-crunch-remanufactured"
    }
-  ]
+  ],
+  "listPrice": {
+   "amount": 3599,
+   "currency": "USD",
+   "taxIncluded": 0,
+   "condition": "used",
+   "source": "Fitness Superstore (remanufactured listing)",
+   "url": "https://fitnesssuperstore.com/products/matrix-abdominal-crunch-remanufactured"
+  }
  }
 ]

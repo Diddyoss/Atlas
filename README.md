@@ -15,6 +15,22 @@ A dark, black-and-white, industrial compendium for comparing strength equipment,
   - community favorites and ratings
   - specs
   - best-in-row markers, an *only differences* toggle, and a share link
+- **Build your gym** (`/build`): pick a fictional budget (S$40k garage to S$1M flagship, or custom) and fill a gym floor. The live score (0–100, graded S–D) is built from seven categories:
+  - muscle coverage (30)
+  - balance (15)
+  - variety (15)
+  - build & feel (15)
+  - resistance profiles (10)
+  - budget use (10)
+  - accessibility (5)
+
+  Piling up one movement pattern costs points. The score card gives tips and suggests best-value additions. Builds are saved in your browser and shareable by link.
+- **Singapore prices** on every machine (`lib/pricing.ts`):
+  - Listed and used-dealer prices are converted to SGD at approximate rates, with foreign sales tax removed.
+  - Landed cost adds freight by origin, an 18% distributor margin on new machines and 9% GST.
+  - Specialist North American imports (Prime, Atlantis, Arsenal, Nautilus) carry a 20–25% premium.
+  - Machines without a published price get an estimate from their type and brand tier; discontinued ones use a used-market estimate.
+  - Every price is labelled listed, used or estimated, and machine pages show the breakdown.
 - **Machine pages**: the resistance profile (including Prime's adjustable SmartCam settings), muscles worked, feel and accessibility scores, pros/cons, sources, and voting.
 - **Motion everywhere.** Shutter page transitions, stencil text reveals, self-drawing curves, spring-loaded compare tray, brand marquee, scroll reveals. All of it respects `prefers-reduced-motion`.
 
@@ -68,7 +84,7 @@ How it works:
 - **Everything else** becomes an **estimated** entry. Its curve, muscles and scores come from the movement template (`data/templates.ts`) with small brand nudges. It is labelled "Estimated" in the UI and can be hidden with the *Hand-reviewed only* filter.
 - **Politeness.** Requests honour robots.txt and crawl delays, identify the bot, and are queued per host.
 
-Machines without a reachable photo (most MedX, Bodymasters, Nebula, Universal and Flex models) show a blueprint-style schematic. `npm run scrape -- --brand <slug> --fallback-only` retries the dealer pages cited on curated machines.
+Machines without a photo of their own get an openly licensed Wikimedia Commons photo of the same kind of machine. This covers most MedX, Bodymasters, Nebula, Universal and Flex models. Run `npm run stock` to pick these; they are tagged "Similar machine" and credited to their authors. `npm run scrape -- --brand <slug> --fallback-only` retries the dealer pages cited on curated machines.
 
 Every photo is credited with a link to its source page. **Product photos belong to their owners.** They are included here for a personal, non-commercial comparison project.
 
