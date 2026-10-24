@@ -9,7 +9,8 @@
     "lint": "eslint",
     "test": "vitest run",
     "typecheck": "next typegen && tsc --noEmit",
-    "scrape:images": "node scripts/scrape-images.mjs"
+    "scrape:images": "node scripts/scrape-images.mjs",
+    "build:artifact": "next build && node spa/build.mjs"
   },
   "dependencies": {
     "next": "16.4.3",
@@ -21,6 +22,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "esbuild": "^0.25.10",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
     "tailwindcss": "^4",

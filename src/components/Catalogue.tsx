@@ -44,6 +44,12 @@ export function Catalogue({ fixedEra }: { fixedEra?: Era }) {
     return fixedEra ? { ...parsed, era: fixedEra } : parsed;
   }, [params, fixedEra]);
   const [q, setQ] = useState(f.q);
+  // Keep the box in step when the URL's query changes underneath us (nav links, back button).
+  const [urlQ, setUrlQ] = useState(f.q);
+  if (f.q !== urlQ) {
+    setUrlQ(f.q);
+    setQ(f.q);
+  }
   const [showFilters, setShowFilters] = useState(false);
 
   const update = (patch: Partial<Filters>) => {
