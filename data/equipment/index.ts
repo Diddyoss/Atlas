@@ -9,6 +9,7 @@ import nautilus from "./nautilus";
 import { arsenal, gym80, matrix, technogym, hoist, rogue, eleiko } from "./others";
 import { flex, cybex, medx, icarian, bodymasters, nebula, universal } from "./vintage";
 import xmaster from "./xmaster";
+import { cableLines } from "./cable-lines";
 
 export const curated = [
   ...hammer,
@@ -27,6 +28,7 @@ export const curated = [
   ...rogue,
   ...eleiko,
   ...xmaster,
+  ...cableLines,
   ...flex,
   ...cybex,
   ...medx,

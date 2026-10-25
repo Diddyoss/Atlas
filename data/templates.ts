@@ -227,6 +227,22 @@ export const MOVEMENT_TEMPLATES: Record<Movement, Template> = {
     feel: [7, 8, 5, 5, 7, 8],
     access: [8, 8, 8],
   },
+  "functional-trainer": {
+    primary: ["chest", "side-delts", "triceps", "biceps"],
+    secondary: ["lats", "upper-back", "rear-delts", "glutes", "abs", "obliques"],
+    curve: { default: CURVES.flat },
+    notes: "Two adjustable pulleys: near-constant cable tension, with the effective curve set by your angle to the line of pull.",
+    feel: [8, 6, 8, 9, 8, 7],
+    access: [8, 8, 8],
+  },
+  "cable-crossover": {
+    primary: ["chest", "side-delts", "triceps"],
+    secondary: ["biceps", "lats", "upper-back", "rear-delts", "abs"],
+    curve: { default: CURVES.flat },
+    notes: "Cable column or crossover: near-constant tension, with the effective curve set by pulley height and your angle to the cable.",
+    feel: [8, 6, 8, 9, 7, 7],
+    access: [8, 7, 8],
+  },
   multi: {
     primary: ["chest", "lats", "quads"],
     secondary: ["front-delts", "triceps", "biceps"],

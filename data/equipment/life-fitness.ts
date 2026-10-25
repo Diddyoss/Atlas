@@ -87,7 +87,7 @@ export default brandItems("life-fitness", [
     series: "Signature",
     aliases: ["cable crossover", "functional trainer", "dap"],
     loading: "cable",
-    movement: "multi",
+    movement: "functional-trainer",
     primary: ["chest", "side-delts", "lats"],
     secondary: ["biceps", "triceps", "rear-delts"],
     curve: "flat",

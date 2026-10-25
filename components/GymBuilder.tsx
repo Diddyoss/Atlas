@@ -8,8 +8,8 @@ import { useEffect, useMemo, useState } from "react";
 import { scoreGym, suggestAdditions, type BuildLine } from "@/lib/gym-score";
 import { MUSCLES } from "@/lib/muscles";
 import { formatSgd } from "@/lib/pricing";
-import { createIndex } from "@/lib/search";
-import { MOVEMENT_LABELS, MOVEMENTS, type CatalogueItem, type Movement } from "@/lib/types";
+import { createIndex, interleaveBrands } from "@/lib/search";
+import { LOADING_LABELS, LOADING_TYPES, MOVEMENT_LABELS, MOVEMENTS, type CatalogueItem, type Loading, type Movement } from "@/lib/types";
 
 const PRESETS = [
   { label: "Garage", budget: 40_000, blurb: "A serious home setup" },
@@ -371,20 +371,31 @@ function Picker({
 }) {
   const [q, setQ] = useState("");
   const [movement, setMovement] = useState<Movement | "">("");
+  const [brand, setBrand] = useState("");
+  const [loading, setLoading] = useState<Loading | "">("");
   const [era, setEra] = useState<"all" | "current" | "vintage">("all");
   const [affordable, setAffordable] = useState(false);
   const [shown, setShown] = useState(30);
   const index = useMemo(() => createIndex(items), [items]);
 
   const results = useMemo(() => {
-    const pool = q.trim() ? index.search(q).map((r) => r.item.item) : [...items].sort((a, b) => Number(!!b.images.length) - Number(!!a.images.length));
+    // With no query, mix brands so the largest catalogue doesn't fill the first pages
+    const pool = q.trim()
+      ? index.search(q).map((r) => r.item.item)
+      : interleaveBrands([...items].sort((a, b) => Number(!!b.images.length) - Number(!!a.images.length)));
     return pool.filter(
       (i) =>
         (!movement || i.movement === movement) &&
+        (!brand || i.brandSlug === brand) &&
+        (!loading || i.loading === loading) &&
         (era === "all" || (era === "vintage") === i.vintage) &&
         (!affordable || i.price.sgd <= remaining),
     );
-  }, [q, movement, era, affordable, remaining, items, index]);
+  }, [q, movement, brand, loading, era, affordable, remaining, items, index]);
+  const brands = useMemo(
+    () => [...new Map(items.map((i) => [i.brandSlug, i.brand.name])).entries()].sort((a, b) => a[1].localeCompare(b[1])),
+    [items],
+  );
 
   return (
     <section className="border border-rivet bg-steel p-5">
@@ -421,6 +432,34 @@ function Picker({
           <option value="all">New & vintage</option>
           <option value="current">Current only</option>
           <option value="vintage">Vintage only</option>
+        </select>
+      </div>
+      <div className="mt-2 grid gap-2 sm:grid-cols-2">
+        <select
+          value={brand}
+          onChange={(e) => setBrand(e.target.value)}
+          className="border border-rivet bg-ink px-3 py-2.5 font-mono text-xs text-ash"
+          aria-label="Brand"
+        >
+          <option value="">All brands</option>
+          {brands.map(([slug, name]) => (
+            <option key={slug} value={slug}>
+              {name}
+            </option>
+          ))}
+        </select>
+        <select
+          value={loading}
+          onChange={(e) => setLoading(e.target.value as Loading | "")}
+          className="border border-rivet bg-ink px-3 py-2.5 font-mono text-xs text-ash"
+          aria-label="Loading"
+        >
+          <option value="">All loading types</option>
+          {LOADING_TYPES.map((l) => (
+            <option key={l} value={l}>
+              {LOADING_LABELS[l]}
+            </option>
+          ))}
         </select>
       </div>
       <label className="label mt-3 flex cursor-pointer items-center gap-2 text-ash">

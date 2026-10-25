@@ -31,7 +31,11 @@ const RULES: Rule[] = [
   [/back ext|low back|lower back|lumbar|hyperext|hyper ext|back machine|posterior chain|\bback\b/i, "lower-back"],
   [/abdominal|ab crunch|\bab\b|\babs\b|crunch|torso|rotary|rotation|oblique|leg raise|knee raise|sit[- ]?up|roman chair|core|twist/i, "core"],
   [/belt squat|v-?squat|squat|lunge|jammer|ground base/i, "squat"],
-  [/functional trainer|freedom trainer|humansport|kinesis|cable column|crossover|dual pulley|dual adjustable|cable|multi[- ]?station|\bstation\b|multi gym|multi[- ]?flex|jungle|pulley|smith|bench|rack|cage/i, "multi"],
+  // Racks, Smith machines and multi-gyms stay "multi" even when they carry a pulley
+  [/smith|\brack\b|cage|jungle|multi[- ]?gym|multigym|multi[- ]?station|station gym|\d[- ]?stack|bench/i, "multi"],
+  [/functional trainer|freedom trainer|kinesis|dual adjustable|adjustable pulley|dual pulley|\bdap\b|\bft-?\d/i, "functional-trainer"],
+  [/crossover|cross over|cable cross|cable column|cable station|\bcable\b|pulley|\btower\b/i, "cable-crossover"],
+  [/\bstation\b|multi[- ]?flex|humansport/i, "multi"],
 ];
 
 export function classify(name: string): Movement | null {
@@ -45,7 +49,7 @@ export function classify(name: string): Movement | null {
 export function inferLoading(name: string, hint?: Loading): Loading {
   if (hint) return hint;
   if (/plate[- ]?load|\bplate\b|lever|iso-?lateral|ground base|leverage|pendulum|belt squat|hack|t-bar/i.test(name)) return "plate";
-  if (/functional trainer|cable|crossover|pulley|column/i.test(name)) return "cable";
+  if (/functional trainer|freedom trainer|kinesis|humansport|cable|crossover|cross over|pulley|column|\btower\b/i.test(name)) return "cable";
   if (/bench|rack|cage|smith|platform/i.test(name)) return "bench-rack";
   return "selectorized";
 }

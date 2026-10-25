@@ -5042,16 +5042,18 @@
   "name": "Cable Cross Over",
   "aliases": [],
   "loading": "cable",
-  "movement": "multi",
+  "movement": "cable-crossover",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
+   "side-delts",
+   "triceps"
   ],
   "secondaryMuscles": [
-   "front-delts",
-   "triceps",
-   "biceps"
+   "biceps",
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "abs"
   ],
   "isoLateral": false,
   "discontinued": false,
@@ -5071,20 +5073,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Cable column or crossover: near-constant tension, with the effective curve set by pulley height and your angle to the cable. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
    "ergonomics": 7,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
-   "adjustment": 8,
-   "beginner": 7,
+   "adjustment": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },
@@ -7260,17 +7262,21 @@
   "name": "Freedom Trainer",
   "series": "Humansport",
   "aliases": [],
-  "loading": "selectorized",
-  "movement": "multi",
+  "loading": "cable",
+  "movement": "functional-trainer",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
-  ],
-  "secondaryMuscles": [
-   "front-delts",
+   "side-delts",
    "triceps",
    "biceps"
+  ],
+  "secondaryMuscles": [
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "glutes",
+   "abs",
+   "obliques"
   ],
   "isoLateral": false,
   "discontinued": false,
@@ -7290,20 +7296,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Two adjustable pulleys: near-constant cable tension, with the effective curve set by your angle to the line of pull. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
-   "ergonomics": 7,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
+   "ergonomics": 8,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
    "adjustment": 8,
-   "beginner": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },
@@ -7545,16 +7551,20 @@
   "series": "Inspiration",
   "aliases": [],
   "loading": "cable",
-  "movement": "multi",
+  "movement": "functional-trainer",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
-  ],
-  "secondaryMuscles": [
-   "front-delts",
+   "side-delts",
    "triceps",
    "biceps"
+  ],
+  "secondaryMuscles": [
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "glutes",
+   "abs",
+   "obliques"
   ],
   "isoLateral": true,
   "discontinued": false,
@@ -7574,20 +7584,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Two adjustable pulleys: near-constant cable tension, with the effective curve set by your angle to the line of pull. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
-   "ergonomics": 7,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
+   "ergonomics": 8,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
    "adjustment": 8,
-   "beginner": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },
@@ -7617,16 +7627,20 @@
   "series": "Instinct",
   "aliases": [],
   "loading": "cable",
-  "movement": "multi",
+  "movement": "functional-trainer",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
-  ],
-  "secondaryMuscles": [
-   "front-delts",
+   "side-delts",
    "triceps",
    "biceps"
+  ],
+  "secondaryMuscles": [
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "glutes",
+   "abs",
+   "obliques"
   ],
   "isoLateral": true,
   "discontinued": false,
@@ -7646,20 +7660,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Two adjustable pulleys: near-constant cable tension, with the effective curve set by your angle to the line of pull. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
-   "ergonomics": 7,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
+   "ergonomics": 8,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
    "adjustment": 8,
-   "beginner": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },
@@ -9599,16 +9613,20 @@
   "name": "Humansport Freedom Trainer",
   "aliases": [],
   "loading": "cable",
-  "movement": "multi",
+  "movement": "functional-trainer",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
-  ],
-  "secondaryMuscles": [
-   "front-delts",
+   "side-delts",
    "triceps",
    "biceps"
+  ],
+  "secondaryMuscles": [
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "glutes",
+   "abs",
+   "obliques"
   ],
   "isoLateral": false,
   "discontinued": false,
@@ -9628,20 +9646,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Two adjustable pulleys: near-constant cable tension, with the effective curve set by your angle to the line of pull. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
-   "ergonomics": 7,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
+   "ergonomics": 8,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
    "adjustment": 8,
-   "beginner": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },
@@ -9832,16 +9850,20 @@
   "series": "Nitro",
   "aliases": [],
   "loading": "cable",
-  "movement": "multi",
+  "movement": "functional-trainer",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
-  ],
-  "secondaryMuscles": [
-   "front-delts",
+   "side-delts",
    "triceps",
    "biceps"
+  ],
+  "secondaryMuscles": [
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "glutes",
+   "abs",
+   "obliques"
   ],
   "isoLateral": false,
   "discontinued": true,
@@ -9861,20 +9883,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Two adjustable pulleys: near-constant cable tension, with the effective curve set by your angle to the line of pull. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
-   "ergonomics": 7,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
+   "ergonomics": 8,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
    "adjustment": 8,
-   "beginner": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },
@@ -10449,16 +10471,20 @@
   "series": "Inspiration",
   "aliases": [],
   "loading": "cable",
-  "movement": "multi",
+  "movement": "functional-trainer",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
-  ],
-  "secondaryMuscles": [
-   "front-delts",
+   "side-delts",
    "triceps",
    "biceps"
+  ],
+  "secondaryMuscles": [
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "glutes",
+   "abs",
+   "obliques"
   ],
   "isoLateral": true,
   "discontinued": false,
@@ -10478,20 +10504,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Two adjustable pulleys: near-constant cable tension, with the effective curve set by your angle to the line of pull. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
-   "ergonomics": 7,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
+   "ergonomics": 8,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
    "adjustment": 8,
-   "beginner": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },

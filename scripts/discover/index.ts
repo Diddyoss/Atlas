@@ -154,7 +154,12 @@ async function main() {
       name: raw.name,
       series: raw.series,
       movement,
-      loading: movement === "multi" && /bench|rack|smith|cage/i.test(raw.name) ? "bench-rack" : loading,
+      loading:
+        movement === "multi" && /bench|rack|smith|cage/i.test(raw.name)
+          ? "bench-rack"
+          : movement === "functional-trainer" || movement === "cable-crossover"
+            ? "cable"
+            : loading,
       isoLateral: isIsoLateral(raw.name),
       discontinued: raw.discontinued ?? false,
       image: raw.image ? { src: raw.image, credit: raw.credit, sourceUrl: raw.url } : undefined,

@@ -103,6 +103,11 @@ export function typicalNewUsd(item: Pick<Equipment, "movement" | "loading" | "na
     if (/bench/.test(n)) return 1100;
     return 1800;
   }
+  if (item.movement === "functional-trainer") return /home|compact|mi\d/.test(n) ? 3800 : 6200;
+  if (item.movement === "cable-crossover") {
+    if (/crossover|cross over|cable cross|tower|\d-?station/.test(n)) return 8800;
+    return 4200;
+  }
   if (item.movement === "multi") {
     if (/jungle|station|multi.?gym|\d-stack/.test(n)) return 14000;
     if (/smith/.test(n)) return 4500;
@@ -140,7 +145,7 @@ export function priceInSgd(
   const size =
     item.loading === "bench-rack" && /bench/.test(name) && !/smith|rack/.test(name)
       ? "light"
-      : HEAVY.has(item.movement) || item.movement === "multi" || /smith|rack/.test(name)
+      : HEAVY.has(item.movement) || item.movement === "multi" || item.movement === "cable-crossover" || /smith|rack/.test(name)
         ? "heavy"
         : "standard";
   const listed = item.listPrice;

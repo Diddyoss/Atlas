@@ -702,16 +702,18 @@
   "series": "Icarian",
   "aliases": [],
   "loading": "cable",
-  "movement": "multi",
+  "movement": "cable-crossover",
   "primaryMuscles": [
    "chest",
-   "lats",
-   "quads"
+   "side-delts",
+   "triceps"
   ],
   "secondaryMuscles": [
-   "front-delts",
-   "triceps",
-   "biceps"
+   "biceps",
+   "lats",
+   "upper-back",
+   "rear-delts",
+   "abs"
   ],
   "isoLateral": false,
   "discontinued": false,
@@ -731,20 +733,20 @@
     90,
     88
    ],
-   "notes": "Multi-purpose station: the profile depends on the exercise and your angle to the cable or bar. Estimated from the movement type."
+   "notes": "Cable column or crossover: near-constant tension, with the effective curve set by pulley height and your angle to the cable. Estimated from the movement type."
   },
   "feel": {
-   "smoothness": 7,
-   "stability": 7,
-   "stretch": 7,
-   "rom": 8,
+   "smoothness": 8,
+   "stability": 6,
+   "stretch": 8,
+   "rom": 9,
    "ergonomics": 7,
    "build": 7
   },
   "accessibility": {
    "entry": 8,
-   "adjustment": 8,
-   "beginner": 7,
+   "adjustment": 7,
+   "beginner": 8,
    "startingResistanceKg": 5,
    "transferFriendly": false
   },

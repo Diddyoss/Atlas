@@ -24,7 +24,15 @@ describe("classify", () => {
     ["Low Back Extension", "lower-back"],
     ["Abdominal Crunch", "core"],
     ["Belt Squat", "squat"],
-    ["Functional Trainer", "multi"],
+    ["Functional Trainer", "functional-trainer"],
+    ["Dual Adjustable Pulley", "functional-trainer"],
+    ["Kinesis One", "functional-trainer"],
+    ["Adjustable Cable Crossover", "cable-crossover"],
+    ["High Low Pulley", "cable-crossover"],
+    ["8-Station Tower", "cable-crossover"],
+    ["Power Rack With Dual Adjustable Pulley", "multi"],
+    ["Jungle Machine HLP", "multi"],
+    ["Cable Crossover Multigym", "multi"],
   ])("%s → %s", (name, movement) => {
     expect(classify(name)).toBe(movement);
   });

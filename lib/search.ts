@@ -58,6 +58,25 @@ export function createIndex(items: CatalogueItem[]) {
 
 type Index = ReturnType<typeof createIndex>;
 
+/**
+ * Deal items out one brand at a time, so an unsorted list isn't dominated by whichever brand has the
+ * biggest catalogue. Order within each brand is kept.
+ */
+export function interleaveBrands<T extends { brandSlug: string }>(items: T[]): T[] {
+  const byBrand = new Map<string, T[]>();
+  for (const i of items) {
+    const list = byBrand.get(i.brandSlug);
+    if (list) list.push(i);
+    else byBrand.set(i.brandSlug, [i]);
+  }
+  const queues = [...byBrand.values()];
+  const out: T[] = [];
+  for (let round = 0; out.length < items.length; round++) {
+    for (const q of queues) if (round < q.length) out.push(q[round]);
+  }
+  return out;
+}
+
 export function filterItems(items: CatalogueItem[], f: Filters, index?: Index): CatalogueItem[] {
   let pool = items;
   const q = f.q.trim();

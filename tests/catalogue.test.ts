@@ -1,12 +1,53 @@
 import { describe, expect, it } from "vitest";
 import { buildCatalogue, getCatalogue, mergeScraped } from "@/lib/catalogue";
 import { bestIndexes, parseCompareIds, rowDiffers, stretchBias } from "@/lib/compare";
-import { EMPTY_FILTERS, filterItems, filtersFromParams, filtersToParams } from "@/lib/search";
+import { EMPTY_FILTERS, filterItems, filtersFromParams, filtersToParams, interleaveBrands } from "@/lib/search";
 import { createRateLimiter, VoteSchema } from "@/lib/votes";
 import { inferShape, CURVES } from "@/data/define";
 import type { Brand, Equipment } from "@/lib/types";
 
 const items = getCatalogue();
+
+describe("cable stations and functional trainers", () => {
+  const cableBrands = (movement: string) => new Set(items.filter((i) => i.movement === movement && !i.vintage).map((i) => i.brandSlug));
+
+  it("lists functional trainers from many current brands", () => {
+    const brands = cableBrands("functional-trainer");
+    for (const b of ["panatta", "life-fitness", "prime-fitness", "watson", "technogym", "nautilus", "gym80", "hoist"]) expect(brands).toContain(b);
+  });
+
+  it("lists cable crossovers and stations from several brands", () => {
+    expect(cableBrands("cable-crossover").size).toBeGreaterThanOrEqual(6);
+  });
+
+  it("files them under cable loading, and keeps racks and multi-gyms out", () => {
+    const cable = items.filter((i) => i.movement === "functional-trainer" || i.movement === "cable-crossover");
+    expect(cable.every((i) => i.loading === "cable")).toBe(true);
+    expect(cable.some((i) => /rack|jungle|multi ?gym/i.test(i.name))).toBe(false);
+  });
+
+  it("finds them by search", () => {
+    const r = filterItems(items, { ...EMPTY_FILTERS, q: "functional trainer" });
+    expect(new Set(r.slice(0, 10).map((i) => i.brandSlug)).size).toBeGreaterThan(3);
+  });
+});
+
+describe("brand interleaving", () => {
+  it("deals brands out in turn and keeps every item", () => {
+    const list = [
+      { brandSlug: "a", n: 1 },
+      { brandSlug: "a", n: 2 },
+      { brandSlug: "a", n: 3 },
+      { brandSlug: "b", n: 4 },
+      { brandSlug: "c", n: 5 },
+    ];
+    expect(interleaveBrands(list).map((x) => x.n)).toEqual([1, 4, 5, 2, 3]);
+  });
+
+  it("shows many brands in the first page of an unsearched catalogue", () => {
+    expect(new Set(interleaveBrands(items).slice(0, 30).map((i) => i.brandSlug)).size).toBeGreaterThanOrEqual(15);
+  });
+});
 
 describe("search and filters", () => {
   it("finds pendulum squats by fuzzy name", () => {
